@@ -27,7 +27,7 @@ namespace API.Extensions
                     return new BadRequestObjectResult(errorResponse);
                 };
             });
-            
+
             return services;
         }
     }
