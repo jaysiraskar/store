@@ -1,7 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
-header
+.bg-dark
 {
-  background: #001F3F;
+  background: #001F3F !important;
 }
 
 .nav-link, .nav-link:visited{
@@ -41,4 +42,12 @@ header
   background: #DAA520;
   border-color: #DAA520;
   color: #001F3F;
+}
+
+.form-control:focus {
+  color: var(--bs-body-color);
+  background-color: var(--bs-body-bg);
+  border-color: #DAA520 !important;
+  outline: 0;
+  box-shadow: 0 0 0 0.25rem rgba(218, 165, 32,.25) !important;
 }
