@@ -1,4 +1,21 @@
-.logo-style{
+.cart-no {
+  position: absolute;
+  min-height: 25px;
+  min-width: 25px;
+  border-radius: 50%;
+  background: #FFF;
+  opacity: 0.7;
+  color: #001F3F;
+  text-align: center;
+  top: -12px;
+  right: 32px;
+}
+
+.fa {
+  color: #DAA520;
+}
+
+.logo-style {
   color: #FDF5E6;
   font-family: 'Montserrat', sans-serif;
 }
