@@ -1,7 +1,44 @@
-/* You can add global styles to this file, and also import other style files */
 
-/* Importing Bootstrap SCSS file. */
-@import "./node_modules/bootstrap/scss/bootstrap";
+header
+{
+  background: #001F3F;
+}
 
-/* Importing Datepicker SCSS file. */
-@import "node_modules/ngx-bootstrap/datepicker/bs-datepicker";
+.nav-link, .nav-link:visited{
+  color: #FDF5E6;
+}
+
+.nav-link:hover{
+  color: #DAA520;
+}
+
+.btn:active{
+  background: #DAA520 !important;
+  border-color: #DAA520 !important;
+  color: #001F3F !important;
+}
+
+.btn-primary{
+  background: #DAA520;
+  border-color: #DAA520;
+  color: #001F3F;
+}
+
+.btn-primary:hover{
+  background: #BB8D19;
+  border-color: #BB8D19;
+  color: #001F3F;
+}
+
+.btn-outline-primary{
+  background: transparent;
+  border-color: #DAA520;
+  color: #DAA520;
+}
+
+
+.btn-outline-primary:hover{
+  background: #DAA520;
+  border-color: #DAA520;
+  color: #001F3F;
+}
