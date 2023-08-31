@@ -19,3 +19,12 @@
   color: #FDF5E6;
   font-family: 'Montserrat', sans-serif;
 }
+
+a {
+  &.active {
+    color: #DAA520 !important;
+  }
+  & :hover{
+    color: #DAA520 !important;
+  }
+}
