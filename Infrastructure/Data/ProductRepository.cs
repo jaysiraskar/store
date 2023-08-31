@@ -30,10 +30,16 @@ namespace Infrastructure.Data
             return await context.Products
             .Include(p => p.ProductType)
             .Include(p => p.ProductBrand)
+            .Include(p => p.ProductRating)
             .ToListAsync();
         }
 
         public async Task<IReadOnlyList<ProductType>> GetProductTypesAsync()
+        {
+            return await context.ProductTypes.ToListAsync();
+        }
+
+        public async Task<IReadOnlyList<ProductType>> GetProductRatingsAsync()
         {
             return await context.ProductTypes.ToListAsync();
         }

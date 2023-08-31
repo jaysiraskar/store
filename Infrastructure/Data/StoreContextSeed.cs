@@ -1,6 +1,6 @@
-using System.Text.Json;
 using Core.Entities;
 using Microsoft.Extensions.Logging;
+using System.Text.Json;
 
 namespace Infrastructure.Data
 {
@@ -47,8 +47,22 @@ namespace Infrastructure.Data
                     }
                     await context.SaveChangesAsync();
                 }
+
+                if (!context.ProductRatings.Any())
+                {
+                    var ratingsData = File.ReadAllText("../Infrastructure/Data/SeedData/ratings.json");
+
+                    var ratings = JsonSerializer.Deserialize<List<ProductRating>>(ratingsData);
+
+                    foreach (var item in ratings)
+                    {
+                        context.ProductRatings.Add(item);
+                    }
+                    await context.SaveChangesAsync();
+                }
             }
-            catch(Exception ex){
+            catch (Exception ex)
+            {
                 var logger = loggerFactory.CreateLogger<StoreContextSeed>();
                 logger.LogError(ex.Message);
             }

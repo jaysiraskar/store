@@ -1,0 +1,112 @@
+﻿[
+  {
+    "Rating": 4.00,
+    "Review": "Great board for beginners!",
+    "ProductId": 1
+  },
+  {
+    "Rating": 5.00,
+    "Review": "Amazing quality and design.",
+    "ProductId": 1
+  },
+  {
+    "Rating": 3.00,
+    "Review": "Decent board, but could be better.",
+    "ProductId": 2
+  },
+  {
+    "Rating": 4.00,
+    "Review": "Love the color and smooth ride.",
+    "ProductId": 2
+  },
+  {
+    "Rating": 4.00,
+    "Review": "Solid performance on this board.",
+    "ProductId": 3
+  },
+  {
+    "Rating": 5.00,
+    "Review": "Fast and durable board!",
+    "ProductId": 3
+  },
+  {
+    "Rating": 3.00,
+    "Review": "Good board but a bit expensive.",
+    "ProductId": 4
+  },
+  {
+    "Rating": 4.00,
+    "Review": "High-quality board with great features.",
+    "ProductId": 4
+  },
+  {
+    "Rating": 5.00,
+    "Review": "Impressive speed and stability.",
+    "ProductId": 5
+  },
+  {
+    "Rating": 4.00,
+    "Review": "Nice entry-level board.",
+    "ProductId": 5
+  },
+  {
+    "Rating": 4.00,
+    "Review": "Comfortable and stylish hat.",
+    "ProductId": 7
+  },
+  {
+    "Rating": 3.00,
+    "Review": "A bit tight on the head.",
+    "ProductId": 7
+  },
+  {
+    "Rating": 5.00,
+    "Review": "Warm and cozy hat for winter.",
+    "ProductId": 8
+  },
+  {
+    "Rating": 4.00,
+    "Review": "Great fit and color.",
+    "ProductId": 8
+  },
+  {
+    "Rating": 4.00,
+    "Review": "Nice pair of gloves for coding.",
+    "ProductId": 10
+  },
+  {
+    "Rating": 3.00,
+    "Review": "Not as comfortable as expected.",
+    "ProductId": 10
+  },
+  {
+    "Rating": 5.00,
+    "Review": "Perfect gloves for coding sessions.",
+    "ProductId": 11
+  },
+  {
+    "Rating": 4.00,
+    "Review": "Decent quality but a bit pricey.",
+    "ProductId": 11
+  },
+  {
+    "Rating": 3.00,
+    "Review": "Solid boots, but could use more padding.",
+    "ProductId": 13
+  },
+  {
+    "Rating": 4.00,
+    "Review": "Stylish and reliable boots.",
+    "ProductId": 13
+  },
+  {
+    "Rating": 5.00,
+    "Review": "Excellent boots for all conditions.",
+    "ProductId": 14
+  },
+  {
+    "Rating": 4.00,
+    "Review": "Durable and comfortable boots.",
+    "ProductId": 14
+  }
+]
