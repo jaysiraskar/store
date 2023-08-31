@@ -1,12 +1,15 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-
+import { PagingHeaderComponent } from './components/paging-header/paging-header.component';
 
 
 @NgModule({
-  declarations: [],
+  declarations: [PagingHeaderComponent],
   imports: [
-    CommonModule
+    CommonModule,
+  ],
+  exports: [
+    PagingHeaderComponent
   ]
 })
 export class SharedModule { }

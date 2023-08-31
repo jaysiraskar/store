@@ -3,6 +3,7 @@ import { Product } from '../shared/models/product';
 import { ShopService } from './shop.service';
 import { Brand } from '../shared/models/brand';
 import { Type } from '../shared/models/productType';
+import { ShopParmas } from '../shared/models/shopParams';
 
 @Component({
   selector: 'app-shop',
@@ -14,9 +15,9 @@ export class ShopComponent implements OnInit {
   products: Product[] = [];
   brands: Brand[] = [];
   types: Type[] = [];
-  brandIdSelected = 0;
-  typeIdSelected = 0;
-  sortSelected = 'name';
+  shopParams = new ShopParmas();
+  totalCount = 0;
+
   sortOptions = [
     {name: 'Alphabetical', value: 'name'},
     {name: 'Price: Low to High', value: 'priceAsc'},
@@ -32,10 +33,13 @@ export class ShopComponent implements OnInit {
   }
 
   getProducts() {
-    this.shopService.getProducts(this.brandIdSelected, this.typeIdSelected, this.sortSelected).subscribe(
+    this.shopService.getProducts(this.shopParams).subscribe(
       response => {
         if (response && response.data) {
           this.products = response.data;
+          this.shopParams.pageNumber = response.pageIndex;
+          this.shopParams.pageSize = response.pageSize;
+          this.totalCount = response.count;
         }
       },
       error => {
@@ -61,17 +65,22 @@ export class ShopComponent implements OnInit {
   }
 
   onBrandSelected(brandId: number){
-    this.brandIdSelected = brandId;
+    this.shopParams.brandId = brandId;
     this.getProducts();
   }
 
   onTypeSelected(typeId: number){
-    this.typeIdSelected = typeId;
+    this.shopParams.typeId = typeId;
     this.getProducts();
   }
 
   onSortSelected(sort: string){
-    this.sortSelected = sort;
+    this.shopParams.sort = sort;
+    this.getProducts();
+  }
+
+  onPageChanged(event: any){
+    this.shopParams.pageNumber = event.page;
     this.getProducts();
   }
 }

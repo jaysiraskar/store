@@ -19,7 +19,6 @@ import { ShopModule } from './shop/shop.module';
     HttpClientModule,
     CoreModule,
     ShopModule
-
   ],
   providers: [],
   bootstrap: [AppComponent]
