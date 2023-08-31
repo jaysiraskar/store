@@ -5,9 +5,19 @@
   background: #001F3F !important;
 }
 
+.active, .active>.page-link{
+  background: #001F3F !important;
+  border-color: #001F3F !important;
+  color: #FDF5E6 !important;
+}
+
+.page-link{
+  color: #001F3F !important;
+}
+
 //text in angular site.
 .text-primary{
-  color: #001F3F;
+  color: #001F3F !important;
 }
 
 .text-secondary{
