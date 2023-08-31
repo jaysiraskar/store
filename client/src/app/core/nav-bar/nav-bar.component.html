@@ -1,14 +1,14 @@
-<div
-  class="bg-dark d-flex flex-wrap align-items-center justify-content-center justify-content-md-between p-3 mb-4 border-bottom">
-  <div class="col-md-3 mb-2 mb-md-0 fixed-top position-relative">
-    <a href="/" class="d-inline-flex link-body-emphasis text-decoration-none">
-      <h1 class="logo-style"> <i class="fa fa-shopping-basket"></i> store</h1>
-    </a>
-  </div>
+<nav
+  class="bg-dark d-flex flex-wrap align-items-center justify-content-center justify-content-md-between p-3 mb-4 border-bottom fixed-top">
 
+<h1 [routerLink]="['/']" role="button" class="logo-style cursor-pointer"> <i class="fa fa-shopping-basket"></i> store</h1>
+
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
   <ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0 text-uppercase">
-    <li><a href="#" class="nav-link px-2">Home</a></li>
-    <li><a href="#" class="nav-link px-2">Shop</a></li>
+    <li><a [routerLink]="['/']" routerLinkActive="active"  [routerLinkActiveOptions]="{exact: true}"  class="nav-link px-2">Home</a></li>
+    <li><a [routerLink]="['/shop']" routerLinkActive="active" class="nav-link px-2">Shop</a></li>
     <li><a href="#" class="nav-link px-2">Contact</a></li>
   </ul>
 
@@ -20,4 +20,4 @@
     <button type="button" class="btn btn-outline-primary me-2">Login</button>
     <button type="button" class="btn btn-primary">Sign-up</button>
   </div>
-</div>
+</nav>
