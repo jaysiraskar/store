@@ -1,5 +1,4 @@
-<nav
-  class="bg-dark d-flex flex-wrap align-items-center justify-content-center justify-content-md-between p-3 mb-4 border-bottom fixed-top">
+<nav class="navbar navbar-expand-lg bg-dark d-flex flex-wrap align-items-center justify-content-center justify-content-md-between p-3 sticky-top">
 
 <h1 [routerLink]="['/']" role="button" class="logo-style cursor-pointer"> <i class="fa fa-shopping-basket"></i> store</h1>
 
@@ -9,7 +8,7 @@
   <ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0 text-uppercase">
     <li><a [routerLink]="['/']" routerLinkActive="active"  [routerLinkActiveOptions]="{exact: true}"  class="nav-link px-2">Home</a></li>
     <li><a [routerLink]="['/shop']" routerLinkActive="active" class="nav-link px-2">Shop</a></li>
-    <li><a href="#" class="nav-link px-2">Contact</a></li>
+    <li><a [routerLink]="['/test-error']" routerLinkActive="active" class="nav-link px-2">Errors</a></li>
   </ul>
 
   <div class="d-flex justify-content-between align-items-center">
