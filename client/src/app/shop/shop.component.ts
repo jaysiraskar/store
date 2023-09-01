@@ -1,4 +1,4 @@
-import { Component, ElementRef, OnInit, ViewChild } from '@angular/core';
+import { Component, ElementRef, OnDestroy, OnInit, ViewChild } from '@angular/core';
 import { Product } from '../shared/models/product';
 import { ShopService } from './shop.service';
 import { Brand } from '../shared/models/brand';
@@ -11,7 +11,7 @@ import { ShopParmas } from '../shared/models/shopParams';
   styleUrls: ['./shop.component.scss']
 })
 export class ShopComponent implements OnInit {
-  @ViewChild('search', {static: true}) searchTerm!: ElementRef;
+  @ViewChild('search', {static: false}) searchTerm!: ElementRef;
   products: Product[] = [];
   brands: Brand[] = [];
   types: Type[] = [];
@@ -44,8 +44,7 @@ export class ShopComponent implements OnInit {
       },
       error => {
         console.log(error);
-      }
-    );
+      });
   }
 
   getBrands(){

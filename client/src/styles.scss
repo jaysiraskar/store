@@ -3,6 +3,7 @@
 body{
   font-family: 'Montserrat', sans-serif;
 }
+
 a{
   text-decoration: none;
 }
@@ -81,4 +82,20 @@ a{
 .rounded-section {
   border-radius: 10px;
   border: 1px solid rgba(0, 31, 63, 0.1);
+}
+
+.xng-breadcrumb-root{
+  padding: 8px 16px;
+  display: inline;
+  border-radius: 0;
+}
+
+label.xng-breadcrumb-trail{
+  margin-bottom: 0;
+  color: #DAA520;
+  font-weight: bold;
+}
+
+.xng-breadcrumb-separator{
+  padding: 0;
 }
