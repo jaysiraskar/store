@@ -12,10 +12,11 @@ namespace API.Controllers
             basketRepository = _basketRepository;
         }
 
-        [HttpGet]
+   [HttpGet]
         public async Task<ActionResult<CustomerBasket>> GetBasketById(string id)
         {
             var basket = await basketRepository.GetBasketAsync(id);
+
             return Ok(basket ?? new CustomerBasket(id));
         }
 
