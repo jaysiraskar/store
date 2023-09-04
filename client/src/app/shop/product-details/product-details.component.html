@@ -12,15 +12,18 @@
       <p class="fs-2 fw-semibold">{{ product.price | currency : "INR" }}</p>
       <div class="d-flex justify-content-start align-items-center">
         <i
+        (click)="decrementQuantity()"
           class="fa fa-minus-circle text-warning"
           style="cursor: pointer; font-size: 2em"
         ></i>
-        <span class="fw-bold mx-2"> 2 </span>
+        <span class="fw-bold mx-2"> {{quantity}} </span>
         <i
+        (click)="incrementQuantity()"
           class="fa fa-plus-circle text-warning"
           style="cursor: pointer; font-size: 2em"
         ></i>
         <button
+        (click)="addItemToBasket()"
           class="ms-4 px-4 btn btn-primary text-xl-center fw-semibold d-flex align-items-center justify-content-center"
         >
           <i class="mx-2 fa fa-shopping-cart fa-2x"> </i>
