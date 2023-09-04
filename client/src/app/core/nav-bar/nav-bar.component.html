@@ -12,9 +12,9 @@
   </ul>
 
   <div class="d-flex justify-content-between align-items-center">
-    <a class="position-relative" href="">
+    <a routerLink="/basket" class="position-relative" href="">
       <i class="fa fa-shopping-cart me-5 fa-2x"></i>
-      <div class="cart-no">5</div>
+      <div *ngIf="(basket$ | async) as basket" class="cart-no">{{basket.items.length}}</div>
     </a>
     <button type="button" class="btn btn-outline-primary me-2">Login</button>
     <button type="button" class="btn btn-primary">Sign-up</button>
