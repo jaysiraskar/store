@@ -3,6 +3,7 @@ using API.Helpers;
 using API.Middleware;
 using Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
+using StackExchange.Redis;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,7 +14,7 @@ builder.Services.AddAutoMapper(typeof(MappingProfiles));
 
 builder.Services.AddControllers();
 builder.Services.AddDbContext<StoreContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
-builder.Services.AddApplicationServices();  
+builder.Services.AddApplicationServices(builder.Configuration);  
 builder.Services.AddSwaggerDocumentation();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 
