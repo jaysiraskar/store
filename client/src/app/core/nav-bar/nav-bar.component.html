@@ -1,22 +1,91 @@
-<nav class="navbar navbar-expand-lg bg-dark d-flex flex-wrap align-items-center justify-content-center justify-content-md-between p-3 sticky-top">
-
-<h1 [routerLink]="['/']" role="button" class="logo-style cursor-pointer"> <i class="fa fa-shopping-basket"></i> store</h1>
-
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-  <ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0 text-uppercase">
-    <li><a [routerLink]="['/']" routerLinkActive="active"  [routerLinkActiveOptions]="{exact: true}"  class="nav-link px-2">Home</a></li>
-    <li><a [routerLink]="['/shop']" routerLinkActive="active" class="nav-link px-2">Shop</a></li>
-    <li><a [routerLink]="['/test-error']" routerLinkActive="active" class="nav-link px-2">Errors</a></li>
+<nav
+  class="navbar navbar-expand-lg bg-dark d-flex flex-wrap align-items-center justify-content-center justify-content-md-between p-3 sticky-top"
+>
+  <h1 [routerLink]="['/']" role="button" class="logo-style cursor-pointer">
+    <i class="fa fa-shopping-basket"></i> store
+  </h1>
+  <ul
+    class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0 text-uppercase"
+  >
+    <li>
+      <a
+        [routerLink]="['/']"
+        routerLinkActive="active"
+        [routerLinkActiveOptions]="{ exact: true }"
+        class="nav-link px-2"
+        >Home</a
+      >
+    </li>
+    <li>
+      <a
+        [routerLink]="['/shop']"
+        routerLinkActive="active"
+        class="nav-link px-2"
+        >Shop</a
+      >
+    </li>
+    <li>
+      <a
+        [routerLink]="['/test-error']"
+        routerLinkActive="active"
+        class="nav-link px-2"
+        >Errors</a
+      >
+    </li>
   </ul>
 
   <div class="d-flex justify-content-between align-items-center">
     <a routerLink="/basket" class="position-relative" href="">
       <i class="fa fa-shopping-cart me-5 fa-2x"></i>
-      <div *ngIf="(basket$ | async) as basket" class="cart-no">{{basket.items.length}}</div>
+      <div *ngIf="basket$ | async" class="cart-no">
+        {{ (basket$ | async)?.items?.length }}
+      </div>
     </a>
-    <button type="button" class="btn btn-outline-primary me-2">Login</button>
-    <button type="button" class="btn btn-primary">Sign-up</button>
+    <ng-container *ngIf="(currentUser$ | async) === null">
+      <button
+        routerLink="/account/login"
+        type="button"
+        class="btn btn-outline-primary me-2"
+      >
+        Login
+      </button>
+      <button
+        routerLink="/account/register"
+        type="button"
+        class="btn btn-primary"
+      >
+        Sign-up
+      </button>
+    </ng-container>
+    <ng-container *ngIf="currentUser$ | async">
+      <div class="dropdown ms-3 pe-5" dropdown>
+        <a
+          class="text-white dropdown-toggle"
+          style="cursor: pointer"
+          dropdownToggle
+          ><strong
+            >Welcome, {{ (currentUser$ | async)?.displayName }}</strong
+          ></a
+        >
+        <ul class="dropdown-menu" *dropdownMenu>
+          <li>
+            <a routerLink="/basket" class="dropdown-item d-flex align-items-center py-2" style="cursor: pointer;">
+              <i class="fa fa-shopping-cart me-3"></i>View Basket</a
+            >
+          </li>
+          <li>
+            <a routerLink="/orders" class="dropdown-item d-flex align-items-center py-2" style="cursor: pointer;"
+              ><i class="fa fa-history me-3"></i>View Orders</a
+            >
+          </li>
+          <div class="dropdown-divider bg-divider"></div>
+          <li>
+            <a (click)="logout()" class="dropdown-item d-flex align-items-center py-2" style="cursor: pointer;"
+              ><i class="fa fa-sign-out me-3"></i>logout</a
+            >
+          </li>
+        </ul>
+      </div>
+    </ng-container>
   </div>
 </nav>
