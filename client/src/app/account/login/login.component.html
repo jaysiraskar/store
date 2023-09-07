@@ -2,15 +2,13 @@
   <div class="col-3">
     <form [formGroup]="loginForm" (ngSubmit)="onSubmit()">
       <div class="text-center mb-4">
-        <h1 class="mb-3">Login</h1>
+        <h1 class="h3 mb-3 font-weight-normal">Login</h1>
       </div>
 
-      <app-text-input [formControl]="loginForm.controls['email']" [label]="'Email Address'"></app-text-input>
-      <app-text-input [formControl]="loginForm.controls['password']" [label]="'Password'" [type]="'password'"></app-text-input>
+      <app-text-input formControlName="email" [label]="'Email Address'"></app-text-input>
+      <app-text-input formControlName="password" [label]="'Password'" [type]="'password'"></app-text-input>
 
-      <div class="d-grid">
-        <button [disabled]="loginForm.invalid" class="btn btn-lg btn-primary mt-3" type="submit">Sign in</button>
-      </div>
+      <button [disabled]="loginForm.invalid" class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
     </form>
   </div>
 </div>
