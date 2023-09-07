@@ -3,7 +3,6 @@ using AutoMapper;
 using Core.Entities;
 using Core.Entities.Identity;
 
-
 namespace API.Helpers
 {
     public class MappingProfiles : Profile
@@ -18,6 +17,7 @@ namespace API.Helpers
             CreateMap<Address, AddressDto>().ReverseMap();
             CreateMap<CustomerBasketDto, CustomerBasket>();
             CreateMap<BasketItemDto, BasketItem>();
+            CreateMap<AddressDto, Core.Entities.OrderAggregate.Address>();
         }
     }
 }
