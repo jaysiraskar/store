@@ -9,8 +9,8 @@ import { Router, ActivatedRoute } from '@angular/router';
   styleUrls: ['./login.component.scss']
 })
 export class LoginComponent implements OnInit {
-  loginForm!: FormGroup;
-  returnUrl!: string;
+  loginForm: FormGroup;
+  returnUrl: string;
 
   constructor(private accountService: AccountService, private router: Router, private activatedRoute: ActivatedRoute) { }
 
