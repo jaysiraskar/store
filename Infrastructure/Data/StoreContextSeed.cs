@@ -1,4 +1,5 @@
 using Core.Entities;
+using Core.Entities.OrderAggregate;
 using Microsoft.Extensions.Logging;
 using System.Text.Json;
 
@@ -57,6 +58,19 @@ namespace Infrastructure.Data
                     foreach (var item in ratings)
                     {
                         context.ProductRatings.Add(item);
+                    }
+                    await context.SaveChangesAsync();
+                }
+
+                 if (!context.DeliveryMethods.Any())
+                {
+                    var dmData = File.ReadAllText("../Infrastructure/Data/SeedData/delivery.json");
+
+                    var methods = JsonSerializer.Deserialize<List<DeliveryMethod>>(dmData);
+
+                    foreach (var item in methods)
+                    {
+                        context.DeliveryMethods.Add(item);
                     }
                     await context.SaveChangesAsync();
                 }
