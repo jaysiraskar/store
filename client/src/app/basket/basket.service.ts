@@ -11,9 +11,9 @@ import { Product } from '../shared/models/product';
 })
 export class BasketService {
   baseUrl = environment.apiUrl;
-  private basketSource = new BehaviorSubject<IBasket>(null!);
+  private basketSource = new BehaviorSubject<IBasket>(null);
   basket$ = this.basketSource.asObservable();
-  private basketTotalSource = new BehaviorSubject<IBasketTotals>(null!);
+  private basketTotalSource = new BehaviorSubject<IBasketTotals>(null);
   basketTotal$ = this.basketTotalSource.asObservable();
 
   constructor(private http: HttpClient) {}
@@ -84,8 +84,8 @@ export class BasketService {
   }
   deleteBasket(basket: IBasket) {
     return this.http.delete(this.baseUrl + 'basket?id=' + basket.id).subscribe(() => {
-      this.basketSource.next(null!);
-      this.basketTotalSource.next(null!);
+      this.basketSource.next(null);
+      this.basketTotalSource.next(null);
       localStorage.removeItem('basket_id');
     }, error =>{
       console.log(error);

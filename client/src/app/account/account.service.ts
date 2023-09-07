@@ -11,8 +11,8 @@ import { Router } from '@angular/router';
 })
 export class AccountService {
   baseUrl = environment.apiUrl;
-  private currentUserSource = new BehaviorSubject<IUser>(null!);
-currentUser$ = this.currentUserSource.asObservable();
+  private currentUserSource = new BehaviorSubject<IUser>(null);
+  currentUser$ = this.currentUserSource.asObservable();
 
   constructor(private http: HttpClient, private router:Router) { }
 
@@ -57,7 +57,7 @@ currentUser$ = this.currentUserSource.asObservable();
 
   logout() {
     localStorage.removeItem('token');
-    this.currentUserSource.next(null!);
+    this.currentUserSource.next(null);
     this.router.navigateByUrl('/');
   }
 

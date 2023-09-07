@@ -11,7 +11,7 @@ import { BasketService } from 'src/app/basket/basket.service';
   styleUrls: ['./product-details.component.scss'],
 })
 export class ProductDetailsComponent implements OnInit {
-  product!: Product;
+  product: Product;
   quantity = 1;
 
   constructor(
@@ -43,7 +43,7 @@ export class ProductDetailsComponent implements OnInit {
 
   loadProduct() {
     this.shopService
-      .getProduct(+this.activateRoute.snapshot.paramMap.get('id')!)
+      .getProduct(+this.activateRoute.snapshot.paramMap.get('id'))
       .subscribe(
         (product) => {
           this.product = product;
