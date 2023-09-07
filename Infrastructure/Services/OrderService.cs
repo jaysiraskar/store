@@ -1,62 +1,71 @@
 using Core.Entities;
 using Core.Entities.OrderAggregate;
 using Core.Interfaces;
+using Core.Specifications;
 
 namespace Infrastructure.Services
 {
     public class OrderService : IOrderService
     {
         private readonly IBasketRepository basketRepository;
-        private readonly IGenericRepository<Product> productRepository;
-        private readonly IGenericRepository<DeliveryMethod> dmRepository;
-        private readonly IGenericRepository<Order> orderRepository;
+        private readonly IUnitOfWork unitOfWork;
 
-        public OrderService(IGenericRepository<Order> _orderRepository, IGenericRepository<DeliveryMethod> _dmRepository, IGenericRepository<Product> _productRepository, IBasketRepository _basketRepository)
+        public OrderService(IUnitOfWork _unitOfWork, IBasketRepository _basketRepository)
         {
-           orderRepository = _orderRepository;
-           dmRepository = _dmRepository;
-           productRepository = _productRepository;
-           basketRepository = _basketRepository;
+            unitOfWork = _unitOfWork;
+            basketRepository = _basketRepository;
         }
 
         public async Task<Order> CreateOrderAsync(string buyerEmail, int deliveryMethodId, string basketId, Address shippingAddress)
         {
             //get basket from the repo
             var basket = await basketRepository.GetBasketAsync(basketId);
+
             //get items from the product repo
             var items = new List<OrderItem>();
             foreach (var item in basket.Items)
             {
-                var productItem = await productRepository.GetByIdAsync(item.Id);
-                var itemOrdered = new ProductItemOrdered(productItem.Id, productItem.Name,productItem.PictureUrl);
+                var productItem = await unitOfWork.Repository<Product>().GetByIdAsync(item.Id);
+                var itemOrdered = new ProductItemOrdered(productItem.Id, productItem.Name, productItem.PictureUrl);
                 var orderItem = new OrderItem(itemOrdered, productItem.Price, item.Quantity);
                 items.Add(orderItem);
             }
+
             //get delivery method from repo
-            var deliveryMethod = await dmRepository.GetByIdAsync(deliveryMethodId);
+            var deliveryMethod = await unitOfWork.Repository<DeliveryMethod>().GetByIdAsync(deliveryMethodId);
             //calc subtotal
             var subtotal = items.Sum(item => item.Price * item.Quantity);
             //create order
             var order = new Order(items, buyerEmail, shippingAddress, deliveryMethod, subtotal);
-            //TODO: save to db
+            unitOfWork.Repository<Order>().Add(order);
+            //save to db
+            var result = await unitOfWork.Complete();
+
+            if (result <= 0) return null;
+
+            //delete basket
+            await basketRepository.DeleteBasketAsync(basketId);
+
             //return order
             return order;
         }
 
-        public Task<IReadOnlyList<DeliveryMethod>> GetDeliveryMethodAsync()
+        public async Task<IReadOnlyList<DeliveryMethod>> GetDeliveryMethodAsync()
         {
-            throw new NotImplementedException();
+            return await unitOfWork.Repository<DeliveryMethod>().ListAllAsync();
         }
 
-        public Task<Order> GetOrderById(int id, string buyerEmail)
+        public async Task<Order> GetOrderByIdAsync(int id, string buyerEmail)
         {
-            throw new NotImplementedException();
+            var spec = new OrdersWithItemsAndOrderingSpecification(id, buyerEmail);
+
+            return await unitOfWork.Repository<Order>().GetEntityWithSpec(spec);
         }
 
-        public Task<IReadOnlyList<Order>> GetOrdersForuserAsync(string BuyerEmail)
+        public async Task<IReadOnlyList<Order>> GetOrdersForUserAsync(string buyerEmail)
         {
-            throw new NotImplementedException();
+            var spec = new OrdersWithItemsAndOrderingSpecification(buyerEmail);
+            return await unitOfWork.Repository<Order>().ListAsync(spec);
         }
-
     }
 }
