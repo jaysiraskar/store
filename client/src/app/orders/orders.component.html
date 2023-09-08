@@ -1,0 +1,22 @@
+<div class="container mt-5">
+  <div class="row">
+    <table class="table table-hover" style="cursor: pointer">
+      <thead class="thead-light">
+        <tr>
+          <th>Orders</th>
+          <th>Date</th>
+          <th>Total</th>
+          <th>Status</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let order of orders" routerLink="/orders/{{ order.id }}">
+          <th># {{ order.id }}</th>
+          <td>{{ order.orderDate | date : "medium" }}</td>
+          <th>{{ order.total | currency : "INR" }}</th>
+          <th>{{ order.status }}</th>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
