@@ -27,4 +27,18 @@
   & :hover{
     color: #DAA520 !important;
   }
+
+}
+
+.dropdown-item.active, .dropdown-item:active {
+  background-color: #001F3F !important;
+}
+
+.dropdown-item:hover{
+  background-color: #DAA520 !important;
+  color: #001F3F;
+}
+
+.dropdown-item i, .dropdown-item:hover{
+  color: #001F3F;
 }
