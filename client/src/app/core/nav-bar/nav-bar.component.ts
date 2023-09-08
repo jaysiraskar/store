@@ -11,8 +11,8 @@ import { IUser } from 'src/app/shared/models/user';
   styleUrls: ['./nav-bar.component.scss'],
 })
 export class NavBarComponent implements OnInit {
-  basket$: Observable<IBasket>;
-  currentUser$: Observable<IUser>;
+  basket$!: Observable<IBasket>;
+  currentUser$!: Observable<IUser>;
 
   constructor(
     private basketService: BasketService,

@@ -15,8 +15,8 @@ import { map, of, switchMap, timer } from 'rxjs';
   styleUrls: ['./register.component.scss'],
 })
 export class RegisterComponent {
-  registerForm: FormGroup;
-  errors: string[];
+  registerForm!: FormGroup;
+  errors!: string[];
 
   constructor(
     private fb: FormBuilder,
