@@ -19,6 +19,6 @@ ngOnInit(): void {
 }
 
 addItemToBasket() {
-  this.basketService.addItemToBasket(this.product);
+  this.basketService.addItemToBasket(this.product!);
 }
 }

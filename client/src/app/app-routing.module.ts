@@ -16,7 +16,7 @@ const routes: Routes = [
   {
     path: 'server-error',
     component: ServerErrorComponent,
-    data: { breadcrumb: 'Server Errors' },
+    data: { breadcrumb: 'Server Error' },
   },
   {
     path: 'not-found',

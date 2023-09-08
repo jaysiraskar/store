@@ -1,0 +1,31 @@
+button.nav-link {
+  border-radius: 0;
+  border: none;
+
+  &:focus {
+      outline: none;
+  }
+  &.active:hover {
+      color: white;
+  }
+  & :active {
+      outline: none;
+  }
+  &.active:focus {
+      outline: none;
+  }
+}
+
+.nav-link{
+  color: #001F3F !important;
+  font-weight: 600;
+}
+.nav-item  .active{
+  color: #FDF5E6 !important;
+}
+
+.nav-pills{
+  background: #DAA520;
+}
+
+
