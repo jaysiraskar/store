@@ -1,8 +1,6 @@
-<div class="my-4">
-  <app-basket-summary
-    [isBasket]="false"
-    [item]="(basket$ | async).items"
-  ></app-basket-summary>
+<div class="mt-4">
+  <app-basket-summary [isBasket]="false" [items]="(basket$ | async)!.items">
+  </app-basket-summary>
 </div>
 
 <div
@@ -12,6 +10,6 @@
     <i class="fa fa-angle-left"></i> Back to Delivery
   </button>
   <button class="btn btn-primary" cdkStepperNext>
-    Go to Payments <i class="fa fa-angle-right"></i>
+    Go to Payment <i class="fa fa-angle-right"></i>
   </button>
 </div>

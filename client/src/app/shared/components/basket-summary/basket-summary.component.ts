@@ -10,12 +10,11 @@ import { IOrderItem } from '../../models/order';
   styleUrls: ['./basket-summary.component.scss']
 })
 export class BasketSummaryComponent implements OnInit {
-
   @Output() decrement: EventEmitter<IBasketItem> = new EventEmitter<IBasketItem>();
   @Output() increment: EventEmitter<IBasketItem> = new EventEmitter<IBasketItem>();
   @Output() remove: EventEmitter<IBasketItem> = new EventEmitter<IBasketItem>();
   @Input() isBasket = true;
-  @Input() items: IBasketItem[] | IOrderItem[] = [];
+  @Input() items: IBasketItem[] = [];
   @Input() isOrder = false;
 
   constructor() { }
