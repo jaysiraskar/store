@@ -9,11 +9,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
 
-namespace Infrastructure.Data.Migrations
+namespace Infrastructure.Identity.Migrations
 {
     [DbContext(typeof(StoreContext))]
-    [Migration("20230911073629_InitialCreate")]
-    partial class InitialCreate
+    [Migration("20230911124808_OrderEntityAdded")]
+    partial class OrderEntityAdded
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
