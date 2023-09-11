@@ -2,10 +2,10 @@
 
 #nullable disable
 
-namespace Infrastructure.Migrations
+namespace Infrastructure.Identity.Migrations
 {
     /// <inheritdoc />
-    public partial class OrderEntityAdded : Migration
+    public partial class IdentityInitial : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
