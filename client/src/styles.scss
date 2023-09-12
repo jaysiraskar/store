@@ -88,6 +88,11 @@ a{
   border-radius: 10px;
   border: 1px solid rgba(0, 31, 63, 0.1);
 }
+.rounded-section img {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border: 1px solid rgba(0, 31, 63, 0.1);
+}
 
 .xng-breadcrumb-root{
   padding: 8px 16px;

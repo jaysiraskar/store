@@ -1,5 +1,7 @@
 <pagination
   [boundaryLinks]="true"
+  [rotate]="true"
+  [maxSize]="5"
   [totalItems]="this.totalCount"
   (pageChanged)="onPagerChange($event)"
   [itemsPerPage]="this.pageSize"

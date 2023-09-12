@@ -4,7 +4,8 @@
       <img
         src="{{ product.pictureUrl }}"
         alt="{{ product.name }}"
-        class="img-fluid w-100"
+        class="img-fluid w-75"
+        style="border-radius: 10px;"
       />
     </div>
     <div class="col-6">
@@ -15,13 +16,13 @@
         (click)="decrementQuantity()"
           class="fa fa-minus-circle text-warning"
           style="cursor: pointer; font-size: 2em"
-        ></i>
+        > </i>
         <span class="fw-bold mx-2"> {{quantity}} </span>
         <i
         (click)="incrementQuantity()"
           class="fa fa-plus-circle text-warning"
           style="cursor: pointer; font-size: 2em"
-        ></i>
+        > </i>
         <button
         (click)="addItemToBasket()"
           class="ms-4 px-4 btn btn-primary text-xl-center fw-semibold d-flex align-items-center justify-content-center"
@@ -32,7 +33,7 @@
       </div>
     </div>
     <div class="row mt-5">
-      <div class="col-12 ml-3">
+      <div class="col-12 ms-3">
         <h4>Description</h4>
         <p>{{ product.description }}</p>
       </div>

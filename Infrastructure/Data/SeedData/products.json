@@ -1,146 +1,4698 @@
 [
   {
-    "Name": "Angular Speedster Board 2000",
-    "Description": "Test",
-    "Price": 200,
-    "PictureUrl": "images/products/sb-ang1.png",
-    "ProductTypeId": 1,
-    "ProductBrandId": 1
-  },
-  {
-    "Name": "Green Angular Board 3000",
-    "Description": "Test",
-    "Price": 150,
-    "PictureUrl": "images/products/sb-ang2.png",
-    "ProductTypeId": 1,
-    "ProductBrandId": 1
-  },
-  {
-    "Name": "Core Board Speed Rush 3",
-    "Description": "Test",
-    "Price": 180,
-    "PictureUrl": "images/products/sb-core1.png",
-    "ProductTypeId": 1,
+    "Name": "GadgetZone Sports and Fitness 692",
+    "Description": "This is a GadgetZone Sports and Fitness 692 with great features.",
+    "Price": 7726.76,
+    "PictureUrl": "images/products/gadgetzone_sports_and_fitness_692.jpg",
+    "ProductTypeId": 9,
     "ProductBrandId": 2
   },
   {
-    "Name": "Net Core Super Board",
-    "Description": "Test",
-    "Price": 300,
-    "PictureUrl": "images/products/sb-core2.png",
-    "ProductTypeId": 1,
+    "Name": "AdventureGear Watches 1356",
+    "Description": "This is a AdventureGear Watches 1356 with great features.",
+    "Price": 5952.39,
+    "PictureUrl": "images/products/adventuregear_watches_1356.jpg",
+    "ProductTypeId": 46,
+    "ProductBrandId": 46
+  },
+  {
+    "Name": "KitchenKraft Jewelry 957",
+    "Description": "This is a KitchenKraft Jewelry 957 with great features.",
+    "Price": 829.43,
+    "PictureUrl": "images/products/kitchenkraft_jewelry_957.jpg",
+    "ProductTypeId": 32,
+    "ProductBrandId": 19
+  },
+  {
+    "Name": "HomeLux Musical Instruments 504",
+    "Description": "This is a HomeLux Musical Instruments 504 with great features.",
+    "Price": 7544.59,
+    "PictureUrl": "images/products/homelux_musical_instruments_504.jpg",
+    "ProductTypeId": 44,
+    "ProductBrandId": 43
+  },
+  {
+    "Name": "TimeMaster Wearable Tech 1374",
+    "Description": "This is a TimeMaster Wearable Tech 1374 with great features.",
+    "Price": 6842.63,
+    "PictureUrl": "images/products/timemaster_wearable_tech_1374.jpg",
+    "ProductTypeId": 26,
+    "ProductBrandId": 9
+  },
+  {
+    "Name": "TravelTech Scanners 1468",
+    "Description": "This is a TravelTech Scanners 1468 with great features.",
+    "Price": 3858.73,
+    "PictureUrl": "images/products/traveltech_scanners_1468.jpg",
+    "ProductTypeId": 21,
+    "ProductBrandId": 41
+  },
+  {
+    "Name": "TimelessTreasures Musical Instruments 838",
+    "Description": "This is a TimelessTreasures Musical Instruments 838 with great features.",
+    "Price": 8814.99,
+    "PictureUrl": "images/products/timelesstreasures_musical_instruments_838.jpg",
+    "ProductTypeId": 44,
+    "ProductBrandId": 47
+  },
+  {
+    "Name": "HomeDecorHub Wearable Tech 554",
+    "Description": "This is a HomeDecorHub Wearable Tech 554 with great features.",
+    "Price": 1910.77,
+    "PictureUrl": "images/products/homedecorhub_wearable_tech_554.jpg",
+    "ProductTypeId": 26,
+    "ProductBrandId": 28
+  },
+  {
+    "Name": "MusicMania Home Decor 941",
+    "Description": "This is a MusicMania Home Decor 941 with great features.",
+    "Price": 9617.21,
+    "PictureUrl": "images/products/musicmania_home_decor_941.jpg",
+    "ProductTypeId": 29,
+    "ProductBrandId": 45
+  },
+  {
+    "Name": "SportsMaster Home Appliances 824",
+    "Description": "This is a SportsMaster Home Appliances 824 with great features.",
+    "Price": 3336.23,
+    "PictureUrl": "images/products/sportsmaster_home_appliances_824.jpg",
+    "ProductTypeId": 8,
+    "ProductBrandId": 37
+  },
+  {
+    "Name": "ArtisanGoods Candles and Scents 647",
+    "Description": "This is a ArtisanGoods Candles and Scents 647 with great features.",
+    "Price": 6763.97,
+    "PictureUrl": "images/products/artisangoods_candles_and_scents_647.jpg",
+    "ProductTypeId": 50,
+    "ProductBrandId": 27
+  },
+  {
+    "Name": "GameZone Watches 327",
+    "Description": "This is a GameZone Watches 327 with great features.",
+    "Price": 7013.97,
+    "PictureUrl": "images/products/gamezone_watches_327.jpg",
+    "ProductTypeId": 46,
+    "ProductBrandId": 34
+  },
+  {
+    "Name": "PetParadise Action Cameras 1729",
+    "Description": "This is a PetParadise Action Cameras 1729 with great features.",
+    "Price": 1569.17,
+    "PictureUrl": "images/products/petparadise_action_cameras_1729.jpg",
+    "ProductTypeId": 24,
+    "ProductBrandId": 36
+  },
+  {
+    "Name": "BeautyBuzz Jewelry 583",
+    "Description": "This is a BeautyBuzz Jewelry 583 with great features.",
+    "Price": 6827.73,
+    "PictureUrl": "images/products/beautybuzz_jewelry_583.jpg",
+    "ProductTypeId": 32,
+    "ProductBrandId": 20
+  },
+  {
+    "Name": "Fashionista Health and Wellness 848",
+    "Description": "This is a Fashionista Health and Wellness 848 with great features.",
+    "Price": 8608.42,
+    "PictureUrl": "images/products/fashionista_health_and_wellness_848.jpg",
+    "ProductTypeId": 15,
+    "ProductBrandId": 13
+  },
+  {
+    "Name": "PetPalace Fitness Trackers 1875",
+    "Description": "This is a PetPalace Fitness Trackers 1875 with great features.",
+    "Price": 6894.1,
+    "PictureUrl": "images/products/petpalace_fitness_trackers_1875.jpg",
+    "ProductTypeId": 19,
+    "ProductBrandId": 16
+  },
+  {
+    "Name": "TechGenius Art Supplies 71",
+    "Description": "This is a TechGenius Art Supplies 71 with great features.",
+    "Price": 4460.23,
+    "PictureUrl": "images/products/techgenius_art_supplies_71.jpg",
+    "ProductTypeId": 47,
+    "ProductBrandId": 39
+  },
+  {
+    "Name": "GreenGizmo Jewelry 328",
+    "Description": "This is a GreenGizmo Jewelry 328 with great features.",
+    "Price": 9546.64,
+    "PictureUrl": "images/products/greengizmo_jewelry_328.jpg",
+    "ProductTypeId": 32,
+    "ProductBrandId": 14
+  },
+  {
+    "Name": "CameraTech Home Appliances 996",
+    "Description": "This is a CameraTech Home Appliances 996 with great features.",
+    "Price": 1746.78,
+    "PictureUrl": "images/products/cameratech_home_appliances_996.jpg",
+    "ProductTypeId": 8,
+    "ProductBrandId": 10
+  },
+  {
+    "Name": "ElectroWave Tablets 238",
+    "Description": "This is a ElectroWave Tablets 238 with great features.",
+    "Price": 9318.1,
+    "PictureUrl": "images/products/electrowave_tablets_238.jpg",
+    "ProductTypeId": 6,
+    "ProductBrandId": 44
+  },
+  {
+    "Name": "HealthEssentials Action Cameras 1754",
+    "Description": "This is a HealthEssentials Action Cameras 1754 with great features.",
+    "Price": 9044.54,
+    "PictureUrl": "images/products/healthessentials_action_cameras_1754.jpg",
+    "ProductTypeId": 24,
+    "ProductBrandId": 30
+  },
+  {
+    "Name": "SportsMaster Toys and Games 817",
+    "Description": "This is a SportsMaster Toys and Games 817 with great features.",
+    "Price": 1087.31,
+    "PictureUrl": "images/products/sportsmaster_toys_and_games_817.jpg",
+    "ProductTypeId": 30,
+    "ProductBrandId": 37
+  },
+  {
+    "Name": "BrewMaster Art Supplies 1443",
+    "Description": "This is a BrewMaster Art Supplies 1443 with great features.",
+    "Price": 187.32,
+    "PictureUrl": "images/products/brewmaster_art_supplies_1443.jpg",
+    "ProductTypeId": 47,
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "TimelessTreasures Watches 1910",
+    "Description": "This is a TimelessTreasures Watches 1910 with great features.",
+    "Price": 5497.58,
+    "PictureUrl": "images/products/timelesstreasures_watches_1910.jpg",
+    "ProductTypeId": 46,
+    "ProductBrandId": 47
+  },
+  {
+    "Name": "GadgetZone Health and Wellness 1246",
+    "Description": "This is a GadgetZone Health and Wellness 1246 with great features.",
+    "Price": 9931.7,
+    "PictureUrl": "images/products/gadgetzone_health_and_wellness_1246.jpg",
+    "ProductTypeId": 15,
     "ProductBrandId": 2
   },
   {
-    "Name": "React Board Super Whizzy Fast",
-    "Description": "Test",
-    "Price": 250,
-    "PictureUrl": "images/products/sb-react1.png",
-    "ProductTypeId": 1,
-    "ProductBrandId": 4
+    "Name": "ArtisanGoods Outdoor and Adventure 611",
+    "Description": "This is a ArtisanGoods Outdoor and Adventure 611 with great features.",
+    "Price": 4424.11,
+    "PictureUrl": "images/products/artisangoods_outdoor_and_adventure_611.jpg",
+    "ProductTypeId": 14,
+    "ProductBrandId": 27
   },
   {
-    "Name": "Typescript Entry Board",
-    "Description": "Test",
-    "Price": 120,
-    "PictureUrl": "images/products/sb-ts1.png",
-    "ProductTypeId": 1,
-    "ProductBrandId": 5
+    "Name": "FurnitureLand Scanners 1370",
+    "Description": "This is a FurnitureLand Scanners 1370 with great features.",
+    "Price": 9557.06,
+    "PictureUrl": "images/products/furnitureland_scanners_1370.jpg",
+    "ProductTypeId": 21,
+    "ProductBrandId": 22
   },
   {
-    "Name": "Core Blue Hat",
-    "Description": "Test",
-    "Price": 10,
-    "PictureUrl": "images/products/hat-core1.png",
+    "Name": "MusicMasters Toys and Games 73",
+    "Description": "This is a MusicMasters Toys and Games 73 with great features.",
+    "Price": 1306.53,
+    "PictureUrl": "images/products/musicmasters_toys_and_games_73.jpg",
+    "ProductTypeId": 30,
+    "ProductBrandId": 15
+  },
+  {
+    "Name": "ArtisanGoods Digital Cameras 1935",
+    "Description": "This is a ArtisanGoods Digital Cameras 1935 with great features.",
+    "Price": 4107.91,
+    "PictureUrl": "images/products/artisangoods_digital_cameras_1935.jpg",
+    "ProductTypeId": 23,
+    "ProductBrandId": 27
+  },
+  {
+    "Name": "SoundWave Health and Wellness 1310",
+    "Description": "This is a SoundWave Health and Wellness 1310 with great features.",
+    "Price": 3739.06,
+    "PictureUrl": "images/products/soundwave_health_and_wellness_1310.jpg",
+    "ProductTypeId": 15,
+    "ProductBrandId": 35
+  },
+  {
+    "Name": "ElectroGizmo Home Appliances 778",
+    "Description": "This is a ElectroGizmo Home Appliances 778 with great features.",
+    "Price": 5383.99,
+    "PictureUrl": "images/products/electrogizmo_home_appliances_778.jpg",
+    "ProductTypeId": 8,
+    "ProductBrandId": 33
+  },
+  {
+    "Name": "MusicMania Outdoor Gear 865",
+    "Description": "This is a MusicMania Outdoor Gear 865 with great features.",
+    "Price": 6520.23,
+    "PictureUrl": "images/products/musicmania_outdoor_gear_865.jpg",
+    "ProductTypeId": 36,
+    "ProductBrandId": 45
+  },
+  {
+    "Name": "HomeElegance Home Textiles 183",
+    "Description": "This is a HomeElegance Home Textiles 183 with great features.",
+    "Price": 6764.57,
+    "PictureUrl": "images/products/homeelegance_home_textiles_183.jpg",
+    "ProductTypeId": 49,
+    "ProductBrandId": 50
+  },
+  {
+    "Name": "AdventurePro Appliances 834",
+    "Description": "This is a AdventurePro Appliances 834 with great features.",
+    "Price": 8216.57,
+    "PictureUrl": "images/products/adventurepro_appliances_834.jpg",
+    "ProductTypeId": 43,
+    "ProductBrandId": 8
+  },
+  {
+    "Name": "HealthHub Headphones 270",
+    "Description": "This is a HealthHub Headphones 270 with great features.",
+    "Price": 3212.27,
+    "PictureUrl": "images/products/healthhub_headphones_270.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 18
+  },
+  {
+    "Name": "HomeLux Digital Cameras 197",
+    "Description": "This is a HomeLux Digital Cameras 197 with great features.",
+    "Price": 1032.12,
+    "PictureUrl": "images/products/homelux_digital_cameras_197.jpg",
+    "ProductTypeId": 23,
+    "ProductBrandId": 43
+  },
+  {
+    "Name": "JewelCraft Home Decor 31",
+    "Description": "This is a JewelCraft Home Decor 31 with great features.",
+    "Price": 3232.78,
+    "PictureUrl": "images/products/jewelcraft_home_decor_31.jpg",
+    "ProductTypeId": 29,
+    "ProductBrandId": 25
+  },
+  {
+    "Name": "BrewMaster Fashion and Apparel 1262",
+    "Description": "This is a BrewMaster Fashion and Apparel 1262 with great features.",
+    "Price": 1118.5,
+    "PictureUrl": "images/products/brewmaster_fashion_and_apparel_1262.jpg",
+    "ProductTypeId": 10,
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "TechGenius Musical Instruments 115",
+    "Description": "This is a TechGenius Musical Instruments 115 with great features.",
+    "Price": 4690.79,
+    "PictureUrl": "images/products/techgenius_musical_instruments_115.jpg",
+    "ProductTypeId": 44,
+    "ProductBrandId": 39
+  },
+  {
+    "Name": "HomeDecorHub Appliances 29",
+    "Description": "This is a HomeDecorHub Appliances 29 with great features.",
+    "Price": 1885.57,
+    "PictureUrl": "images/products/homedecorhub_appliances_29.jpg",
+    "ProductTypeId": 43,
+    "ProductBrandId": 28
+  },
+  {
+    "Name": "ElectroGizmo Smartphones 1678",
+    "Description": "This is a ElectroGizmo Smartphones 1678 with great features.",
+    "Price": 5177.83,
+    "PictureUrl": "images/products/electrogizmo_smartphones_1678.jpg",
     "ProductTypeId": 2,
-    "ProductBrandId": 2
+    "ProductBrandId": 33
   },
   {
-    "Name": "Green React Woolen Hat",
-    "Description": "Test",
-    "Price": 8,
-    "PictureUrl": "images/products/hat-react1.png",
-    "ProductTypeId": 2,
-    "ProductBrandId": 4
+    "Name": "BeautyBliss Candles and Scents 453",
+    "Description": "This is a BeautyBliss Candles and Scents 453 with great features.",
+    "Price": 6771.69,
+    "PictureUrl": "images/products/beautybliss_candles_and_scents_453.jpg",
+    "ProductTypeId": 50,
+    "ProductBrandId": 38
   },
   {
-    "Name": "Purple React Woolen Hat",
-    "Description": "Test",
-    "Price": 15,
-    "PictureUrl": "images/products/hat-react2.png",
-    "ProductTypeId": 2,
-    "ProductBrandId": 4
+    "Name": "Fashionista Handmade Crafts 1872",
+    "Description": "This is a Fashionista Handmade Crafts 1872 with great features.",
+    "Price": 3674.68,
+    "PictureUrl": "images/products/fashionista_handmade_crafts_1872.jpg",
+    "ProductTypeId": 48,
+    "ProductBrandId": 13
   },
   {
-    "Name": "Blue Code Gloves",
-    "Description": "Test",
-    "Price": 18,
-    "PictureUrl": "images/products/glove-code1.png",
+    "Name": "HomeLux Scanners 1717",
+    "Description": "This is a HomeLux Scanners 1717 with great features.",
+    "Price": 2944.45,
+    "PictureUrl": "images/products/homelux_scanners_1717.jpg",
+    "ProductTypeId": 21,
+    "ProductBrandId": 43
+  },
+  {
+    "Name": "AdventureGear Headphones 1629",
+    "Description": "This is a AdventureGear Headphones 1629 with great features.",
+    "Price": 8008.89,
+    "PictureUrl": "images/products/adventuregear_headphones_1629.jpg",
     "ProductTypeId": 4,
-    "ProductBrandId": 3
+    "ProductBrandId": 46
   },
   {
-    "Name": "Green Code Gloves",
-    "Description": "Test",
-    "Price": 15,
-    "PictureUrl": "images/products/glove-code2.png",
-    "ProductTypeId": 4,
-    "ProductBrandId": 3
+    "Name": "GameZone Jewelry 834",
+    "Description": "This is a GameZone Jewelry 834 with great features.",
+    "Price": 5860.0,
+    "PictureUrl": "images/products/gamezone_jewelry_834.jpg",
+    "ProductTypeId": 32,
+    "ProductBrandId": 34
   },
   {
-    "Name": "Purple React Gloves",
-    "Description": "Test",
-    "Price": 16,
-    "PictureUrl": "images/products/glove-react1.png",
-    "ProductTypeId": 4,
-    "ProductBrandId": 4
+    "Name": "Fashionista Digital Cameras 935",
+    "Description": "This is a Fashionista Digital Cameras 935 with great features.",
+    "Price": 827.78,
+    "PictureUrl": "images/products/fashionista_digital_cameras_935.jpg",
+    "ProductTypeId": 23,
+    "ProductBrandId": 13
   },
   {
-    "Name": "Green React Gloves",
-    "Description": "Test",
-    "Price": 14,
-    "PictureUrl": "images/products/glove-react2.png",
-    "ProductTypeId": 4,
-    "ProductBrandId": 4
+    "Name": "TravelTech Pet Supplies 163",
+    "Description": "This is a TravelTech Pet Supplies 163 with great features.",
+    "Price": 2751.66,
+    "PictureUrl": "images/products/traveltech_pet_supplies_163.jpg",
+    "ProductTypeId": 13,
+    "ProductBrandId": 41
   },
   {
-    "Name": "Redis Red Boots",
-    "Description": "Test",
-    "Price": 250,
-    "PictureUrl": "images/products/boot-redis1.png",
-    "ProductTypeId": 3,
+    "Name": "FitPro Sports and Fitness 1760",
+    "Description": "This is a FitPro Sports and Fitness 1760 with great features.",
+    "Price": 246.2,
+    "PictureUrl": "images/products/fitpro_sports_and_fitness_1760.jpg",
+    "ProductTypeId": 9,
     "ProductBrandId": 6
   },
   {
-    "Name": "Core Red Boots",
-    "Description": "Test",
-    "Price": 189.99,
-    "PictureUrl": "images/products/boot-core2.png",
-    "ProductTypeId": 3,
-    "ProductBrandId": 2
+    "Name": "AdventurePro Beauty Products 288",
+    "Description": "This is a AdventurePro Beauty Products 288 with great features.",
+    "Price": 3456.83,
+    "PictureUrl": "images/products/adventurepro_beauty_products_288.jpg",
+    "ProductTypeId": 38,
+    "ProductBrandId": 8
   },
   {
-    "Name": "Core Purple Boots",
-    "Description": "Test",
-    "Price": 199.99,
-    "PictureUrl": "images/products/boot-core1.png",
-    "ProductTypeId": 3,
-    "ProductBrandId": 2
-  },
-  {
-    "Name": "Angular Purple Boots",
-    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
-    "Price": 150,
-    "PictureUrl": "images/products/boot-ang2.png",
-    "ProductTypeId": 3,
+    "Name": "TechCorp Scanners 333",
+    "Description": "This is a TechCorp Scanners 333 with great features.",
+    "Price": 7029.63,
+    "PictureUrl": "images/products/techcorp_scanners_333.jpg",
+    "ProductTypeId": 21,
     "ProductBrandId": 1
   },
   {
-    "Name": "Angular Blue Boots",
-    "Description": "Test",
-    "Price": 180,
-    "PictureUrl": "images/products/boot-ang1.png",
-    "ProductTypeId": 3,
+    "Name": "FurnitureLand Watches 1824",
+    "Description": "This is a FurnitureLand Watches 1824 with great features.",
+    "Price": 2290.99,
+    "PictureUrl": "images/products/furnitureland_watches_1824.jpg",
+    "ProductTypeId": 46,
+    "ProductBrandId": 22
+  },
+  {
+    "Name": "HealthEssentials Outdoor Gear 1253",
+    "Description": "This is a HealthEssentials Outdoor Gear 1253 with great features.",
+    "Price": 2547.88,
+    "PictureUrl": "images/products/healthessentials_outdoor_gear_1253.jpg",
+    "ProductTypeId": 36,
+    "ProductBrandId": 30
+  },
+  {
+    "Name": "TimelessTreasures Office Supplies 461",
+    "Description": "This is a TimelessTreasures Office Supplies 461 with great features.",
+    "Price": 8294.49,
+    "PictureUrl": "images/products/timelesstreasures_office_supplies_461.jpg",
+    "ProductTypeId": 27,
+    "ProductBrandId": 47
+  },
+  {
+    "Name": "SoundMaster Cameras 659",
+    "Description": "This is a SoundMaster Cameras 659 with great features.",
+    "Price": 9005.22,
+    "PictureUrl": "images/products/soundmaster_cameras_659.jpg",
+    "ProductTypeId": 7,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "FashionForward Fashion Accessories 849",
+    "Description": "This is a FashionForward Fashion Accessories 849 with great features.",
+    "Price": 6782.16,
+    "PictureUrl": "images/products/fashionforward_fashion_accessories_849.jpg",
+    "ProductTypeId": 41,
+    "ProductBrandId": 42
+  },
+  {
+    "Name": "SoundWave Fashion Accessories 1232",
+    "Description": "This is a SoundWave Fashion Accessories 1232 with great features.",
+    "Price": 4892.08,
+    "PictureUrl": "images/products/soundwave_fashion_accessories_1232.jpg",
+    "ProductTypeId": 41,
+    "ProductBrandId": 35
+  },
+  {
+    "Name": "PetParadise Monitors 43",
+    "Description": "This is a PetParadise Monitors 43 with great features.",
+    "Price": 649.46,
+    "PictureUrl": "images/products/petparadise_monitors_43.jpg",
+    "ProductTypeId": 22,
+    "ProductBrandId": 36
+  },
+  {
+    "Name": "HomeElegance Outdoor Gear 1408",
+    "Description": "This is a HomeElegance Outdoor Gear 1408 with great features.",
+    "Price": 4459.16,
+    "PictureUrl": "images/products/homeelegance_outdoor_gear_1408.jpg",
+    "ProductTypeId": 36,
+    "ProductBrandId": 50
+  },
+  {
+    "Name": "KitchenPro Action Cameras 1671",
+    "Description": "This is a KitchenPro Action Cameras 1671 with great features.",
+    "Price": 8088.74,
+    "PictureUrl": "images/products/kitchenpro_action_cameras_1671.jpg",
+    "ProductTypeId": 24,
+    "ProductBrandId": 31
+  },
+  {
+    "Name": "HomeElegance Smartphones 1882",
+    "Description": "This is a HomeElegance Smartphones 1882 with great features.",
+    "Price": 6591.34,
+    "PictureUrl": "images/products/homeelegance_smartphones_1882.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 50
+  },
+  {
+    "Name": "TimeMaster Outdoor and Adventure 1982",
+    "Description": "This is a TimeMaster Outdoor and Adventure 1982 with great features.",
+    "Price": 5718.38,
+    "PictureUrl": "images/products/timemaster_outdoor_and_adventure_1982.jpg",
+    "ProductTypeId": 14,
+    "ProductBrandId": 9
+  },
+  {
+    "Name": "TechGenius Headphones 204",
+    "Description": "This is a TechGenius Headphones 204 with great features.",
+    "Price": 2186.2,
+    "PictureUrl": "images/products/techgenius_headphones_204.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 39
+  },
+  {
+    "Name": "SoundWave Outdoor Gear 1433",
+    "Description": "This is a SoundWave Outdoor Gear 1433 with great features.",
+    "Price": 4745.83,
+    "PictureUrl": "images/products/soundwave_outdoor_gear_1433.jpg",
+    "ProductTypeId": 36,
+    "ProductBrandId": 35
+  },
+  {
+    "Name": "SportsMaster Sports and Fitness 226",
+    "Description": "This is a SportsMaster Sports and Fitness 226 with great features.",
+    "Price": 1960.87,
+    "PictureUrl": "images/products/sportsmaster_sports_and_fitness_226.jpg",
+    "ProductTypeId": 9,
+    "ProductBrandId": 37
+  },
+  {
+    "Name": "PetPalace Musical Instruments 1788",
+    "Description": "This is a PetPalace Musical Instruments 1788 with great features.",
+    "Price": 4603.07,
+    "PictureUrl": "images/products/petpalace_musical_instruments_1788.jpg",
+    "ProductTypeId": 44,
+    "ProductBrandId": 16
+  },
+  {
+    "Name": "OutdoorGearPro Office Supplies 364",
+    "Description": "This is a OutdoorGearPro Office Supplies 364 with great features.",
+    "Price": 734.48,
+    "PictureUrl": "images/products/outdoorgearpro_office_supplies_364.jpg",
+    "ProductTypeId": 27,
+    "ProductBrandId": 29
+  },
+  {
+    "Name": "TimeMaster Smartphones 103",
+    "Description": "This is a TimeMaster Smartphones 103 with great features.",
+    "Price": 978.2,
+    "PictureUrl": "images/products/timemaster_smartphones_103.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 9
+  },
+  {
+    "Name": "JewelCraft Toys and Games 1606",
+    "Description": "This is a JewelCraft Toys and Games 1606 with great features.",
+    "Price": 1289.13,
+    "PictureUrl": "images/products/jewelcraft_toys_and_games_1606.jpg",
+    "ProductTypeId": 30,
+    "ProductBrandId": 25
+  },
+  {
+    "Name": "CameraTech Art and Crafts 1630",
+    "Description": "This is a CameraTech Art and Crafts 1630 with great features.",
+    "Price": 759.01,
+    "PictureUrl": "images/products/cameratech_art_and_crafts_1630.jpg",
+    "ProductTypeId": 34,
+    "ProductBrandId": 10
+  },
+  {
+    "Name": "AdventureGear Software 110",
+    "Description": "This is a AdventureGear Software 110 with great features.",
+    "Price": 3236.98,
+    "PictureUrl": "images/products/adventuregear_software_110.jpg",
+    "ProductTypeId": 28,
+    "ProductBrandId": 46
+  },
+  {
+    "Name": "PetPalace Office Supplies 549",
+    "Description": "This is a PetPalace Office Supplies 549 with great features.",
+    "Price": 4181.04,
+    "PictureUrl": "images/products/petpalace_office_supplies_549.jpg",
+    "ProductTypeId": 27,
+    "ProductBrandId": 16
+  },
+  {
+    "Name": "GreenGizmo Office Supplies 25",
+    "Description": "This is a GreenGizmo Office Supplies 25 with great features.",
+    "Price": 6567.27,
+    "PictureUrl": "images/products/greengizmo_office_supplies_25.jpg",
+    "ProductTypeId": 27,
+    "ProductBrandId": 14
+  },
+  {
+    "Name": "TimelessTreasures Watches 201",
+    "Description": "This is a TimelessTreasures Watches 201 with great features.",
+    "Price": 6922.29,
+    "PictureUrl": "images/products/timelesstreasures_watches_201.jpg",
+    "ProductTypeId": 46,
+    "ProductBrandId": 47
+  },
+  {
+    "Name": "KitchenPro Monitors 873",
+    "Description": "This is a KitchenPro Monitors 873 with great features.",
+    "Price": 2420.68,
+    "PictureUrl": "images/products/kitchenpro_monitors_873.jpg",
+    "ProductTypeId": 22,
+    "ProductBrandId": 31
+  },
+  {
+    "Name": "GadgetZone Gaming Consoles 1034",
+    "Description": "This is a GadgetZone Gaming Consoles 1034 with great features.",
+    "Price": 86.39,
+    "PictureUrl": "images/products/gadgetzone_gaming_consoles_1034.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "ElectroGizmo Fitness Trackers 1586",
+    "Description": "This is a ElectroGizmo Fitness Trackers 1586 with great features.",
+    "Price": 7879.54,
+    "PictureUrl": "images/products/electrogizmo_fitness_trackers_1586.jpg",
+    "ProductTypeId": 19,
+    "ProductBrandId": 33
+  },
+  {
+    "Name": "JewelCraft Kitchen and Cooking 144",
+    "Description": "This is a JewelCraft Kitchen and Cooking 144 with great features.",
+    "Price": 2326.0,
+    "PictureUrl": "images/products/jewelcraft_kitchen_and_cooking_144.jpg",
+    "ProductTypeId": 16,
+    "ProductBrandId": 25
+  },
+  {
+    "Name": "FitPro Beauty and Personal Care 61",
+    "Description": "This is a FitPro Beauty and Personal Care 61 with great features.",
+    "Price": 6884.26,
+    "PictureUrl": "images/products/fitpro_beauty_and_personal_care_61.jpg",
+    "ProductTypeId": 17,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "BrewMaster Fashion and Apparel 624",
+    "Description": "This is a BrewMaster Fashion and Apparel 624 with great features.",
+    "Price": 2817.93,
+    "PictureUrl": "images/products/brewmaster_fashion_and_apparel_624.jpg",
+    "ProductTypeId": 10,
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "HomeHarbor Travel Accessories 1910",
+    "Description": "This is a HomeHarbor Travel Accessories 1910 with great features.",
+    "Price": 1750.19,
+    "PictureUrl": "images/products/homeharbor_travel_accessories_1910.jpg",
+    "ProductTypeId": 40,
+    "ProductBrandId": 40
+  },
+  {
+    "Name": "GameX Fashion and Apparel 300",
+    "Description": "This is a GameX Fashion and Apparel 300 with great features.",
+    "Price": 4446.34,
+    "PictureUrl": "images/products/gamex_fashion_and_apparel_300.jpg",
+    "ProductTypeId": 10,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "AdventureGear Action Cameras 1134",
+    "Description": "This is a AdventureGear Action Cameras 1134 with great features.",
+    "Price": 5697.06,
+    "PictureUrl": "images/products/adventuregear_action_cameras_1134.jpg",
+    "ProductTypeId": 24,
+    "ProductBrandId": 46
+  },
+  {
+    "Name": "GreenGizmo Sports and Fitness 718",
+    "Description": "This is a GreenGizmo Sports and Fitness 718 with great features.",
+    "Price": 9840.4,
+    "PictureUrl": "images/products/greengizmo_sports_and_fitness_718.jpg",
+    "ProductTypeId": 9,
+    "ProductBrandId": 14
+  },
+  {
+    "Name": "BeautyBuzz Beauty and Personal Care 548",
+    "Description": "This is a BeautyBuzz Beauty and Personal Care 548 with great features.",
+    "Price": 6352.21,
+    "PictureUrl": "images/products/beautybuzz_beauty_and_personal_care_548.jpg",
+    "ProductTypeId": 17,
+    "ProductBrandId": 20
+  },
+  {
+    "Name": "ElectroGizmo Pet Supplies 1778",
+    "Description": "This is a ElectroGizmo Pet Supplies 1778 with great features.",
+    "Price": 2914.03,
+    "PictureUrl": "images/products/electrogizmo_pet_supplies_1778.jpg",
+    "ProductTypeId": 13,
+    "ProductBrandId": 33
+  },
+  {
+    "Name": "FashionFusion Appliances 208",
+    "Description": "This is a FashionFusion Appliances 208 with great features.",
+    "Price": 2163.25,
+    "PictureUrl": "images/products/fashionfusion_appliances_208.jpg",
+    "ProductTypeId": 43,
+    "ProductBrandId": 32
+  },
+  {
+    "Name": "FashionForward Handmade Crafts 1405",
+    "Description": "This is a FashionForward Handmade Crafts 1405 with great features.",
+    "Price": 6204.24,
+    "PictureUrl": "images/products/fashionforward_handmade_crafts_1405.jpg",
+    "ProductTypeId": 48,
+    "ProductBrandId": 42
+  },
+  {
+    "Name": "HealthHub Automotive 1194",
+    "Description": "This is a HealthHub Automotive 1194 with great features.",
+    "Price": 1839.15,
+    "PictureUrl": "images/products/healthhub_automotive_1194.jpg",
+    "ProductTypeId": 31,
+    "ProductBrandId": 18
+  },
+  {
+    "Name": "GreenGizmo Gaming Consoles 510",
+    "Description": "This is a GreenGizmo Gaming Consoles 510 with great features.",
+    "Price": 340.14,
+    "PictureUrl": "images/products/greengizmo_gaming_consoles_510.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 14
+  },
+  {
+    "Name": "BeautyBliss Green and Eco-Friendly 1065",
+    "Description": "This is a BeautyBliss Green and Eco-Friendly 1065 with great features.",
+    "Price": 5774.61,
+    "PictureUrl": "images/products/beautybliss_green_and_eco-friendly_1065.jpg",
+    "ProductTypeId": 11,
+    "ProductBrandId": 38
+  },
+  {
+    "Name": "TechCorp Automotive 1878",
+    "Description": "This is a TechCorp Automotive 1878 with great features.",
+    "Price": 6555.64,
+    "PictureUrl": "images/products/techcorp_automotive_1878.jpg",
+    "ProductTypeId": 31,
     "ProductBrandId": 1
+  },
+  {
+    "Name": "HomeLux Candles and Scents 617",
+    "Description": "This is a HomeLux Candles and Scents 617 with great features.",
+    "Price": 6865.56,
+    "PictureUrl": "images/products/homelux_candles_and_scents_617.jpg",
+    "ProductTypeId": 50,
+    "ProductBrandId": 43
+  },
+  {
+    "Name": "HomeElegance Laptops 814",
+    "Description": "This is a HomeElegance Laptops 814 with great features.",
+    "Price": 4512.37,
+    "PictureUrl": "images/products/homeelegance_laptops_814.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 50
+  },
+  {
+    "Name": "SportsMaster Fitness Trackers 191",
+    "Description": "This is a SportsMaster Fitness Trackers 191 with great features.",
+    "Price": 4924.36,
+    "PictureUrl": "images/products/sportsmaster_fitness_trackers_191.jpg",
+    "ProductTypeId": 19,
+    "ProductBrandId": 37
+  },
+  {
+    "Name": "SoundMaster Outdoor and Adventure 1144",
+    "Description": "This is a SoundMaster Outdoor and Adventure 1144 with great features.",
+    "Price": 1080.93,
+    "PictureUrl": "images/products/soundmaster_outdoor_and_adventure_1144.jpg",
+    "ProductTypeId": 14,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "FashionForward Fitness Trackers 1901",
+    "Description": "This is a FashionForward Fitness Trackers 1901 with great features.",
+    "Price": 6869.32,
+    "PictureUrl": "images/products/fashionforward_fitness_trackers_1901.jpg",
+    "ProductTypeId": 19,
+    "ProductBrandId": 42
+  },
+  {
+    "Name": "PetPalace Smart Watches 858",
+    "Description": "This is a PetPalace Smart Watches 858 with great features.",
+    "Price": 3965.98,
+    "PictureUrl": "images/products/petpalace_smart_watches_858.jpg",
+    "ProductTypeId": 18,
+    "ProductBrandId": 16
+  },
+  {
+    "Name": "FitPro Art Supplies 477",
+    "Description": "This is a FitPro Art Supplies 477 with great features.",
+    "Price": 6179.99,
+    "PictureUrl": "images/products/fitpro_art_supplies_477.jpg",
+    "ProductTypeId": 47,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "TimelessTreasures Fitness Trackers 1908",
+    "Description": "This is a TimelessTreasures Fitness Trackers 1908 with great features.",
+    "Price": 9017.84,
+    "PictureUrl": "images/products/timelesstreasures_fitness_trackers_1908.jpg",
+    "ProductTypeId": 19,
+    "ProductBrandId": 47
+  },
+  {
+    "Name": "CameraCraze Wearable Tech 1798",
+    "Description": "This is a CameraCraze Wearable Tech 1798 with great features.",
+    "Price": 5373.66,
+    "PictureUrl": "images/products/cameracraze_wearable_tech_1798.jpg",
+    "ProductTypeId": 26,
+    "ProductBrandId": 48
+  },
+  {
+    "Name": "BeautyBuzz Beauty Products 1115",
+    "Description": "This is a BeautyBuzz Beauty Products 1115 with great features.",
+    "Price": 3665.71,
+    "PictureUrl": "images/products/beautybuzz_beauty_products_1115.jpg",
+    "ProductTypeId": 38,
+    "ProductBrandId": 20
+  },
+  {
+    "Name": "ArtisticGems Luxury Items 25",
+    "Description": "This is a ArtisticGems Luxury Items 25 with great features.",
+    "Price": 5415.19,
+    "PictureUrl": "images/products/artisticgems_luxury_items_25.jpg",
+    "ProductTypeId": 42,
+    "ProductBrandId": 49
+  },
+  {
+    "Name": "HomeElegance Adventure Gear 1766",
+    "Description": "This is a HomeElegance Adventure Gear 1766 with great features.",
+    "Price": 4227.58,
+    "PictureUrl": "images/products/homeelegance_adventure_gear_1766.jpg",
+    "ProductTypeId": 45,
+    "ProductBrandId": 50
+  },
+  {
+    "Name": "HealthEssentials Home Textiles 1120",
+    "Description": "This is a HealthEssentials Home Textiles 1120 with great features.",
+    "Price": 3124.28,
+    "PictureUrl": "images/products/healthessentials_home_textiles_1120.jpg",
+    "ProductTypeId": 49,
+    "ProductBrandId": 30
+  },
+  {
+    "Name": "TimeMaster Audio and Music Gear 622",
+    "Description": "This is a TimeMaster Audio and Music Gear 622 with great features.",
+    "Price": 6651.24,
+    "PictureUrl": "images/products/timemaster_audio_and_music_gear_622.jpg",
+    "ProductTypeId": 12,
+    "ProductBrandId": 9
+  },
+  {
+    "Name": "BrewMaster Pet Supplies 1438",
+    "Description": "This is a BrewMaster Pet Supplies 1438 with great features.",
+    "Price": 9234.5,
+    "PictureUrl": "images/products/brewmaster_pet_supplies_1438.jpg",
+    "ProductTypeId": 13,
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "BrewMaster Books 1192",
+    "Description": "This is a BrewMaster Books 1192 with great features.",
+    "Price": 2458.19,
+    "PictureUrl": "images/products/brewmaster_books_1192.jpg",
+    "ProductTypeId": 33,
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "TechGenius Home Textiles 1658",
+    "Description": "This is a TechGenius Home Textiles 1658 with great features.",
+    "Price": 2263.07,
+    "PictureUrl": "images/products/techgenius_home_textiles_1658.jpg",
+    "ProductTypeId": 49,
+    "ProductBrandId": 39
+  },
+  {
+    "Name": "HomeApex Adventure Gear 1575",
+    "Description": "This is a HomeApex Adventure Gear 1575 with great features.",
+    "Price": 4362.44,
+    "PictureUrl": "images/products/homeapex_adventure_gear_1575.jpg",
+    "ProductTypeId": 45,
+    "ProductBrandId": 11
+  },
+  {
+    "Name": "TimelessTreasures Pet Supplies 1901",
+    "Description": "This is a TimelessTreasures Pet Supplies 1901 with great features.",
+    "Price": 1786.5,
+    "PictureUrl": "images/products/timelesstreasures_pet_supplies_1901.jpg",
+    "ProductTypeId": 13,
+    "ProductBrandId": 47
+  },
+  {
+    "Name": "OutdoorGearPro Appliances 848",
+    "Description": "This is a OutdoorGearPro Appliances 848 with great features.",
+    "Price": 1039.93,
+    "PictureUrl": "images/products/outdoorgearpro_appliances_848.jpg",
+    "ProductTypeId": 43,
+    "ProductBrandId": 29
+  },
+  {
+    "Name": "ElectroGizmo Scanners 1628",
+    "Description": "This is a ElectroGizmo Scanners 1628 with great features.",
+    "Price": 9827.68,
+    "PictureUrl": "images/products/electrogizmo_scanners_1628.jpg",
+    "ProductTypeId": 21,
+    "ProductBrandId": 33
+  },
+  {
+    "Name": "HomeApex Sports Equipment 1186",
+    "Description": "This is a HomeApex Sports Equipment 1186 with great features.",
+    "Price": 9162.46,
+    "PictureUrl": "images/products/homeapex_sports_equipment_1186.jpg",
+    "ProductTypeId": 37,
+    "ProductBrandId": 11
+  },
+  {
+    "Name": "TimelessTreasures Printers 1250",
+    "Description": "This is a TimelessTreasures Printers 1250 with great features.",
+    "Price": 7550.78,
+    "PictureUrl": "images/products/timelesstreasures_printers_1250.jpg",
+    "ProductTypeId": 20,
+    "ProductBrandId": 47
+  },
+  {
+    "Name": "MusicMania Action Cameras 430",
+    "Description": "This is a MusicMania Action Cameras 430 with great features.",
+    "Price": 8969.92,
+    "PictureUrl": "images/products/musicmania_action_cameras_430.jpg",
+    "ProductTypeId": 24,
+    "ProductBrandId": 45
+  },
+  {
+    "Name": "OutdoorAdventures Travel Accessories 1284",
+    "Description": "This is a OutdoorAdventures Travel Accessories 1284 with great features.",
+    "Price": 1152.37,
+    "PictureUrl": "images/products/outdooradventures_travel_accessories_1284.jpg",
+    "ProductTypeId": 40,
+    "ProductBrandId": 17
+  },
+  {
+    "Name": "BeautyBliss Beauty Products 1577",
+    "Description": "This is a BeautyBliss Beauty Products 1577 with great features.",
+    "Price": 4034.87,
+    "PictureUrl": "images/products/beautybliss_beauty_products_1577.jpg",
+    "ProductTypeId": 38,
+    "ProductBrandId": 38
+  },
+  {
+    "Name": "ToyGalaxy Tablets 1160",
+    "Description": "This is a ToyGalaxy Tablets 1160 with great features.",
+    "Price": 345.83,
+    "PictureUrl": "images/products/toygalaxy_tablets_1160.jpg",
+    "ProductTypeId": 6,
+    "ProductBrandId": 23
+  },
+  {
+    "Name": "SportsMaster Luxury Items 1289",
+    "Description": "This is a SportsMaster Luxury Items 1289 with great features.",
+    "Price": 6596.36,
+    "PictureUrl": "images/products/sportsmaster_luxury_items_1289.jpg",
+    "ProductTypeId": 42,
+    "ProductBrandId": 37
+  },
+  {
+    "Name": "TimeMaster Jewelry 363",
+    "Description": "This is a TimeMaster Jewelry 363 with great features.",
+    "Price": 4830.38,
+    "PictureUrl": "images/products/timemaster_jewelry_363.jpg",
+    "ProductTypeId": 32,
+    "ProductBrandId": 9
+  },
+  {
+    "Name": "TravelTech Monitors 246",
+    "Description": "This is a TravelTech Monitors 246 with great features.",
+    "Price": 525.05,
+    "PictureUrl": "images/products/traveltech_monitors_246.jpg",
+    "ProductTypeId": 22,
+    "ProductBrandId": 41
+  },
+  {
+    "Name": "TravelTech Furniture 248",
+    "Description": "This is a TravelTech Furniture 248 with great features.",
+    "Price": 169.4,
+    "PictureUrl": "images/products/traveltech_furniture_248.jpg",
+    "ProductTypeId": 35,
+    "ProductBrandId": 41
+  },
+  {
+    "Name": "PetParadise Outdoor Gear 1524",
+    "Description": "This is a PetParadise Outdoor Gear 1524 with great features.",
+    "Price": 8807.92,
+    "PictureUrl": "images/products/petparadise_outdoor_gear_1524.jpg",
+    "ProductTypeId": 36,
+    "ProductBrandId": 36
+  },
+  {
+    "Name": "BrewMaster Appliances 173",
+    "Description": "This is a BrewMaster Appliances 173 with great features.",
+    "Price": 7962.35,
+    "PictureUrl": "images/products/brewmaster_appliances_173.jpg",
+    "ProductTypeId": 43,
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "PetParadise Fitness Trackers 140",
+    "Description": "This is a PetParadise Fitness Trackers 140 with great features.",
+    "Price": 732.72,
+    "PictureUrl": "images/products/petparadise_fitness_trackers_140.jpg",
+    "ProductTypeId": 19,
+    "ProductBrandId": 36
+  },
+  {
+    "Name": "TechWave Fitness Trackers 1257",
+    "Description": "This is a TechWave Fitness Trackers 1257 with great features.",
+    "Price": 1884.04,
+    "PictureUrl": "images/products/techwave_fitness_trackers_1257.jpg",
+    "ProductTypeId": 19,
+    "ProductBrandId": 21
+  },
+  {
+    "Name": "OutdoorGearPro Audio and Music Gear 1939",
+    "Description": "This is a OutdoorGearPro Audio and Music Gear 1939 with great features.",
+    "Price": 383.33,
+    "PictureUrl": "images/products/outdoorgearpro_audio_and_music_gear_1939.jpg",
+    "ProductTypeId": 12,
+    "ProductBrandId": 29
+  },
+  {
+    "Name": "Fashionista Home Decor 1676",
+    "Description": "This is a Fashionista Home Decor 1676 with great features.",
+    "Price": 4971.99,
+    "PictureUrl": "images/products/fashionista_home_decor_1676.jpg",
+    "ProductTypeId": 29,
+    "ProductBrandId": 13
+  },
+  {
+    "Name": "GameX Furniture 984",
+    "Description": "This is a GameX Furniture 984 with great features.",
+    "Price": 878.53,
+    "PictureUrl": "images/products/gamex_furniture_984.jpg",
+    "ProductTypeId": 35,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "ArtisanGoods Printers 722",
+    "Description": "This is a ArtisanGoods Printers 722 with great features.",
+    "Price": 5279.2,
+    "PictureUrl": "images/products/artisangoods_printers_722.jpg",
+    "ProductTypeId": 20,
+    "ProductBrandId": 27
+  },
+  {
+    "Name": "KitchenKraft Software 1144",
+    "Description": "This is a KitchenKraft Software 1144 with great features.",
+    "Price": 3421.66,
+    "PictureUrl": "images/products/kitchenkraft_software_1144.jpg",
+    "ProductTypeId": 28,
+    "ProductBrandId": 19
+  },
+  {
+    "Name": "FashionFusion Adventure Gear 282",
+    "Description": "This is a FashionFusion Adventure Gear 282 with great features.",
+    "Price": 9922.02,
+    "PictureUrl": "images/products/fashionfusion_adventure_gear_282.jpg",
+    "ProductTypeId": 45,
+    "ProductBrandId": 32
+  },
+  {
+    "Name": "HealthHub Software 1782",
+    "Description": "This is a HealthHub Software 1782 with great features.",
+    "Price": 4449.47,
+    "PictureUrl": "images/products/healthhub_software_1782.jpg",
+    "ProductTypeId": 28,
+    "ProductBrandId": 18
+  },
+  {
+    "Name": "HealthEssentials Travel Accessories 978",
+    "Description": "This is a HealthEssentials Travel Accessories 978 with great features.",
+    "Price": 7631.7,
+    "PictureUrl": "images/products/healthessentials_travel_accessories_978.jpg",
+    "ProductTypeId": 40,
+    "ProductBrandId": 30
+  },
+  {
+    "Name": "HomeDecorHub Automotive 947",
+    "Description": "This is a HomeDecorHub Automotive 947 with great features.",
+    "Price": 491.33,
+    "PictureUrl": "images/products/homedecorhub_automotive_947.jpg",
+    "ProductTypeId": 31,
+    "ProductBrandId": 28
+  },
+  {
+    "Name": "PetParadise Art and Crafts 1984",
+    "Description": "This is a PetParadise Art and Crafts 1984 with great features.",
+    "Price": 1779.12,
+    "PictureUrl": "images/products/petparadise_art_and_crafts_1984.jpg",
+    "ProductTypeId": 34,
+    "ProductBrandId": 36
+  },
+  {
+    "Name": "GadgetZone Action Cameras 1877",
+    "Description": "This is a GadgetZone Action Cameras 1877 with great features.",
+    "Price": 7268.73,
+    "PictureUrl": "images/products/gadgetzone_action_cameras_1877.jpg",
+    "ProductTypeId": 24,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "HomeHarbor Tablets 1948",
+    "Description": "This is a HomeHarbor Tablets 1948 with great features.",
+    "Price": 4395.0,
+    "PictureUrl": "images/products/homeharbor_tablets_1948.jpg",
+    "ProductTypeId": 6,
+    "ProductBrandId": 40
+  },
+  {
+    "Name": "HomeApex Books 715",
+    "Description": "This is a HomeApex Books 715 with great features.",
+    "Price": 6107.64,
+    "PictureUrl": "images/products/homeapex_books_715.jpg",
+    "ProductTypeId": 33,
+    "ProductBrandId": 11
+  },
+  {
+    "Name": "AutoMasters Digital Cameras 1963",
+    "Description": "This is a AutoMasters Digital Cameras 1963 with great features.",
+    "Price": 4501.92,
+    "PictureUrl": "images/products/automasters_digital_cameras_1963.jpg",
+    "ProductTypeId": 23,
+    "ProductBrandId": 24
+  },
+  {
+    "Name": "FurnitureLand Fitness Trackers 1441",
+    "Description": "This is a FurnitureLand Fitness Trackers 1441 with great features.",
+    "Price": 5560.72,
+    "PictureUrl": "images/products/furnitureland_fitness_trackers_1441.jpg",
+    "ProductTypeId": 19,
+    "ProductBrandId": 22
+  },
+  {
+    "Name": "HomeElegance Adventure Gear 1204",
+    "Description": "This is a HomeElegance Adventure Gear 1204 with great features.",
+    "Price": 5783.41,
+    "PictureUrl": "images/products/homeelegance_adventure_gear_1204.jpg",
+    "ProductTypeId": 45,
+    "ProductBrandId": 50
+  },
+  {
+    "Name": "AutoMasters Outdoor and Adventure 1399",
+    "Description": "This is a AutoMasters Outdoor and Adventure 1399 with great features.",
+    "Price": 3860.52,
+    "PictureUrl": "images/products/automasters_outdoor_and_adventure_1399.jpg",
+    "ProductTypeId": 14,
+    "ProductBrandId": 24
+  },
+  {
+    "Name": "GameX Sports and Fitness 1919",
+    "Description": "This is a GameX Sports and Fitness 1919 with great features.",
+    "Price": 8155.23,
+    "PictureUrl": "images/products/gamex_sports_and_fitness_1919.jpg",
+    "ProductTypeId": 9,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "OutdoorGearPro Luxury Items 206",
+    "Description": "This is a OutdoorGearPro Luxury Items 206 with great features.",
+    "Price": 3739.62,
+    "PictureUrl": "images/products/outdoorgearpro_luxury_items_206.jpg",
+    "ProductTypeId": 42,
+    "ProductBrandId": 29
+  },
+  {
+    "Name": "BeautyBuzz Handmade Crafts 1818",
+    "Description": "This is a BeautyBuzz Handmade Crafts 1818 with great features.",
+    "Price": 4686.51,
+    "PictureUrl": "images/products/beautybuzz_handmade_crafts_1818.jpg",
+    "ProductTypeId": 48,
+    "ProductBrandId": 20
+  },
+  {
+    "Name": "CameraTech Outdoor and Adventure 1216",
+    "Description": "This is a CameraTech Outdoor and Adventure 1216 with great features.",
+    "Price": 2525.55,
+    "PictureUrl": "images/products/cameratech_outdoor_and_adventure_1216.jpg",
+    "ProductTypeId": 14,
+    "ProductBrandId": 10
+  },
+  {
+    "Name": "CameraTech Smart Watches 594",
+    "Description": "This is a CameraTech Smart Watches 594 with great features.",
+    "Price": 556.41,
+    "PictureUrl": "images/products/cameratech_smart_watches_594.jpg",
+    "ProductTypeId": 18,
+    "ProductBrandId": 10
+  },
+  {
+    "Name": "HomeHarbor Monitors 1991",
+    "Description": "This is a HomeHarbor Monitors 1991 with great features.",
+    "Price": 287.58,
+    "PictureUrl": "images/products/homeharbor_monitors_1991.jpg",
+    "ProductTypeId": 22,
+    "ProductBrandId": 40
+  },
+  {
+    "Name": "ArtisanGoods Jewelry 1598",
+    "Description": "This is a ArtisanGoods Jewelry 1598 with great features.",
+    "Price": 1685.59,
+    "PictureUrl": "images/products/artisangoods_jewelry_1598.jpg",
+    "ProductTypeId": 32,
+    "ProductBrandId": 27
+  },
+  {
+    "Name": "ElectroGizmo Automotive 1032",
+    "Description": "This is a ElectroGizmo Automotive 1032 with great features.",
+    "Price": 1266.74,
+    "PictureUrl": "images/products/electrogizmo_automotive_1032.jpg",
+    "ProductTypeId": 31,
+    "ProductBrandId": 33
+  },
+  {
+    "Name": "HomeDecorHub Smart Watches 331",
+    "Description": "This is a HomeDecorHub Smart Watches 331 with great features.",
+    "Price": 1544.0,
+    "PictureUrl": "images/products/homedecorhub_smart_watches_331.jpg",
+    "ProductTypeId": 18,
+    "ProductBrandId": 28
+  },
+  {
+    "Name": "BeautyBuzz Tech Accessories 584",
+    "Description": "This is a BeautyBuzz Tech Accessories 584 with great features.",
+    "Price": 7737.32,
+    "PictureUrl": "images/products/beautybuzz_tech_accessories_584.jpg",
+    "ProductTypeId": 39,
+    "ProductBrandId": 20
+  },
+  {
+    "Name": "TechGenius Tablets 684",
+    "Description": "This is a TechGenius Tablets 684 with great features.",
+    "Price": 8946.17,
+    "PictureUrl": "images/products/techgenius_tablets_684.jpg",
+    "ProductTypeId": 6,
+    "ProductBrandId": 39
+  },
+  {
+    "Name": "Fashionista Televisions 147",
+    "Description": "This is a Fashionista Televisions 147 with great features.",
+    "Price": 5956.27,
+    "PictureUrl": "images/products/fashionista_televisions_147.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 13
+  },
+  {
+    "Name": "SoundWave Smartphones 602",
+    "Description": "This is a SoundWave Smartphones 602 with great features.",
+    "Price": 2513.23,
+    "PictureUrl": "images/products/soundwave_smartphones_602.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 35
+  },
+  {
+    "Name": "TimeMaster Wearable Tech 1885",
+    "Description": "This is a TimeMaster Wearable Tech 1885 with great features.",
+    "Price": 2129.46,
+    "PictureUrl": "images/products/timemaster_wearable_tech_1885.jpg",
+    "ProductTypeId": 26,
+    "ProductBrandId": 9
+  },
+  {
+    "Name": "ArtisanGoods Televisions 49",
+    "Description": "This is a ArtisanGoods Televisions 49 with great features.",
+    "Price": 8187.95,
+    "PictureUrl": "images/products/artisangoods_televisions_49.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 27
+  },
+  {
+    "Name": "HealthEssentials Art Supplies 781",
+    "Description": "This is a HealthEssentials Art Supplies 781 with great features.",
+    "Price": 8785.96,
+    "PictureUrl": "images/products/healthessentials_art_supplies_781.jpg",
+    "ProductTypeId": 47,
+    "ProductBrandId": 30
+  },
+  {
+    "Name": "OutdoorAdventures Fashion and Apparel 1912",
+    "Description": "This is a OutdoorAdventures Fashion and Apparel 1912 with great features.",
+    "Price": 9892.87,
+    "PictureUrl": "images/products/outdooradventures_fashion_and_apparel_1912.jpg",
+    "ProductTypeId": 10,
+    "ProductBrandId": 17
+  },
+  {
+    "Name": "HomeElegance Tablets 1765",
+    "Description": "This is a HomeElegance Tablets 1765 with great features.",
+    "Price": 6617.64,
+    "PictureUrl": "images/products/homeelegance_tablets_1765.jpg",
+    "ProductTypeId": 6,
+    "ProductBrandId": 50
+  },
+  {
+    "Name": "GreenGizmo Laptops 891",
+    "Description": "This is a GreenGizmo Laptops 891 with great features.",
+    "Price": 9410.21,
+    "PictureUrl": "images/products/greengizmo_laptops_891.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 14
+  },
+  {
+    "Name": "Fashionista Green and Eco-Friendly 312",
+    "Description": "This is a Fashionista Green and Eco-Friendly 312 with great features.",
+    "Price": 4488.56,
+    "PictureUrl": "images/products/fashionista_green_and_eco-friendly_312.jpg",
+    "ProductTypeId": 11,
+    "ProductBrandId": 13
+  },
+  {
+    "Name": "MusicMasters Art Supplies 1011",
+    "Description": "This is a MusicMasters Art Supplies 1011 with great features.",
+    "Price": 5092.84,
+    "PictureUrl": "images/products/musicmasters_art_supplies_1011.jpg",
+    "ProductTypeId": 47,
+    "ProductBrandId": 15
+  },
+  {
+    "Name": "CameraCraze Candles and Scents 1331",
+    "Description": "This is a CameraCraze Candles and Scents 1331 with great features.",
+    "Price": 6793.2,
+    "PictureUrl": "images/products/cameracraze_candles_and_scents_1331.jpg",
+    "ProductTypeId": 50,
+    "ProductBrandId": 48
+  },
+  {
+    "Name": "TechWave Automotive 1399",
+    "Description": "This is a TechWave Automotive 1399 with great features.",
+    "Price": 8555.96,
+    "PictureUrl": "images/products/techwave_automotive_1399.jpg",
+    "ProductTypeId": 31,
+    "ProductBrandId": 21
+  },
+  {
+    "Name": "TravelTech Smart Watches 1597",
+    "Description": "This is a TravelTech Smart Watches 1597 with great features.",
+    "Price": 6604.19,
+    "PictureUrl": "images/products/traveltech_smart_watches_1597.jpg",
+    "ProductTypeId": 18,
+    "ProductBrandId": 41
+  },
+  {
+    "Name": "BeautyBuzz Smartphones 839",
+    "Description": "This is a BeautyBuzz Smartphones 839 with great features.",
+    "Price": 5244.26,
+    "PictureUrl": "images/products/beautybuzz_smartphones_839.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 20
+  },
+  {
+    "Name": "BookNook Health and Wellness 1254",
+    "Description": "This is a BookNook Health and Wellness 1254 with great features.",
+    "Price": 7639.98,
+    "PictureUrl": "images/products/booknook_health_and_wellness_1254.jpg",
+    "ProductTypeId": 15,
+    "ProductBrandId": 26
+  },
+  {
+    "Name": "HomeDecorHub Software 1854",
+    "Description": "This is a HomeDecorHub Software 1854 with great features.",
+    "Price": 7228.62,
+    "PictureUrl": "images/products/homedecorhub_software_1854.jpg",
+    "ProductTypeId": 28,
+    "ProductBrandId": 28
+  },
+  {
+    "Name": "BeautyBliss Smartphones 13",
+    "Description": "This is a BeautyBliss Smartphones 13 with great features.",
+    "Price": 9148.76,
+    "PictureUrl": "images/products/beautybliss_smartphones_13.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 38
+  },
+  {
+    "Name": "ArtisticGems Jewelry 1409",
+    "Description": "This is a ArtisticGems Jewelry 1409 with great features.",
+    "Price": 8178.02,
+    "PictureUrl": "images/products/artisticgems_jewelry_1409.jpg",
+    "ProductTypeId": 32,
+    "ProductBrandId": 49
+  },
+  {
+    "Name": "PetPalace Travel Accessories 68",
+    "Description": "This is a PetPalace Travel Accessories 68 with great features.",
+    "Price": 6591.18,
+    "PictureUrl": "images/products/petpalace_travel_accessories_68.jpg",
+    "ProductTypeId": 40,
+    "ProductBrandId": 16
+  },
+  {
+    "Name": "GreenGizmo Books 1879",
+    "Description": "This is a GreenGizmo Books 1879 with great features.",
+    "Price": 8381.54,
+    "PictureUrl": "images/products/greengizmo_books_1879.jpg",
+    "ProductTypeId": 33,
+    "ProductBrandId": 14
+  },
+  {
+    "Name": "BeautyBuzz Musical Instruments 1019",
+    "Description": "This is a BeautyBuzz Musical Instruments 1019 with great features.",
+    "Price": 6451.28,
+    "PictureUrl": "images/products/beautybuzz_musical_instruments_1019.jpg",
+    "ProductTypeId": 44,
+    "ProductBrandId": 20
+  },
+  {
+    "Name": "MusicMania Art and Crafts 780",
+    "Description": "This is a MusicMania Art and Crafts 780 with great features.",
+    "Price": 3610.29,
+    "PictureUrl": "images/products/musicmania_art_and_crafts_780.jpg",
+    "ProductTypeId": 34,
+    "ProductBrandId": 45
+  },
+  {
+    "Name": "KitchenKraft Software 508",
+    "Description": "This is a KitchenKraft Software 508 with great features.",
+    "Price": 8077.13,
+    "PictureUrl": "images/products/kitchenkraft_software_508.jpg",
+    "ProductTypeId": 28,
+    "ProductBrandId": 19
+  },
+  {
+    "Name": "TimeMaster Travel Accessories 676",
+    "Description": "This is a TimeMaster Travel Accessories 676 with great features.",
+    "Price": 9812.96,
+    "PictureUrl": "images/products/timemaster_travel_accessories_676.jpg",
+    "ProductTypeId": 40,
+    "ProductBrandId": 9
+  },
+  {
+    "Name": "TimeMaster Outdoor and Adventure 1099",
+    "Description": "This is a TimeMaster Outdoor and Adventure 1099 with great features.",
+    "Price": 5517.49,
+    "PictureUrl": "images/products/timemaster_outdoor_and_adventure_1099.jpg",
+    "ProductTypeId": 14,
+    "ProductBrandId": 9
+  },
+  {
+    "Name": "ElectroTech Office Supplies 905",
+    "Description": "This is a ElectroTech Office Supplies 905 with great features.",
+    "Price": 5969.28,
+    "PictureUrl": "images/products/electrotech_office_supplies_905.jpg",
+    "ProductTypeId": 27,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "FashionFusion Toys and Games 1237",
+    "Description": "This is a FashionFusion Toys and Games 1237 with great features.",
+    "Price": 2558.2,
+    "PictureUrl": "images/products/fashionfusion_toys_and_games_1237.jpg",
+    "ProductTypeId": 30,
+    "ProductBrandId": 32
+  },
+  {
+    "Name": "FashionFusion Gaming Consoles 1011",
+    "Description": "This is a FashionFusion Gaming Consoles 1011 with great features.",
+    "Price": 5245.04,
+    "PictureUrl": "images/products/fashionfusion_gaming_consoles_1011.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 32
+  },
+  {
+    "Name": "PetPalace Fitness Trackers 80",
+    "Description": "This is a PetPalace Fitness Trackers 80 with great features.",
+    "Price": 9906.7,
+    "PictureUrl": "images/products/petpalace_fitness_trackers_80.jpg",
+    "ProductTypeId": 19,
+    "ProductBrandId": 16
+  },
+  {
+    "Name": "OutdoorAdventures Travel Accessories 203",
+    "Description": "This is a OutdoorAdventures Travel Accessories 203 with great features.",
+    "Price": 5376.77,
+    "PictureUrl": "images/products/outdooradventures_travel_accessories_203.jpg",
+    "ProductTypeId": 40,
+    "ProductBrandId": 17
+  },
+  {
+    "Name": "HomeApex Outdoor and Adventure 708",
+    "Description": "This is a HomeApex Outdoor and Adventure 708 with great features.",
+    "Price": 8795.48,
+    "PictureUrl": "images/products/homeapex_outdoor_and_adventure_708.jpg",
+    "ProductTypeId": 14,
+    "ProductBrandId": 11
+  },
+  {
+    "Name": "TimelessTreasures Gaming Consoles 994",
+    "Description": "This is a TimelessTreasures Gaming Consoles 994 with great features.",
+    "Price": 1867.39,
+    "PictureUrl": "images/products/timelesstreasures_gaming_consoles_994.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 47
+  },
+  {
+    "Name": "MusicMasters Jewelry 1711",
+    "Description": "This is a MusicMasters Jewelry 1711 with great features.",
+    "Price": 8920.01,
+    "PictureUrl": "images/products/musicmasters_jewelry_1711.jpg",
+    "ProductTypeId": 32,
+    "ProductBrandId": 15
+  },
+  {
+    "Name": "FitPro Candles and Scents 1631",
+    "Description": "This is a FitPro Candles and Scents 1631 with great features.",
+    "Price": 1549.96,
+    "PictureUrl": "images/products/fitpro_candles_and_scents_1631.jpg",
+    "ProductTypeId": 50,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "FurnitureLand Jewelry 1622",
+    "Description": "This is a FurnitureLand Jewelry 1622 with great features.",
+    "Price": 6935.02,
+    "PictureUrl": "images/products/furnitureland_jewelry_1622.jpg",
+    "ProductTypeId": 32,
+    "ProductBrandId": 22
+  },
+  {
+    "Name": "SoundMaster Musical Instruments 1985",
+    "Description": "This is a SoundMaster Musical Instruments 1985 with great features.",
+    "Price": 5837.3,
+    "PictureUrl": "images/products/soundmaster_musical_instruments_1985.jpg",
+    "ProductTypeId": 44,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "GameX Appliances 685",
+    "Description": "This is a GameX Appliances 685 with great features.",
+    "Price": 5441.01,
+    "PictureUrl": "images/products/gamex_appliances_685.jpg",
+    "ProductTypeId": 43,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "HomeLux Musical Instruments 779",
+    "Description": "This is a HomeLux Musical Instruments 779 with great features.",
+    "Price": 4139.38,
+    "PictureUrl": "images/products/homelux_musical_instruments_779.jpg",
+    "ProductTypeId": 44,
+    "ProductBrandId": 43
+  },
+  {
+    "Name": "GadgetZone Travel Accessories 411",
+    "Description": "This is a GadgetZone Travel Accessories 411 with great features.",
+    "Price": 7990.51,
+    "PictureUrl": "images/products/gadgetzone_travel_accessories_411.jpg",
+    "ProductTypeId": 40,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "SoundMaster Laptops 277",
+    "Description": "This is a SoundMaster Laptops 277 with great features.",
+    "Price": 6796.19,
+    "PictureUrl": "images/products/soundmaster_laptops_277.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "ToyGalaxy Handmade Crafts 1390",
+    "Description": "This is a ToyGalaxy Handmade Crafts 1390 with great features.",
+    "Price": 5967.01,
+    "PictureUrl": "images/products/toygalaxy_handmade_crafts_1390.jpg",
+    "ProductTypeId": 48,
+    "ProductBrandId": 23
+  },
+  {
+    "Name": "MusicMasters Smartphones 1893",
+    "Description": "This is a MusicMasters Smartphones 1893 with great features.",
+    "Price": 3184.77,
+    "PictureUrl": "images/products/musicmasters_smartphones_1893.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 15
+  },
+  {
+    "Name": "HomeApex Wearable Tech 1992",
+    "Description": "This is a HomeApex Wearable Tech 1992 with great features.",
+    "Price": 7962.68,
+    "PictureUrl": "images/products/homeapex_wearable_tech_1992.jpg",
+    "ProductTypeId": 26,
+    "ProductBrandId": 11
+  },
+  {
+    "Name": "HomeApex Audio and Music Gear 518",
+    "Description": "This is a HomeApex Audio and Music Gear 518 with great features.",
+    "Price": 7898.94,
+    "PictureUrl": "images/products/homeapex_audio_and_music_gear_518.jpg",
+    "ProductTypeId": 12,
+    "ProductBrandId": 11
+  },
+  {
+    "Name": "KitchenKraft Jewelry 695",
+    "Description": "This is a KitchenKraft Jewelry 695 with great features.",
+    "Price": 3285.59,
+    "PictureUrl": "images/products/kitchenkraft_jewelry_695.jpg",
+    "ProductTypeId": 32,
+    "ProductBrandId": 19
+  },
+  {
+    "Name": "OutdoorAdventures Books 1136",
+    "Description": "This is a OutdoorAdventures Books 1136 with great features.",
+    "Price": 1323.83,
+    "PictureUrl": "images/products/outdooradventures_books_1136.jpg",
+    "ProductTypeId": 33,
+    "ProductBrandId": 17
+  },
+  {
+    "Name": "Sportify Art and Crafts 1940",
+    "Description": "This is a Sportify Art and Crafts 1940 with great features.",
+    "Price": 2253.6,
+    "PictureUrl": "images/products/sportify_art_and_crafts_1940.jpg",
+    "ProductTypeId": 34,
+    "ProductBrandId": 12
+  },
+  {
+    "Name": "ArtisticGems Monitors 1449",
+    "Description": "This is a ArtisticGems Monitors 1449 with great features.",
+    "Price": 6083.87,
+    "PictureUrl": "images/products/artisticgems_monitors_1449.jpg",
+    "ProductTypeId": 22,
+    "ProductBrandId": 49
+  },
+  {
+    "Name": "HealthEssentials Appliances 734",
+    "Description": "This is a HealthEssentials Appliances 734 with great features.",
+    "Price": 8913.55,
+    "PictureUrl": "images/products/healthessentials_appliances_734.jpg",
+    "ProductTypeId": 43,
+    "ProductBrandId": 30
+  },
+  {
+    "Name": "SoundMaster Action Cameras 1798",
+    "Description": "This is a SoundMaster Action Cameras 1798 with great features.",
+    "Price": 5623.39,
+    "PictureUrl": "images/products/soundmaster_action_cameras_1798.jpg",
+    "ProductTypeId": 24,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "TravelTech Fashion and Apparel 212",
+    "Description": "This is a TravelTech Fashion and Apparel 212 with great features.",
+    "Price": 2770.55,
+    "PictureUrl": "images/products/traveltech_fashion_and_apparel_212.jpg",
+    "ProductTypeId": 10,
+    "ProductBrandId": 41
+  },
+  {
+    "Name": "ElectroGizmo Automotive 793",
+    "Description": "This is a ElectroGizmo Automotive 793 with great features.",
+    "Price": 9368.4,
+    "PictureUrl": "images/products/electrogizmo_automotive_793.jpg",
+    "ProductTypeId": 31,
+    "ProductBrandId": 33
+  },
+  {
+    "Name": "ToyGalaxy Travel Accessories 862",
+    "Description": "This is a ToyGalaxy Travel Accessories 862 with great features.",
+    "Price": 6452.58,
+    "PictureUrl": "images/products/toygalaxy_travel_accessories_862.jpg",
+    "ProductTypeId": 40,
+    "ProductBrandId": 23
+  },
+  {
+    "Name": "TechGenius Drones 1365",
+    "Description": "This is a TechGenius Drones 1365 with great features.",
+    "Price": 3731.53,
+    "PictureUrl": "images/products/techgenius_drones_1365.jpg",
+    "ProductTypeId": 25,
+    "ProductBrandId": 39
+  },
+  {
+    "Name": "BeautyBliss Green and Eco-Friendly 1410",
+    "Description": "This is a BeautyBliss Green and Eco-Friendly 1410 with great features.",
+    "Price": 673.58,
+    "PictureUrl": "images/products/beautybliss_green_and_eco-friendly_1410.jpg",
+    "ProductTypeId": 11,
+    "ProductBrandId": 38
+  },
+  {
+    "Name": "PetPalace Home Decor 351",
+    "Description": "This is a PetPalace Home Decor 351 with great features.",
+    "Price": 4014.34,
+    "PictureUrl": "images/products/petpalace_home_decor_351.jpg",
+    "ProductTypeId": 29,
+    "ProductBrandId": 16
+  },
+  {
+    "Name": "TechCorp Laptops 630",
+    "Description": "This is a TechCorp Laptops 630 with great features.",
+    "Price": 5199.34,
+    "PictureUrl": "images/products/techcorp_laptops_630.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "OutdoorAdventures Musical Instruments 127",
+    "Description": "This is a OutdoorAdventures Musical Instruments 127 with great features.",
+    "Price": 8418.54,
+    "PictureUrl": "images/products/outdooradventures_musical_instruments_127.jpg",
+    "ProductTypeId": 44,
+    "ProductBrandId": 17
+  },
+  {
+    "Name": "GadgetZone Fitness Trackers 774",
+    "Description": "This is a GadgetZone Fitness Trackers 774 with great features.",
+    "Price": 688.1,
+    "PictureUrl": "images/products/gadgetzone_fitness_trackers_774.jpg",
+    "ProductTypeId": 19,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "GreenGizmo Digital Cameras 712",
+    "Description": "This is a GreenGizmo Digital Cameras 712 with great features.",
+    "Price": 3047.89,
+    "PictureUrl": "images/products/greengizmo_digital_cameras_712.jpg",
+    "ProductTypeId": 23,
+    "ProductBrandId": 14
+  },
+  {
+    "Name": "GreenGizmo Headphones 441",
+    "Description": "This is a GreenGizmo Headphones 441 with great features.",
+    "Price": 3561.4,
+    "PictureUrl": "images/products/greengizmo_headphones_441.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 14
+  },
+  {
+    "Name": "TechWave Jewelry 1196",
+    "Description": "This is a TechWave Jewelry 1196 with great features.",
+    "Price": 4238.96,
+    "PictureUrl": "images/products/techwave_jewelry_1196.jpg",
+    "ProductTypeId": 32,
+    "ProductBrandId": 21
+  },
+  {
+    "Name": "ArtisanGoods Beauty and Personal Care 1762",
+    "Description": "This is a ArtisanGoods Beauty and Personal Care 1762 with great features.",
+    "Price": 4351.25,
+    "PictureUrl": "images/products/artisangoods_beauty_and_personal_care_1762.jpg",
+    "ProductTypeId": 17,
+    "ProductBrandId": 27
+  },
+  {
+    "Name": "MusicMasters Gaming Consoles 1578",
+    "Description": "This is a MusicMasters Gaming Consoles 1578 with great features.",
+    "Price": 6318.72,
+    "PictureUrl": "images/products/musicmasters_gaming_consoles_1578.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 15
+  },
+  {
+    "Name": "TechWave Art and Crafts 1882",
+    "Description": "This is a TechWave Art and Crafts 1882 with great features.",
+    "Price": 5972.41,
+    "PictureUrl": "images/products/techwave_art_and_crafts_1882.jpg",
+    "ProductTypeId": 34,
+    "ProductBrandId": 21
+  },
+  {
+    "Name": "AdventureGear Outdoor Gear 1920",
+    "Description": "This is a AdventureGear Outdoor Gear 1920 with great features.",
+    "Price": 6459.78,
+    "PictureUrl": "images/products/adventuregear_outdoor_gear_1920.jpg",
+    "ProductTypeId": 36,
+    "ProductBrandId": 46
+  },
+  {
+    "Name": "TechGenius Beauty and Personal Care 1983",
+    "Description": "This is a TechGenius Beauty and Personal Care 1983 with great features.",
+    "Price": 1808.74,
+    "PictureUrl": "images/products/techgenius_beauty_and_personal_care_1983.jpg",
+    "ProductTypeId": 17,
+    "ProductBrandId": 39
+  },
+  {
+    "Name": "BeautyBliss Sports Equipment 1558",
+    "Description": "This is a BeautyBliss Sports Equipment 1558 with great features.",
+    "Price": 5229.58,
+    "PictureUrl": "images/products/beautybliss_sports_equipment_1558.jpg",
+    "ProductTypeId": 37,
+    "ProductBrandId": 38
+  },
+  {
+    "Name": "OutdoorGearPro Books 100",
+    "Description": "This is a OutdoorGearPro Books 100 with great features.",
+    "Price": 8608.1,
+    "PictureUrl": "images/products/outdoorgearpro_books_100.jpg",
+    "ProductTypeId": 33,
+    "ProductBrandId": 29
+  },
+  {
+    "Name": "KitchenKraft Outdoor and Adventure 1660",
+    "Description": "This is a KitchenKraft Outdoor and Adventure 1660 with great features.",
+    "Price": 207.05,
+    "PictureUrl": "images/products/kitchenkraft_outdoor_and_adventure_1660.jpg",
+    "ProductTypeId": 14,
+    "ProductBrandId": 19
+  },
+  {
+    "Name": "FashionForward Laptops 125",
+    "Description": "This is a FashionForward Laptops 125 with great features.",
+    "Price": 9725.81,
+    "PictureUrl": "images/products/fashionforward_laptops_125.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 42
+  },
+  {
+    "Name": "TechCorp Gaming Consoles 1123",
+    "Description": "This is a TechCorp Gaming Consoles 1123 with great features.",
+    "Price": 7508.21,
+    "PictureUrl": "images/products/techcorp_gaming_consoles_1123.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "ArtisanGoods Audio and Music Gear 89",
+    "Description": "This is a ArtisanGoods Audio and Music Gear 89 with great features.",
+    "Price": 390.95,
+    "PictureUrl": "images/products/artisangoods_audio_and_music_gear_89.jpg",
+    "ProductTypeId": 12,
+    "ProductBrandId": 27
+  },
+  {
+    "Name": "PetPalace Green and Eco-Friendly 688",
+    "Description": "This is a PetPalace Green and Eco-Friendly 688 with great features.",
+    "Price": 7194.8,
+    "PictureUrl": "images/products/petpalace_green_and_eco-friendly_688.jpg",
+    "ProductTypeId": 11,
+    "ProductBrandId": 16
+  },
+  {
+    "Name": "GreenGizmo Fashion and Apparel 1321",
+    "Description": "This is a GreenGizmo Fashion and Apparel 1321 with great features.",
+    "Price": 2425.84,
+    "PictureUrl": "images/products/greengizmo_fashion_and_apparel_1321.jpg",
+    "ProductTypeId": 10,
+    "ProductBrandId": 14
+  },
+  {
+    "Name": "HomeElegance Toys and Games 668",
+    "Description": "This is a HomeElegance Toys and Games 668 with great features.",
+    "Price": 8523.66,
+    "PictureUrl": "images/products/homeelegance_toys_and_games_668.jpg",
+    "ProductTypeId": 30,
+    "ProductBrandId": 50
+  },
+  {
+    "Name": "GadgetZone Smartphones 839",
+    "Description": "This is a GadgetZone Smartphones 839 with great features.",
+    "Price": 5204.18,
+    "PictureUrl": "images/products/gadgetzone_smartphones_839.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "AdventureGear Sports Equipment 1444",
+    "Description": "This is a AdventureGear Sports Equipment 1444 with great features.",
+    "Price": 8177.73,
+    "PictureUrl": "images/products/adventuregear_sports_equipment_1444.jpg",
+    "ProductTypeId": 37,
+    "ProductBrandId": 46
+  },
+  {
+    "Name": "HomeDecorHub Kitchen and Cooking 967",
+    "Description": "This is a HomeDecorHub Kitchen and Cooking 967 with great features.",
+    "Price": 4687.04,
+    "PictureUrl": "images/products/homedecorhub_kitchen_and_cooking_967.jpg",
+    "ProductTypeId": 16,
+    "ProductBrandId": 28
+  },
+  {
+    "Name": "KitchenKraft Drones 886",
+    "Description": "This is a KitchenKraft Drones 886 with great features.",
+    "Price": 868.34,
+    "PictureUrl": "images/products/kitchenkraft_drones_886.jpg",
+    "ProductTypeId": 25,
+    "ProductBrandId": 19
+  },
+  {
+    "Name": "HomeHarbor Sports Equipment 616",
+    "Description": "This is a HomeHarbor Sports Equipment 616 with great features.",
+    "Price": 8697.57,
+    "PictureUrl": "images/products/homeharbor_sports_equipment_616.jpg",
+    "ProductTypeId": 37,
+    "ProductBrandId": 40
+  },
+  {
+    "Name": "HealthEssentials Software 1393",
+    "Description": "This is a HealthEssentials Software 1393 with great features.",
+    "Price": 4447.39,
+    "PictureUrl": "images/products/healthessentials_software_1393.jpg",
+    "ProductTypeId": 28,
+    "ProductBrandId": 30
+  },
+  {
+    "Name": "GameX Art and Crafts 700",
+    "Description": "This is a GameX Art and Crafts 700 with great features.",
+    "Price": 8058.43,
+    "PictureUrl": "images/products/gamex_art_and_crafts_700.jpg",
+    "ProductTypeId": 34,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "FurnitureLand Cameras 347",
+    "Description": "This is a FurnitureLand Cameras 347 with great features.",
+    "Price": 7328.45,
+    "PictureUrl": "images/products/furnitureland_cameras_347.jpg",
+    "ProductTypeId": 7,
+    "ProductBrandId": 22
+  },
+  {
+    "Name": "AutoMasters Gaming Consoles 327",
+    "Description": "This is a AutoMasters Gaming Consoles 327 with great features.",
+    "Price": 3450.22,
+    "PictureUrl": "images/products/automasters_gaming_consoles_327.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 24
+  },
+  {
+    "Name": "AdventurePro Headphones 1649",
+    "Description": "This is a AdventurePro Headphones 1649 with great features.",
+    "Price": 4402.09,
+    "PictureUrl": "images/products/adventurepro_headphones_1649.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 8
+  },
+  {
+    "Name": "GadgetZone Travel Accessories 908",
+    "Description": "This is a GadgetZone Travel Accessories 908 with great features.",
+    "Price": 7851.54,
+    "PictureUrl": "images/products/gadgetzone_travel_accessories_908.jpg",
+    "ProductTypeId": 40,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "ElectroWave Art and Crafts 1924",
+    "Description": "This is a ElectroWave Art and Crafts 1924 with great features.",
+    "Price": 2967.83,
+    "PictureUrl": "images/products/electrowave_art_and_crafts_1924.jpg",
+    "ProductTypeId": 34,
+    "ProductBrandId": 44
+  },
+  {
+    "Name": "HomeElegance Televisions 1187",
+    "Description": "This is a HomeElegance Televisions 1187 with great features.",
+    "Price": 2162.88,
+    "PictureUrl": "images/products/homeelegance_televisions_1187.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 50
+  },
+  {
+    "Name": "TechCorp Tablets 51",
+    "Description": "This is a TechCorp Tablets 51 with great features.",
+    "Price": 1980.25,
+    "PictureUrl": "images/products/techcorp_tablets_51.jpg",
+    "ProductTypeId": 6,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "KitchenPro Candles and Scents 1777",
+    "Description": "This is a KitchenPro Candles and Scents 1777 with great features.",
+    "Price": 2720.99,
+    "PictureUrl": "images/products/kitchenpro_candles_and_scents_1777.jpg",
+    "ProductTypeId": 50,
+    "ProductBrandId": 31
+  },
+  {
+    "Name": "FitPro Wearable Tech 1636",
+    "Description": "This is a FitPro Wearable Tech 1636 with great features.",
+    "Price": 3665.92,
+    "PictureUrl": "images/products/fitpro_wearable_tech_1636.jpg",
+    "ProductTypeId": 26,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "OutdoorGearPro Automotive 833",
+    "Description": "This is a OutdoorGearPro Automotive 833 with great features.",
+    "Price": 1730.22,
+    "PictureUrl": "images/products/outdoorgearpro_automotive_833.jpg",
+    "ProductTypeId": 31,
+    "ProductBrandId": 29
+  },
+  {
+    "Name": "OutdoorAdventures Fashion and Apparel 1141",
+    "Description": "This is a OutdoorAdventures Fashion and Apparel 1141 with great features.",
+    "Price": 7973.17,
+    "PictureUrl": "images/products/outdooradventures_fashion_and_apparel_1141.jpg",
+    "ProductTypeId": 10,
+    "ProductBrandId": 17
+  },
+  {
+    "Name": "KitchenKraft Monitors 258",
+    "Description": "This is a KitchenKraft Monitors 258 with great features.",
+    "Price": 6320.34,
+    "PictureUrl": "images/products/kitchenkraft_monitors_258.jpg",
+    "ProductTypeId": 22,
+    "ProductBrandId": 19
+  },
+  {
+    "Name": "SoundMaster Handmade Crafts 1361",
+    "Description": "This is a SoundMaster Handmade Crafts 1361 with great features.",
+    "Price": 1478.54,
+    "PictureUrl": "images/products/soundmaster_handmade_crafts_1361.jpg",
+    "ProductTypeId": 48,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "MusicMasters Health and Wellness 747",
+    "Description": "This is a MusicMasters Health and Wellness 747 with great features.",
+    "Price": 8656.26,
+    "PictureUrl": "images/products/musicmasters_health_and_wellness_747.jpg",
+    "ProductTypeId": 15,
+    "ProductBrandId": 15
+  },
+  {
+    "Name": "GameZone Kitchen and Cooking 1033",
+    "Description": "This is a GameZone Kitchen and Cooking 1033 with great features.",
+    "Price": 1796.07,
+    "PictureUrl": "images/products/gamezone_kitchen_and_cooking_1033.jpg",
+    "ProductTypeId": 16,
+    "ProductBrandId": 34
+  },
+  {
+    "Name": "BookNook Wearable Tech 1043",
+    "Description": "This is a BookNook Wearable Tech 1043 with great features.",
+    "Price": 8534.25,
+    "PictureUrl": "images/products/booknook_wearable_tech_1043.jpg",
+    "ProductTypeId": 26,
+    "ProductBrandId": 26
+  },
+  {
+    "Name": "ElectroTech Art and Crafts 506",
+    "Description": "This is a ElectroTech Art and Crafts 506 with great features.",
+    "Price": 2320.04,
+    "PictureUrl": "images/products/electrotech_art_and_crafts_506.jpg",
+    "ProductTypeId": 34,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "TechCorp Digital Cameras 824",
+    "Description": "This is a TechCorp Digital Cameras 824 with great features.",
+    "Price": 6529.28,
+    "PictureUrl": "images/products/techcorp_digital_cameras_824.jpg",
+    "ProductTypeId": 23,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "TechCorp Health and Wellness 1938",
+    "Description": "This is a TechCorp Health and Wellness 1938 with great features.",
+    "Price": 9364.24,
+    "PictureUrl": "images/products/techcorp_health_and_wellness_1938.jpg",
+    "ProductTypeId": 15,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "KitchenPro Drones 1324",
+    "Description": "This is a KitchenPro Drones 1324 with great features.",
+    "Price": 120.15,
+    "PictureUrl": "images/products/kitchenpro_drones_1324.jpg",
+    "ProductTypeId": 25,
+    "ProductBrandId": 31
+  },
+  {
+    "Name": "ToyGalaxy Smart Watches 430",
+    "Description": "This is a ToyGalaxy Smart Watches 430 with great features.",
+    "Price": 3640.66,
+    "PictureUrl": "images/products/toygalaxy_smart_watches_430.jpg",
+    "ProductTypeId": 18,
+    "ProductBrandId": 23
+  },
+  {
+    "Name": "ArtisticGems Office Supplies 1013",
+    "Description": "This is a ArtisticGems Office Supplies 1013 with great features.",
+    "Price": 179.64,
+    "PictureUrl": "images/products/artisticgems_office_supplies_1013.jpg",
+    "ProductTypeId": 27,
+    "ProductBrandId": 49
+  },
+  {
+    "Name": "SportsMaster Drones 1026",
+    "Description": "This is a SportsMaster Drones 1026 with great features.",
+    "Price": 455.82,
+    "PictureUrl": "images/products/sportsmaster_drones_1026.jpg",
+    "ProductTypeId": 25,
+    "ProductBrandId": 37
+  },
+  {
+    "Name": "BrewMaster Digital Cameras 96",
+    "Description": "This is a BrewMaster Digital Cameras 96 with great features.",
+    "Price": 5815.65,
+    "PictureUrl": "images/products/brewmaster_digital_cameras_96.jpg",
+    "ProductTypeId": 23,
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "AutoMasters Toys and Games 1053",
+    "Description": "This is a AutoMasters Toys and Games 1053 with great features.",
+    "Price": 4145.11,
+    "PictureUrl": "images/products/automasters_toys_and_games_1053.jpg",
+    "ProductTypeId": 30,
+    "ProductBrandId": 24
+  },
+  {
+    "Name": "FitPro Pet Supplies 1466",
+    "Description": "This is a FitPro Pet Supplies 1466 with great features.",
+    "Price": 4749.17,
+    "PictureUrl": "images/products/fitpro_pet_supplies_1466.jpg",
+    "ProductTypeId": 13,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "ElectroGizmo Outdoor Gear 296",
+    "Description": "This is a ElectroGizmo Outdoor Gear 296 with great features.",
+    "Price": 9882.85,
+    "PictureUrl": "images/products/electrogizmo_outdoor_gear_296.jpg",
+    "ProductTypeId": 36,
+    "ProductBrandId": 33
+  },
+  {
+    "Name": "KitchenKraft Appliances 687",
+    "Description": "This is a KitchenKraft Appliances 687 with great features.",
+    "Price": 9292.1,
+    "PictureUrl": "images/products/kitchenkraft_appliances_687.jpg",
+    "ProductTypeId": 43,
+    "ProductBrandId": 19
+  },
+  {
+    "Name": "TechGenius Beauty Products 1498",
+    "Description": "This is a TechGenius Beauty Products 1498 with great features.",
+    "Price": 1723.49,
+    "PictureUrl": "images/products/techgenius_beauty_products_1498.jpg",
+    "ProductTypeId": 38,
+    "ProductBrandId": 39
+  },
+  {
+    "Name": "FitPro Luxury Items 1679",
+    "Description": "This is a FitPro Luxury Items 1679 with great features.",
+    "Price": 1066.56,
+    "PictureUrl": "images/products/fitpro_luxury_items_1679.jpg",
+    "ProductTypeId": 42,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "KitchenPro Furniture 1057",
+    "Description": "This is a KitchenPro Furniture 1057 with great features.",
+    "Price": 6756.57,
+    "PictureUrl": "images/products/kitchenpro_furniture_1057.jpg",
+    "ProductTypeId": 35,
+    "ProductBrandId": 31
+  },
+  {
+    "Name": "FashionForward Handmade Crafts 1493",
+    "Description": "This is a FashionForward Handmade Crafts 1493 with great features.",
+    "Price": 1721.94,
+    "PictureUrl": "images/products/fashionforward_handmade_crafts_1493.jpg",
+    "ProductTypeId": 48,
+    "ProductBrandId": 42
+  },
+  {
+    "Name": "FashionForward Scanners 719",
+    "Description": "This is a FashionForward Scanners 719 with great features.",
+    "Price": 3042.45,
+    "PictureUrl": "images/products/fashionforward_scanners_719.jpg",
+    "ProductTypeId": 21,
+    "ProductBrandId": 42
+  },
+  {
+    "Name": "SoundMaster Home Textiles 1305",
+    "Description": "This is a SoundMaster Home Textiles 1305 with great features.",
+    "Price": 2503.3,
+    "PictureUrl": "images/products/soundmaster_home_textiles_1305.jpg",
+    "ProductTypeId": 49,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "CameraCraze Appliances 73",
+    "Description": "This is a CameraCraze Appliances 73 with great features.",
+    "Price": 2762.16,
+    "PictureUrl": "images/products/cameracraze_appliances_73.jpg",
+    "ProductTypeId": 43,
+    "ProductBrandId": 48
+  },
+  {
+    "Name": "HealthHub Home Decor 769",
+    "Description": "This is a HealthHub Home Decor 769 with great features.",
+    "Price": 1505.47,
+    "PictureUrl": "images/products/healthhub_home_decor_769.jpg",
+    "ProductTypeId": 29,
+    "ProductBrandId": 18
+  },
+  {
+    "Name": "SoundWave Art Supplies 489",
+    "Description": "This is a SoundWave Art Supplies 489 with great features.",
+    "Price": 7378.14,
+    "PictureUrl": "images/products/soundwave_art_supplies_489.jpg",
+    "ProductTypeId": 47,
+    "ProductBrandId": 35
+  },
+  {
+    "Name": "KitchenKraft Musical Instruments 1858",
+    "Description": "This is a KitchenKraft Musical Instruments 1858 with great features.",
+    "Price": 9488.97,
+    "PictureUrl": "images/products/kitchenkraft_musical_instruments_1858.jpg",
+    "ProductTypeId": 44,
+    "ProductBrandId": 19
+  },
+  {
+    "Name": "FashionFusion Office Supplies 1568",
+    "Description": "This is a FashionFusion Office Supplies 1568 with great features.",
+    "Price": 1367.52,
+    "PictureUrl": "images/products/fashionfusion_office_supplies_1568.jpg",
+    "ProductTypeId": 27,
+    "ProductBrandId": 32
+  },
+  {
+    "Name": "FitPro Art and Crafts 1826",
+    "Description": "This is a FitPro Art and Crafts 1826 with great features.",
+    "Price": 4657.4,
+    "PictureUrl": "images/products/fitpro_art_and_crafts_1826.jpg",
+    "ProductTypeId": 34,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "ToyGalaxy Scanners 1276",
+    "Description": "This is a ToyGalaxy Scanners 1276 with great features.",
+    "Price": 8491.14,
+    "PictureUrl": "images/products/toygalaxy_scanners_1276.jpg",
+    "ProductTypeId": 21,
+    "ProductBrandId": 23
+  },
+  {
+    "Name": "AdventureGear Appliances 1927",
+    "Description": "This is a AdventureGear Appliances 1927 with great features.",
+    "Price": 2278.5,
+    "PictureUrl": "images/products/adventuregear_appliances_1927.jpg",
+    "ProductTypeId": 43,
+    "ProductBrandId": 46
+  },
+  {
+    "Name": "Fashionista Tablets 188",
+    "Description": "This is a Fashionista Tablets 188 with great features.",
+    "Price": 8667.81,
+    "PictureUrl": "images/products/fashionista_tablets_188.jpg",
+    "ProductTypeId": 6,
+    "ProductBrandId": 13
+  },
+  {
+    "Name": "GadgetZone Outdoor Gear 1017",
+    "Description": "This is a GadgetZone Outdoor Gear 1017 with great features.",
+    "Price": 6953.83,
+    "PictureUrl": "images/products/gadgetzone_outdoor_gear_1017.jpg",
+    "ProductTypeId": 36,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "TechGenius Kitchen and Cooking 686",
+    "Description": "This is a TechGenius Kitchen and Cooking 686 with great features.",
+    "Price": 6035.8,
+    "PictureUrl": "images/products/techgenius_kitchen_and_cooking_686.jpg",
+    "ProductTypeId": 16,
+    "ProductBrandId": 39
+  },
+  {
+    "Name": "SoundMaster Jewelry 1386",
+    "Description": "This is a SoundMaster Jewelry 1386 with great features.",
+    "Price": 4069.59,
+    "PictureUrl": "images/products/soundmaster_jewelry_1386.jpg",
+    "ProductTypeId": 32,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "BeautyBliss Fashion Accessories 875",
+    "Description": "This is a BeautyBliss Fashion Accessories 875 with great features.",
+    "Price": 632.72,
+    "PictureUrl": "images/products/beautybliss_fashion_accessories_875.jpg",
+    "ProductTypeId": 41,
+    "ProductBrandId": 38
+  },
+  {
+    "Name": "HomeElegance Outdoor and Adventure 1716",
+    "Description": "This is a HomeElegance Outdoor and Adventure 1716 with great features.",
+    "Price": 6830.27,
+    "PictureUrl": "images/products/homeelegance_outdoor_and_adventure_1716.jpg",
+    "ProductTypeId": 14,
+    "ProductBrandId": 50
+  },
+  {
+    "Name": "PetPalace Books 630",
+    "Description": "This is a PetPalace Books 630 with great features.",
+    "Price": 1671.42,
+    "PictureUrl": "images/products/petpalace_books_630.jpg",
+    "ProductTypeId": 33,
+    "ProductBrandId": 16
+  },
+  {
+    "Name": "AdventurePro Smartphones 1849",
+    "Description": "This is a AdventurePro Smartphones 1849 with great features.",
+    "Price": 5959.42,
+    "PictureUrl": "images/products/adventurepro_smartphones_1849.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 8
+  },
+  {
+    "Name": "PetParadise Fashion and Apparel 481",
+    "Description": "This is a PetParadise Fashion and Apparel 481 with great features.",
+    "Price": 6630.91,
+    "PictureUrl": "images/products/petparadise_fashion_and_apparel_481.jpg",
+    "ProductTypeId": 10,
+    "ProductBrandId": 36
+  },
+  {
+    "Name": "MusicMasters Kitchen and Cooking 984",
+    "Description": "This is a MusicMasters Kitchen and Cooking 984 with great features.",
+    "Price": 5549.77,
+    "PictureUrl": "images/products/musicmasters_kitchen_and_cooking_984.jpg",
+    "ProductTypeId": 16,
+    "ProductBrandId": 15
+  },
+  {
+    "Name": "ElectroTech Printers 1036",
+    "Description": "This is a ElectroTech Printers 1036 with great features.",
+    "Price": 4520.21,
+    "PictureUrl": "images/products/electrotech_printers_1036.jpg",
+    "ProductTypeId": 20,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "GameX Monitors 425",
+    "Description": "This is a GameX Monitors 425 with great features.",
+    "Price": 1128.07,
+    "PictureUrl": "images/products/gamex_monitors_425.jpg",
+    "ProductTypeId": 22,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "HomeHarbor Televisions 1793",
+    "Description": "This is a HomeHarbor Televisions 1793 with great features.",
+    "Price": 5159.44,
+    "PictureUrl": "images/products/homeharbor_televisions_1793.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 40
+  },
+  {
+    "Name": "FitPro Candles and Scents 820",
+    "Description": "This is a FitPro Candles and Scents 820 with great features.",
+    "Price": 2399.42,
+    "PictureUrl": "images/products/fitpro_candles_and_scents_820.jpg",
+    "ProductTypeId": 50,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "OutdoorGearPro Tablets 416",
+    "Description": "This is a OutdoorGearPro Tablets 416 with great features.",
+    "Price": 6421.14,
+    "PictureUrl": "images/products/outdoorgearpro_tablets_416.jpg",
+    "ProductTypeId": 6,
+    "ProductBrandId": 29
+  },
+  {
+    "Name": "BeautyBliss Action Cameras 240",
+    "Description": "This is a BeautyBliss Action Cameras 240 with great features.",
+    "Price": 3849.22,
+    "PictureUrl": "images/products/beautybliss_action_cameras_240.jpg",
+    "ProductTypeId": 24,
+    "ProductBrandId": 38
+  },
+  {
+    "Name": "MusicMania Scanners 1413",
+    "Description": "This is a MusicMania Scanners 1413 with great features.",
+    "Price": 1621.37,
+    "PictureUrl": "images/products/musicmania_scanners_1413.jpg",
+    "ProductTypeId": 21,
+    "ProductBrandId": 45
+  },
+  {
+    "Name": "GameX Home Textiles 300",
+    "Description": "This is a GameX Home Textiles 300 with great features.",
+    "Price": 2748.77,
+    "PictureUrl": "images/products/gamex_home_textiles_300.jpg",
+    "ProductTypeId": 49,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "CameraTech Laptops 1083",
+    "Description": "This is a CameraTech Laptops 1083 with great features.",
+    "Price": 4534.91,
+    "PictureUrl": "images/products/cameratech_laptops_1083.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 10
+  },
+  {
+    "Name": "TechGenius Sports and Fitness 1886",
+    "Description": "This is a TechGenius Sports and Fitness 1886 with great features.",
+    "Price": 4824.82,
+    "PictureUrl": "images/products/techgenius_sports_and_fitness_1886.jpg",
+    "ProductTypeId": 9,
+    "ProductBrandId": 39
+  },
+  {
+    "Name": "HomeApex Travel Accessories 276",
+    "Description": "This is a HomeApex Travel Accessories 276 with great features.",
+    "Price": 5531.51,
+    "PictureUrl": "images/products/homeapex_travel_accessories_276.jpg",
+    "ProductTypeId": 40,
+    "ProductBrandId": 11
+  },
+  {
+    "Name": "TechWave Cameras 1918",
+    "Description": "This is a TechWave Cameras 1918 with great features.",
+    "Price": 7477.88,
+    "PictureUrl": "images/products/techwave_cameras_1918.jpg",
+    "ProductTypeId": 7,
+    "ProductBrandId": 21
+  },
+  {
+    "Name": "TechGenius Art Supplies 843",
+    "Description": "This is a TechGenius Art Supplies 843 with great features.",
+    "Price": 9951.47,
+    "PictureUrl": "images/products/techgenius_art_supplies_843.jpg",
+    "ProductTypeId": 47,
+    "ProductBrandId": 39
+  },
+  {
+    "Name": "GreenGizmo Printers 806",
+    "Description": "This is a GreenGizmo Printers 806 with great features.",
+    "Price": 5851.43,
+    "PictureUrl": "images/products/greengizmo_printers_806.jpg",
+    "ProductTypeId": 20,
+    "ProductBrandId": 14
+  },
+  {
+    "Name": "SoundMaster Luxury Items 1887",
+    "Description": "This is a SoundMaster Luxury Items 1887 with great features.",
+    "Price": 635.25,
+    "PictureUrl": "images/products/soundmaster_luxury_items_1887.jpg",
+    "ProductTypeId": 42,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "TechGenius Home Decor 1898",
+    "Description": "This is a TechGenius Home Decor 1898 with great features.",
+    "Price": 6904.96,
+    "PictureUrl": "images/products/techgenius_home_decor_1898.jpg",
+    "ProductTypeId": 29,
+    "ProductBrandId": 39
+  },
+  {
+    "Name": "GadgetZone Green and Eco-Friendly 671",
+    "Description": "This is a GadgetZone Green and Eco-Friendly 671 with great features.",
+    "Price": 1460.44,
+    "PictureUrl": "images/products/gadgetzone_green_and_eco-friendly_671.jpg",
+    "ProductTypeId": 11,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "HealthHub Sports Equipment 833",
+    "Description": "This is a HealthHub Sports Equipment 833 with great features.",
+    "Price": 8691.75,
+    "PictureUrl": "images/products/healthhub_sports_equipment_833.jpg",
+    "ProductTypeId": 37,
+    "ProductBrandId": 18
+  },
+  {
+    "Name": "AdventurePro Cameras 538",
+    "Description": "This is a AdventurePro Cameras 538 with great features.",
+    "Price": 577.52,
+    "PictureUrl": "images/products/adventurepro_cameras_538.jpg",
+    "ProductTypeId": 7,
+    "ProductBrandId": 8
+  },
+  {
+    "Name": "AutoMasters Gaming Consoles 1879",
+    "Description": "This is a AutoMasters Gaming Consoles 1879 with great features.",
+    "Price": 120.02,
+    "PictureUrl": "images/products/automasters_gaming_consoles_1879.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 24
+  },
+  {
+    "Name": "HealthHub Pet Supplies 1064",
+    "Description": "This is a HealthHub Pet Supplies 1064 with great features.",
+    "Price": 6409.14,
+    "PictureUrl": "images/products/healthhub_pet_supplies_1064.jpg",
+    "ProductTypeId": 13,
+    "ProductBrandId": 18
+  },
+  {
+    "Name": "CameraTech Digital Cameras 1841",
+    "Description": "This is a CameraTech Digital Cameras 1841 with great features.",
+    "Price": 198.67,
+    "PictureUrl": "images/products/cameratech_digital_cameras_1841.jpg",
+    "ProductTypeId": 23,
+    "ProductBrandId": 10
+  },
+  {
+    "Name": "ToyGalaxy Televisions 622",
+    "Description": "This is a ToyGalaxy Televisions 622 with great features.",
+    "Price": 9561.57,
+    "PictureUrl": "images/products/toygalaxy_televisions_622.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 23
+  },
+  {
+    "Name": "TechCorp Sports and Fitness 925",
+    "Description": "This is a TechCorp Sports and Fitness 925 with great features.",
+    "Price": 4840.46,
+    "PictureUrl": "images/products/techcorp_sports_and_fitness_925.jpg",
+    "ProductTypeId": 9,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "TimeMaster Watches 1305",
+    "Description": "This is a TimeMaster Watches 1305 with great features.",
+    "Price": 475.18,
+    "PictureUrl": "images/products/timemaster_watches_1305.jpg",
+    "ProductTypeId": 46,
+    "ProductBrandId": 9
+  },
+  {
+    "Name": "GadgetZone Outdoor and Adventure 265",
+    "Description": "This is a GadgetZone Outdoor and Adventure 265 with great features.",
+    "Price": 4144.12,
+    "PictureUrl": "images/products/gadgetzone_outdoor_and_adventure_265.jpg",
+    "ProductTypeId": 14,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "AutoMasters Travel Accessories 115",
+    "Description": "This is a AutoMasters Travel Accessories 115 with great features.",
+    "Price": 1682.72,
+    "PictureUrl": "images/products/automasters_travel_accessories_115.jpg",
+    "ProductTypeId": 40,
+    "ProductBrandId": 24
+  },
+  {
+    "Name": "OutdoorGearPro Outdoor and Adventure 389",
+    "Description": "This is a OutdoorGearPro Outdoor and Adventure 389 with great features.",
+    "Price": 660.57,
+    "PictureUrl": "images/products/outdoorgearpro_outdoor_and_adventure_389.jpg",
+    "ProductTypeId": 14,
+    "ProductBrandId": 29
+  },
+  {
+    "Name": "TimeMaster Fitness Trackers 440",
+    "Description": "This is a TimeMaster Fitness Trackers 440 with great features.",
+    "Price": 351.28,
+    "PictureUrl": "images/products/timemaster_fitness_trackers_440.jpg",
+    "ProductTypeId": 19,
+    "ProductBrandId": 9
+  },
+  {
+    "Name": "KitchenKraft Beauty Products 292",
+    "Description": "This is a KitchenKraft Beauty Products 292 with great features.",
+    "Price": 8204.02,
+    "PictureUrl": "images/products/kitchenkraft_beauty_products_292.jpg",
+    "ProductTypeId": 38,
+    "ProductBrandId": 19
+  },
+  {
+    "Name": "OutdoorAdventures Art Supplies 1129",
+    "Description": "This is a OutdoorAdventures Art Supplies 1129 with great features.",
+    "Price": 8759.6,
+    "PictureUrl": "images/products/outdooradventures_art_supplies_1129.jpg",
+    "ProductTypeId": 47,
+    "ProductBrandId": 17
+  },
+  {
+    "Name": "JewelCraft Pet Supplies 1870",
+    "Description": "This is a JewelCraft Pet Supplies 1870 with great features.",
+    "Price": 2164.61,
+    "PictureUrl": "images/products/jewelcraft_pet_supplies_1870.jpg",
+    "ProductTypeId": 13,
+    "ProductBrandId": 25
+  },
+  {
+    "Name": "PetPalace Jewelry 330",
+    "Description": "This is a PetPalace Jewelry 330 with great features.",
+    "Price": 9344.89,
+    "PictureUrl": "images/products/petpalace_jewelry_330.jpg",
+    "ProductTypeId": 32,
+    "ProductBrandId": 16
+  },
+  {
+    "Name": "JewelCraft Adventure Gear 1585",
+    "Description": "This is a JewelCraft Adventure Gear 1585 with great features.",
+    "Price": 1136.97,
+    "PictureUrl": "images/products/jewelcraft_adventure_gear_1585.jpg",
+    "ProductTypeId": 45,
+    "ProductBrandId": 25
+  },
+  {
+    "Name": "TimelessTreasures Outdoor Gear 1328",
+    "Description": "This is a TimelessTreasures Outdoor Gear 1328 with great features.",
+    "Price": 7724.71,
+    "PictureUrl": "images/products/timelesstreasures_outdoor_gear_1328.jpg",
+    "ProductTypeId": 36,
+    "ProductBrandId": 47
+  },
+  {
+    "Name": "FitPro Musical Instruments 1758",
+    "Description": "This is a FitPro Musical Instruments 1758 with great features.",
+    "Price": 5982.1,
+    "PictureUrl": "images/products/fitpro_musical_instruments_1758.jpg",
+    "ProductTypeId": 44,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "ElectroWave Drones 326",
+    "Description": "This is a ElectroWave Drones 326 with great features.",
+    "Price": 246.48,
+    "PictureUrl": "images/products/electrowave_drones_326.jpg",
+    "ProductTypeId": 25,
+    "ProductBrandId": 44
+  },
+  {
+    "Name": "TechGenius Beauty and Personal Care 320",
+    "Description": "This is a TechGenius Beauty and Personal Care 320 with great features.",
+    "Price": 8036.88,
+    "PictureUrl": "images/products/techgenius_beauty_and_personal_care_320.jpg",
+    "ProductTypeId": 17,
+    "ProductBrandId": 39
+  },
+  {
+    "Name": "TimelessTreasures Digital Cameras 133",
+    "Description": "This is a TimelessTreasures Digital Cameras 133 with great features.",
+    "Price": 5275.05,
+    "PictureUrl": "images/products/timelesstreasures_digital_cameras_133.jpg",
+    "ProductTypeId": 23,
+    "ProductBrandId": 47
+  },
+  {
+    "Name": "ElectroTech Action Cameras 194",
+    "Description": "This is a ElectroTech Action Cameras 194 with great features.",
+    "Price": 3737.05,
+    "PictureUrl": "images/products/electrotech_action_cameras_194.jpg",
+    "ProductTypeId": 24,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "FashionForward Handmade Crafts 1736",
+    "Description": "This is a FashionForward Handmade Crafts 1736 with great features.",
+    "Price": 5846.48,
+    "PictureUrl": "images/products/fashionforward_handmade_crafts_1736.jpg",
+    "ProductTypeId": 48,
+    "ProductBrandId": 42
+  },
+  {
+    "Name": "HomeHarbor Candles and Scents 141",
+    "Description": "This is a HomeHarbor Candles and Scents 141 with great features.",
+    "Price": 9182.26,
+    "PictureUrl": "images/products/homeharbor_candles_and_scents_141.jpg",
+    "ProductTypeId": 50,
+    "ProductBrandId": 40
+  },
+  {
+    "Name": "GreenGizmo Scanners 1255",
+    "Description": "This is a GreenGizmo Scanners 1255 with great features.",
+    "Price": 8619.46,
+    "PictureUrl": "images/products/greengizmo_scanners_1255.jpg",
+    "ProductTypeId": 21,
+    "ProductBrandId": 14
+  },
+  {
+    "Name": "CameraTech Appliances 404",
+    "Description": "This is a CameraTech Appliances 404 with great features.",
+    "Price": 7943.48,
+    "PictureUrl": "images/products/cameratech_appliances_404.jpg",
+    "ProductTypeId": 43,
+    "ProductBrandId": 10
+  },
+  {
+    "Name": "GadgetZone Candles and Scents 1690",
+    "Description": "This is a GadgetZone Candles and Scents 1690 with great features.",
+    "Price": 7785.83,
+    "PictureUrl": "images/products/gadgetzone_candles_and_scents_1690.jpg",
+    "ProductTypeId": 50,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "ToyGalaxy Wearable Tech 1899",
+    "Description": "This is a ToyGalaxy Wearable Tech 1899 with great features.",
+    "Price": 6827.04,
+    "PictureUrl": "images/products/toygalaxy_wearable_tech_1899.jpg",
+    "ProductTypeId": 26,
+    "ProductBrandId": 23
+  },
+  {
+    "Name": "CameraTech Tech Accessories 717",
+    "Description": "This is a CameraTech Tech Accessories 717 with great features.",
+    "Price": 9180.63,
+    "PictureUrl": "images/products/cameratech_tech_accessories_717.jpg",
+    "ProductTypeId": 39,
+    "ProductBrandId": 10
+  },
+  {
+    "Name": "MusicMania Office Supplies 1826",
+    "Description": "This is a MusicMania Office Supplies 1826 with great features.",
+    "Price": 3919.85,
+    "PictureUrl": "images/products/musicmania_office_supplies_1826.jpg",
+    "ProductTypeId": 27,
+    "ProductBrandId": 45
+  },
+  {
+    "Name": "CameraCraze Pet Supplies 1085",
+    "Description": "This is a CameraCraze Pet Supplies 1085 with great features.",
+    "Price": 2253.11,
+    "PictureUrl": "images/products/cameracraze_pet_supplies_1085.jpg",
+    "ProductTypeId": 13,
+    "ProductBrandId": 48
+  },
+  {
+    "Name": "BookNook Software 1026",
+    "Description": "This is a BookNook Software 1026 with great features.",
+    "Price": 3630.24,
+    "PictureUrl": "images/products/booknook_software_1026.jpg",
+    "ProductTypeId": 28,
+    "ProductBrandId": 26
+  },
+  {
+    "Name": "CameraTech Automotive 1223",
+    "Description": "This is a CameraTech Automotive 1223 with great features.",
+    "Price": 4406.33,
+    "PictureUrl": "images/products/cameratech_automotive_1223.jpg",
+    "ProductTypeId": 31,
+    "ProductBrandId": 10
+  },
+  {
+    "Name": "HomeLux Laptops 355",
+    "Description": "This is a HomeLux Laptops 355 with great features.",
+    "Price": 9806.14,
+    "PictureUrl": "images/products/homelux_laptops_355.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 43
+  },
+  {
+    "Name": "MusicMania Pet Supplies 1907",
+    "Description": "This is a MusicMania Pet Supplies 1907 with great features.",
+    "Price": 1200.49,
+    "PictureUrl": "images/products/musicmania_pet_supplies_1907.jpg",
+    "ProductTypeId": 13,
+    "ProductBrandId": 45
+  },
+  {
+    "Name": "PetParadise Sports Equipment 429",
+    "Description": "This is a PetParadise Sports Equipment 429 with great features.",
+    "Price": 6419.64,
+    "PictureUrl": "images/products/petparadise_sports_equipment_429.jpg",
+    "ProductTypeId": 37,
+    "ProductBrandId": 36
+  },
+  {
+    "Name": "TechCorp Sports Equipment 52",
+    "Description": "This is a TechCorp Sports Equipment 52 with great features.",
+    "Price": 828.14,
+    "PictureUrl": "images/products/techcorp_sports_equipment_52.jpg",
+    "ProductTypeId": 37,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "TechCorp Beauty Products 1544",
+    "Description": "This is a TechCorp Beauty Products 1544 with great features.",
+    "Price": 7747.0,
+    "PictureUrl": "images/products/techcorp_beauty_products_1544.jpg",
+    "ProductTypeId": 38,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "PetPalace Furniture 636",
+    "Description": "This is a PetPalace Furniture 636 with great features.",
+    "Price": 9492.34,
+    "PictureUrl": "images/products/petpalace_furniture_636.jpg",
+    "ProductTypeId": 35,
+    "ProductBrandId": 16
+  },
+  {
+    "Name": "BrewMaster Kitchen and Cooking 1565",
+    "Description": "This is a BrewMaster Kitchen and Cooking 1565 with great features.",
+    "Price": 3955.75,
+    "PictureUrl": "images/products/brewmaster_kitchen_and_cooking_1565.jpg",
+    "ProductTypeId": 16,
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "HealthHub Jewelry 281",
+    "Description": "This is a HealthHub Jewelry 281 with great features.",
+    "Price": 4576.12,
+    "PictureUrl": "images/products/healthhub_jewelry_281.jpg",
+    "ProductTypeId": 32,
+    "ProductBrandId": 18
+  },
+  {
+    "Name": "SoundWave Home Decor 1391",
+    "Description": "This is a SoundWave Home Decor 1391 with great features.",
+    "Price": 1112.61,
+    "PictureUrl": "images/products/soundwave_home_decor_1391.jpg",
+    "ProductTypeId": 29,
+    "ProductBrandId": 35
+  },
+  {
+    "Name": "AdventureGear Jewelry 376",
+    "Description": "This is a AdventureGear Jewelry 376 with great features.",
+    "Price": 267.35,
+    "PictureUrl": "images/products/adventuregear_jewelry_376.jpg",
+    "ProductTypeId": 32,
+    "ProductBrandId": 46
+  },
+  {
+    "Name": "BeautyBuzz Drones 236",
+    "Description": "This is a BeautyBuzz Drones 236 with great features.",
+    "Price": 3156.62,
+    "PictureUrl": "images/products/beautybuzz_drones_236.jpg",
+    "ProductTypeId": 25,
+    "ProductBrandId": 20
+  },
+  {
+    "Name": "BeautyBuzz Wearable Tech 1286",
+    "Description": "This is a BeautyBuzz Wearable Tech 1286 with great features.",
+    "Price": 1544.09,
+    "PictureUrl": "images/products/beautybuzz_wearable_tech_1286.jpg",
+    "ProductTypeId": 26,
+    "ProductBrandId": 20
+  },
+  {
+    "Name": "SportsMaster Outdoor and Adventure 815",
+    "Description": "This is a SportsMaster Outdoor and Adventure 815 with great features.",
+    "Price": 3077.7,
+    "PictureUrl": "images/products/sportsmaster_outdoor_and_adventure_815.jpg",
+    "ProductTypeId": 14,
+    "ProductBrandId": 37
+  },
+  {
+    "Name": "BookNook Beauty Products 1680",
+    "Description": "This is a BookNook Beauty Products 1680 with great features.",
+    "Price": 9752.69,
+    "PictureUrl": "images/products/booknook_beauty_products_1680.jpg",
+    "ProductTypeId": 38,
+    "ProductBrandId": 26
+  },
+  {
+    "Name": "OutdoorAdventures Monitors 927",
+    "Description": "This is a OutdoorAdventures Monitors 927 with great features.",
+    "Price": 650.4,
+    "PictureUrl": "images/products/outdooradventures_monitors_927.jpg",
+    "ProductTypeId": 22,
+    "ProductBrandId": 17
+  },
+  {
+    "Name": "SoundMaster Green and Eco-Friendly 1430",
+    "Description": "This is a SoundMaster Green and Eco-Friendly 1430 with great features.",
+    "Price": 6386.51,
+    "PictureUrl": "images/products/soundmaster_green_and_eco-friendly_1430.jpg",
+    "ProductTypeId": 11,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Fashionista Outdoor and Adventure 1389",
+    "Description": "This is a Fashionista Outdoor and Adventure 1389 with great features.",
+    "Price": 4976.6,
+    "PictureUrl": "images/products/fashionista_outdoor_and_adventure_1389.jpg",
+    "ProductTypeId": 14,
+    "ProductBrandId": 13
+  },
+  {
+    "Name": "FurnitureLand Drones 122",
+    "Description": "This is a FurnitureLand Drones 122 with great features.",
+    "Price": 304.25,
+    "PictureUrl": "images/products/furnitureland_drones_122.jpg",
+    "ProductTypeId": 25,
+    "ProductBrandId": 22
+  },
+  {
+    "Name": "ArtisticGems Appliances 254",
+    "Description": "This is a ArtisticGems Appliances 254 with great features.",
+    "Price": 6466.52,
+    "PictureUrl": "images/products/artisticgems_appliances_254.jpg",
+    "ProductTypeId": 43,
+    "ProductBrandId": 49
+  },
+  {
+    "Name": "ElectroWave Candles and Scents 1348",
+    "Description": "This is a ElectroWave Candles and Scents 1348 with great features.",
+    "Price": 281.03,
+    "PictureUrl": "images/products/electrowave_candles_and_scents_1348.jpg",
+    "ProductTypeId": 50,
+    "ProductBrandId": 44
+  },
+  {
+    "Name": "JewelCraft Sports and Fitness 283",
+    "Description": "This is a JewelCraft Sports and Fitness 283 with great features.",
+    "Price": 1149.93,
+    "PictureUrl": "images/products/jewelcraft_sports_and_fitness_283.jpg",
+    "ProductTypeId": 9,
+    "ProductBrandId": 25
+  },
+  {
+    "Name": "HomeHarbor Monitors 643",
+    "Description": "This is a HomeHarbor Monitors 643 with great features.",
+    "Price": 7082.62,
+    "PictureUrl": "images/products/homeharbor_monitors_643.jpg",
+    "ProductTypeId": 22,
+    "ProductBrandId": 40
+  },
+  {
+    "Name": "TimelessTreasures Outdoor Gear 297",
+    "Description": "This is a TimelessTreasures Outdoor Gear 297 with great features.",
+    "Price": 6006.01,
+    "PictureUrl": "images/products/timelesstreasures_outdoor_gear_297.jpg",
+    "ProductTypeId": 36,
+    "ProductBrandId": 47
+  },
+  {
+    "Name": "AdventureGear Fashion Accessories 617",
+    "Description": "This is a AdventureGear Fashion Accessories 617 with great features.",
+    "Price": 2188.76,
+    "PictureUrl": "images/products/adventuregear_fashion_accessories_617.jpg",
+    "ProductTypeId": 41,
+    "ProductBrandId": 46
+  },
+  {
+    "Name": "GameZone Fashion Accessories 1554",
+    "Description": "This is a GameZone Fashion Accessories 1554 with great features.",
+    "Price": 247.75,
+    "PictureUrl": "images/products/gamezone_fashion_accessories_1554.jpg",
+    "ProductTypeId": 41,
+    "ProductBrandId": 34
+  },
+  {
+    "Name": "JewelCraft Home Textiles 416",
+    "Description": "This is a JewelCraft Home Textiles 416 with great features.",
+    "Price": 552.82,
+    "PictureUrl": "images/products/jewelcraft_home_textiles_416.jpg",
+    "ProductTypeId": 49,
+    "ProductBrandId": 25
+  },
+  {
+    "Name": "MusicMasters Laptops 739",
+    "Description": "This is a MusicMasters Laptops 739 with great features.",
+    "Price": 5953.35,
+    "PictureUrl": "images/products/musicmasters_laptops_739.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 15
+  },
+  {
+    "Name": "ArtisticGems Drones 1901",
+    "Description": "This is a ArtisticGems Drones 1901 with great features.",
+    "Price": 7221.37,
+    "PictureUrl": "images/products/artisticgems_drones_1901.jpg",
+    "ProductTypeId": 25,
+    "ProductBrandId": 49
+  },
+  {
+    "Name": "HomeLux Scanners 1865",
+    "Description": "This is a HomeLux Scanners 1865 with great features.",
+    "Price": 6892.34,
+    "PictureUrl": "images/products/homelux_scanners_1865.jpg",
+    "ProductTypeId": 21,
+    "ProductBrandId": 43
+  },
+  {
+    "Name": "BookNook Jewelry 221",
+    "Description": "This is a BookNook Jewelry 221 with great features.",
+    "Price": 7766.8,
+    "PictureUrl": "images/products/booknook_jewelry_221.jpg",
+    "ProductTypeId": 32,
+    "ProductBrandId": 26
+  },
+  {
+    "Name": "Fashionista Kitchen and Cooking 717",
+    "Description": "This is a Fashionista Kitchen and Cooking 717 with great features.",
+    "Price": 2658.76,
+    "PictureUrl": "images/products/fashionista_kitchen_and_cooking_717.jpg",
+    "ProductTypeId": 16,
+    "ProductBrandId": 13
+  },
+  {
+    "Name": "KitchenKraft Audio and Music Gear 928",
+    "Description": "This is a KitchenKraft Audio and Music Gear 928 with great features.",
+    "Price": 9340.77,
+    "PictureUrl": "images/products/kitchenkraft_audio_and_music_gear_928.jpg",
+    "ProductTypeId": 12,
+    "ProductBrandId": 19
+  },
+  {
+    "Name": "CameraCraze Digital Cameras 1567",
+    "Description": "This is a CameraCraze Digital Cameras 1567 with great features.",
+    "Price": 8894.81,
+    "PictureUrl": "images/products/cameracraze_digital_cameras_1567.jpg",
+    "ProductTypeId": 23,
+    "ProductBrandId": 48
+  },
+  {
+    "Name": "ArtisticGems Green and Eco-Friendly 670",
+    "Description": "This is a ArtisticGems Green and Eco-Friendly 670 with great features.",
+    "Price": 2456.15,
+    "PictureUrl": "images/products/artisticgems_green_and_eco-friendly_670.jpg",
+    "ProductTypeId": 11,
+    "ProductBrandId": 49
+  },
+  {
+    "Name": "CameraTech Green and Eco-Friendly 1244",
+    "Description": "This is a CameraTech Green and Eco-Friendly 1244 with great features.",
+    "Price": 9000.73,
+    "PictureUrl": "images/products/cameratech_green_and_eco-friendly_1244.jpg",
+    "ProductTypeId": 11,
+    "ProductBrandId": 10
+  },
+  {
+    "Name": "AutoMasters Smartphones 371",
+    "Description": "This is a AutoMasters Smartphones 371 with great features.",
+    "Price": 4034.51,
+    "PictureUrl": "images/products/automasters_smartphones_371.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 24
+  },
+  {
+    "Name": "TechWave Smartphones 485",
+    "Description": "This is a TechWave Smartphones 485 with great features.",
+    "Price": 4580.88,
+    "PictureUrl": "images/products/techwave_smartphones_485.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 21
+  },
+  {
+    "Name": "BrewMaster Gaming Consoles 369",
+    "Description": "This is a BrewMaster Gaming Consoles 369 with great features.",
+    "Price": 2603.46,
+    "PictureUrl": "images/products/brewmaster_gaming_consoles_369.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "FashionFusion Sports and Fitness 1983",
+    "Description": "This is a FashionFusion Sports and Fitness 1983 with great features.",
+    "Price": 9053.51,
+    "PictureUrl": "images/products/fashionfusion_sports_and_fitness_1983.jpg",
+    "ProductTypeId": 9,
+    "ProductBrandId": 32
+  },
+  {
+    "Name": "GameX Health and Wellness 392",
+    "Description": "This is a GameX Health and Wellness 392 with great features.",
+    "Price": 3272.98,
+    "PictureUrl": "images/products/gamex_health_and_wellness_392.jpg",
+    "ProductTypeId": 15,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Sportify Books 1850",
+    "Description": "This is a Sportify Books 1850 with great features.",
+    "Price": 1666.69,
+    "PictureUrl": "images/products/sportify_books_1850.jpg",
+    "ProductTypeId": 33,
+    "ProductBrandId": 12
+  },
+  {
+    "Name": "TechWave Watches 1935",
+    "Description": "This is a TechWave Watches 1935 with great features.",
+    "Price": 2249.43,
+    "PictureUrl": "images/products/techwave_watches_1935.jpg",
+    "ProductTypeId": 46,
+    "ProductBrandId": 21
+  },
+  {
+    "Name": "HomeApex Smart Watches 1655",
+    "Description": "This is a HomeApex Smart Watches 1655 with great features.",
+    "Price": 7805.8,
+    "PictureUrl": "images/products/homeapex_smart_watches_1655.jpg",
+    "ProductTypeId": 18,
+    "ProductBrandId": 11
+  },
+  {
+    "Name": "HealthHub Digital Cameras 1623",
+    "Description": "This is a HealthHub Digital Cameras 1623 with great features.",
+    "Price": 1495.44,
+    "PictureUrl": "images/products/healthhub_digital_cameras_1623.jpg",
+    "ProductTypeId": 23,
+    "ProductBrandId": 18
+  },
+  {
+    "Name": "FitPro Digital Cameras 378",
+    "Description": "This is a FitPro Digital Cameras 378 with great features.",
+    "Price": 2360.15,
+    "PictureUrl": "images/products/fitpro_digital_cameras_378.jpg",
+    "ProductTypeId": 23,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "TechWave Appliances 1682",
+    "Description": "This is a TechWave Appliances 1682 with great features.",
+    "Price": 6260.43,
+    "PictureUrl": "images/products/techwave_appliances_1682.jpg",
+    "ProductTypeId": 43,
+    "ProductBrandId": 21
+  },
+  {
+    "Name": "CameraCraze Handmade Crafts 501",
+    "Description": "This is a CameraCraze Handmade Crafts 501 with great features.",
+    "Price": 482.57,
+    "PictureUrl": "images/products/cameracraze_handmade_crafts_501.jpg",
+    "ProductTypeId": 48,
+    "ProductBrandId": 48
+  },
+  {
+    "Name": "OutdoorGearPro Audio and Music Gear 1227",
+    "Description": "This is a OutdoorGearPro Audio and Music Gear 1227 with great features.",
+    "Price": 7460.54,
+    "PictureUrl": "images/products/outdoorgearpro_audio_and_music_gear_1227.jpg",
+    "ProductTypeId": 12,
+    "ProductBrandId": 29
+  },
+  {
+    "Name": "BrewMaster Watches 354",
+    "Description": "This is a BrewMaster Watches 354 with great features.",
+    "Price": 2590.6,
+    "PictureUrl": "images/products/brewmaster_watches_354.jpg",
+    "ProductTypeId": 46,
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "KitchenKraft Jewelry 1460",
+    "Description": "This is a KitchenKraft Jewelry 1460 with great features.",
+    "Price": 9228.33,
+    "PictureUrl": "images/products/kitchenkraft_jewelry_1460.jpg",
+    "ProductTypeId": 32,
+    "ProductBrandId": 19
+  },
+  {
+    "Name": "FashionFusion Adventure Gear 1127",
+    "Description": "This is a FashionFusion Adventure Gear 1127 with great features.",
+    "Price": 7458.27,
+    "PictureUrl": "images/products/fashionfusion_adventure_gear_1127.jpg",
+    "ProductTypeId": 45,
+    "ProductBrandId": 32
+  },
+  {
+    "Name": "AdventureGear Sports and Fitness 903",
+    "Description": "This is a AdventureGear Sports and Fitness 903 with great features.",
+    "Price": 5114.25,
+    "PictureUrl": "images/products/adventuregear_sports_and_fitness_903.jpg",
+    "ProductTypeId": 9,
+    "ProductBrandId": 46
+  },
+  {
+    "Name": "CameraCraze Furniture 588",
+    "Description": "This is a CameraCraze Furniture 588 with great features.",
+    "Price": 2204.99,
+    "PictureUrl": "images/products/cameracraze_furniture_588.jpg",
+    "ProductTypeId": 35,
+    "ProductBrandId": 48
+  },
+  {
+    "Name": "TechGenius Monitors 1108",
+    "Description": "This is a TechGenius Monitors 1108 with great features.",
+    "Price": 9790.27,
+    "PictureUrl": "images/products/techgenius_monitors_1108.jpg",
+    "ProductTypeId": 22,
+    "ProductBrandId": 39
+  },
+  {
+    "Name": "TechGenius Outdoor and Adventure 34",
+    "Description": "This is a TechGenius Outdoor andAdventure 34 with great features.",
+    "Price": 2575.21,
+    "PictureUrl": "images/products/techgenius_outdoor_and_adventure_34.jpg",
+    "ProductTypeId": 14,
+    "ProductBrandId": 39
+  },
+  {
+    "Name": "CameraCraze Furniture 444",
+    "Description": "This is a CameraCraze Furniture 444 with great features.",
+    "Price": 3520.63,
+    "PictureUrl": "images/products/cameracraze_furniture_444.jpg",
+    "ProductTypeId": 35,
+    "ProductBrandId": 48
+  },
+  {
+    "Name": "FashionForward Fitness Trackers 1895",
+    "Description": "This is a FashionForward Fitness Trackers 1895 with great features.",
+    "Price": 694.58,
+    "PictureUrl": "images/products/fashionforward_fitness_trackers_1895.jpg",
+    "ProductTypeId": 19,
+    "ProductBrandId": 42
+  },
+  {
+    "Name": "GadgetZone Headphones 1752",
+    "Description": "This is a GadgetZone Headphones 1752 with great features.",
+    "Price": 6232.95,
+    "PictureUrl": "images/products/gadgetzone_headphones_1752.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "FashionFusion Musical Instruments 281",
+    "Description": "This is a FashionFusion Musical Instruments 281 with great features.",
+    "Price": 6938.11,
+    "PictureUrl": "images/products/fashionfusion_musical_instruments_281.jpg",
+    "ProductTypeId": 44,
+    "ProductBrandId": 32
+  },
+  {
+    "Name": "HomeApex Furniture 1463",
+    "Description": "This is a HomeApex Furniture 1463 with great features.",
+    "Price": 5163.22,
+    "PictureUrl": "images/products/homeapex_furniture_1463.jpg",
+    "ProductTypeId": 35,
+    "ProductBrandId": 11
+  },
+  {
+    "Name": "AutoMasters Laptops 328",
+    "Description": "This is a AutoMasters Laptops 328 with great features.",
+    "Price": 2425.85,
+    "PictureUrl": "images/products/automasters_laptops_328.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 24
+  },
+  {
+    "Name": "HomeApex Health and Wellness 1918",
+    "Description": "This is a HomeApex Health and Wellness 1918 with great features.",
+    "Price": 1193.35,
+    "PictureUrl": "images/products/homeapex_health_and_wellness_1918.jpg",
+    "ProductTypeId": 15,
+    "ProductBrandId": 11
+  },
+  {
+    "Name": "GadgetZone Kitchen and Cooking 100",
+    "Description": "This is a GadgetZone Kitchen and Cooking 100 with great features.",
+    "Price": 8460.76,
+    "PictureUrl": "images/products/gadgetzone_kitchen_and_cooking_100.jpg",
+    "ProductTypeId": 16,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "PetParadise Laptops 70",
+    "Description": "This is a PetParadise Laptops 70 with great features.",
+    "Price": 2219.69,
+    "PictureUrl": "images/products/petparadise_laptops_70.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 36
+  },
+  {
+    "Name": "GreenGizmo Luxury Items 1713",
+    "Description": "This is a GreenGizmo Luxury Items 1713 with great features.",
+    "Price": 5861.92,
+    "PictureUrl": "images/products/greengizmo_luxury_items_1713.jpg",
+    "ProductTypeId": 42,
+    "ProductBrandId": 14
+  },
+  {
+    "Name": "ToyGalaxy Tablets 286",
+    "Description": "This is a ToyGalaxy Tablets 286 with great features.",
+    "Price": 1133.98,
+    "PictureUrl": "images/products/toygalaxy_tablets_286.jpg",
+    "ProductTypeId": 6,
+    "ProductBrandId": 23
+  },
+  {
+    "Name": "HomeHarbor Monitors 1091",
+    "Description": "This is a HomeHarbor Monitors 1091 with great features.",
+    "Price": 2188.36,
+    "PictureUrl": "images/products/homeharbor_monitors_1091.jpg",
+    "ProductTypeId": 22,
+    "ProductBrandId": 40
+  },
+  {
+    "Name": "HomeApex Pet Supplies 1241",
+    "Description": "This is a HomeApex Pet Supplies 1241 with great features.",
+    "Price": 3146.83,
+    "PictureUrl": "images/products/homeapex_pet_supplies_1241.jpg",
+    "ProductTypeId": 13,
+    "ProductBrandId": 11
+  },
+  {
+    "Name": "FurnitureLand Automotive 393",
+    "Description": "This is a FurnitureLand Automotive 393 with great features.",
+    "Price": 940.67,
+    "PictureUrl": "images/products/furnitureland_automotive_393.jpg",
+    "ProductTypeId": 31,
+    "ProductBrandId": 22
+  },
+  {
+    "Name": "HealthHub Books 380",
+    "Description": "This is a HealthHub Books 380 with great features.",
+    "Price": 787.85,
+    "PictureUrl": "images/products/healthhub_books_380.jpg",
+    "ProductTypeId": 33,
+    "ProductBrandId": 18
+  },
+  {
+    "Name": "GameZone Handmade Crafts 300",
+    "Description": "This is a GameZone Handmade Crafts 300 with great features.",
+    "Price": 9672.94,
+    "PictureUrl": "images/products/gamezone_handmade_crafts_300.jpg",
+    "ProductTypeId": 48,
+    "ProductBrandId": 34
+  },
+  {
+    "Name": "OutdoorAdventures Art and Crafts 290",
+    "Description": "This is a OutdoorAdventures Art and Crafts 290 with great features.",
+    "Price": 6040.36,
+    "PictureUrl": "images/products/outdooradventures_art_and_crafts_290.jpg",
+    "ProductTypeId": 34,
+    "ProductBrandId": 17
+  },
+  {
+    "Name": "OutdoorAdventures Sports Equipment 786",
+    "Description": "This is a OutdoorAdventures Sports Equipment 786 with great features.",
+    "Price": 1448.53,
+    "PictureUrl": "images/products/outdooradventures_sports_equipment_786.jpg",
+    "ProductTypeId": 37,
+    "ProductBrandId": 17
+  },
+  {
+    "Name": "FurnitureLand Home Appliances 1333",
+    "Description": "This is a FurnitureLand Home Appliances 1333 with great features.",
+    "Price": 7130.27,
+    "PictureUrl": "images/products/furnitureland_home_appliances_1333.jpg",
+    "ProductTypeId": 8,
+    "ProductBrandId": 22
+  },
+  {
+    "Name": "AutoMasters Fitness Trackers 1607",
+    "Description": "This is a AutoMasters Fitness Trackers 1607 with great features.",
+    "Price": 4146.18,
+    "PictureUrl": "images/products/automasters_fitness_trackers_1607.jpg",
+    "ProductTypeId": 19,
+    "ProductBrandId": 24
+  },
+  {
+    "Name": "MusicMania Kitchen and Cooking 278",
+    "Description": "This is a MusicMania Kitchen and Cooking 278 with great features.",
+    "Price": 7858.38,
+    "PictureUrl": "images/products/musicmania_kitchen_and_cooking_278.jpg",
+    "ProductTypeId": 16,
+    "ProductBrandId": 45
+  },
+  {
+    "Name": "PetParadise Green and Eco-Friendly 551",
+    "Description": "This is a PetParadise Green and Eco-Friendly 551 with great features.",
+    "Price": 132.78,
+    "PictureUrl": "images/products/petparadise_green_and_eco-friendly_551.jpg",
+    "ProductTypeId": 11,
+    "ProductBrandId": 36
+  },
+  {
+    "Name": "HomeHarbor Luxury Items 1076",
+    "Description": "This is a HomeHarbor Luxury Items 1076 with great features.",
+    "Price": 4498.59,
+    "PictureUrl": "images/products/homeharbor_luxury_items_1076.jpg",
+    "ProductTypeId": 42,
+    "ProductBrandId": 40
+  },
+  {
+    "Name": "GreenGizmo Tech Accessories 660",
+    "Description": "This is a GreenGizmo Tech Accessories 660 with great features.",
+    "Price": 1909.64,
+    "PictureUrl": "images/products/greengizmo_tech_accessories_660.jpg",
+    "ProductTypeId": 39,
+    "ProductBrandId": 14
+  },
+  {
+    "Name": "OutdoorAdventures Jewelry 1199",
+    "Description": "This is a OutdoorAdventures Jewelry 1199 with great features.",
+    "Price": 5999.15,
+    "PictureUrl": "images/products/outdooradventures_jewelry_1199.jpg",
+    "ProductTypeId": 32,
+    "ProductBrandId": 17
+  },
+  {
+    "Name": "BeautyBliss Sports and Fitness 1258",
+    "Description": "This is a BeautyBliss Sports and Fitness 1258 with great features.",
+    "Price": 491.37,
+    "PictureUrl": "images/products/beautybliss_sports_and_fitness_1258.jpg",
+    "ProductTypeId": 9,
+    "ProductBrandId": 38
+  },
+  {
+    "Name": "FashionForward Drones 1118",
+    "Description": "This is a FashionForward Drones 1118 with great features.",
+    "Price": 8580.63,
+    "PictureUrl": "images/products/fashionforward_drones_1118.jpg",
+    "ProductTypeId": 25,
+    "ProductBrandId": 42
+  },
+  {
+    "Name": "TimelessTreasures Printers 962",
+    "Description": "This is a TimelessTreasures Printers 962 with great features.",
+    "Price": 4195.02,
+    "PictureUrl": "images/products/timelesstreasures_printers_962.jpg",
+    "ProductTypeId": 20,
+    "ProductBrandId": 47
+  },
+  {
+    "Name": "ElectroWave Cameras 1907",
+    "Description": "This is a ElectroWave Cameras 1907 with great features.",
+    "Price": 815.18,
+    "PictureUrl": "images/products/electrowave_cameras_1907.jpg",
+    "ProductTypeId": 7,
+    "ProductBrandId": 44
+  },
+  {
+    "Name": "JewelCraft Art Supplies 197",
+    "Description": "This is a JewelCraft Art Supplies 197 with great features.",
+    "Price": 6293.67,
+    "PictureUrl": "images/products/jewelcraft_art_supplies_197.jpg",
+    "ProductTypeId": 47,
+    "ProductBrandId": 25
+  },
+  {
+    "Name": "BeautyBuzz Laptops 1138",
+    "Description": "This is a BeautyBuzz Laptops 1138 with great features.",
+    "Price": 9673.29,
+    "PictureUrl": "images/products/beautybuzz_laptops_1138.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 20
+  },
+  {
+    "Name": "Sportify Kitchen and Cooking 346",
+    "Description": "This is a Sportify Kitchen and Cooking 346 with great features.",
+    "Price": 6770.03,
+    "PictureUrl": "images/products/sportify_kitchen_and_cooking_346.jpg",
+    "ProductTypeId": 16,
+    "ProductBrandId": 12
+  },
+  {
+    "Name": "FurnitureLand Travel Accessories 921",
+    "Description": "This is a FurnitureLand Travel Accessories 921 with great features.",
+    "Price": 7379.69,
+    "PictureUrl": "images/products/furnitureland_travel_accessories_921.jpg",
+    "ProductTypeId": 40,
+    "ProductBrandId": 22
+  },
+  {
+    "Name": "AdventurePro Musical Instruments 1134",
+    "Description": "This is a AdventurePro Musical Instruments 1134 with great features.",
+    "Price": 3701.5,
+    "PictureUrl": "images/products/adventurepro_musical_instruments_1134.jpg",
+    "ProductTypeId": 44,
+    "ProductBrandId": 8
+  },
+  {
+    "Name": "SoundWave Laptops 1012",
+    "Description": "This is a SoundWave Laptops 1012 with great features.",
+    "Price": 8776.99,
+    "PictureUrl": "images/products/soundwave_laptops_1012.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 35
+  },
+  {
+    "Name": "Sportify Home Textiles 1232",
+    "Description": "This is a Sportify Home Textiles 1232 with great features.",
+    "Price": 2473.91,
+    "PictureUrl": "images/products/sportify_home_textiles_1232.jpg",
+    "ProductTypeId": 49,
+    "ProductBrandId": 12
+  },
+  {
+    "Name": "KitchenKraft Sports Equipment 216",
+    "Description": "This is a KitchenKraft Sports Equipment 216 with great features.",
+    "Price": 8523.92,
+    "PictureUrl": "images/products/kitchenkraft_sports_equipment_216.jpg",
+    "ProductTypeId": 37,
+    "ProductBrandId": 19
+  },
+  {
+    "Name": "Sportify Outdoor and Adventure 367",
+    "Description": "This is a Sportify Outdoor and Adventure 367 with great features.",
+    "Price": 5202.79,
+    "PictureUrl": "images/products/sportify_outdoor_and_adventure_367.jpg",
+    "ProductTypeId": 14,
+    "ProductBrandId": 12
+  },
+  {
+    "Name": "TravelTech Furniture 652",
+    "Description": "This is a TravelTech Furniture 652 with great features.",
+    "Price": 4899.12,
+    "PictureUrl": "images/products/traveltech_furniture_652.jpg",
+    "ProductTypeId": 35,
+    "ProductBrandId": 41
+  },
+  {
+    "Name": "ElectroTech Furniture 636",
+    "Description": "This is a ElectroTech Furniture 636 with great features.",
+    "Price": 1883.12,
+    "PictureUrl": "images/products/electrotech_furniture_636.jpg",
+    "ProductTypeId": 35,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "OutdoorGearPro Headphones 1688",
+    "Description": "This is a OutdoorGearPro Headphones 1688 with great features.",
+    "Price": 1062.25,
+    "PictureUrl": "images/products/outdoorgearpro_headphones_1688.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 29
+  },
+  {
+    "Name": "HomeApex Software 1177",
+    "Description": "This is a HomeApex Software 1177 with great features.",
+    "Price": 6736.32,
+    "PictureUrl": "images/products/homeapex_software_1177.jpg",
+    "ProductTypeId": 28,
+    "ProductBrandId": 11
+  },
+  {
+    "Name": "AdventureGear Automotive 1164",
+    "Description": "This is a AdventureGear Automotive 1164 with great features.",
+    "Price": 2838.2,
+    "PictureUrl": "images/products/adventuregear_automotive_1164.jpg",
+    "ProductTypeId": 31,
+    "ProductBrandId": 46
+  },
+  {
+    "Name": "Fashionista Laptops 1041",
+    "Description": "This is a Fashionista Laptops 1041 with great features.",
+    "Price": 3967.75,
+    "PictureUrl": "images/products/fashionista_laptops_1041.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 13
+  },
+  {
+    "Name": "ElectroWave Monitors 1069",
+    "Description": "This is a ElectroWave Monitors 1069 with great features.",
+    "Price": 4130.92,
+    "PictureUrl": "images/products/electrowave_monitors_1069.jpg",
+    "ProductTypeId": 22,
+    "ProductBrandId": 44
+  },
+  {
+    "Name": "OutdoorGearPro Action Cameras 316",
+    "Description": "This is a OutdoorGearPro Action Cameras 316 with great features.",
+    "Price": 5666.97,
+    "PictureUrl": "images/products/outdoorgearpro_action_cameras_316.jpg",
+    "ProductTypeId": 24,
+    "ProductBrandId": 29
+  },
+  {
+    "Name": "ElectroTech Drones 1909",
+    "Description": "This is a ElectroTech Drones 1909 with great features.",
+    "Price": 7637.8,
+    "PictureUrl": "images/products/electrotech_drones_1909.jpg",
+    "ProductTypeId": 25,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "SoundMaster Handmade Crafts 293",
+    "Description": "This is a SoundMaster Handmade Crafts 293 with great features.",
+    "Price": 1722.06,
+    "PictureUrl": "images/products/soundmaster_handmade_crafts_293.jpg",
+    "ProductTypeId": 48,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "CameraCraze Kitchen and Cooking 968",
+    "Description": "This is a CameraCraze Kitchen and Cooking 968 with great features.",
+    "Price": 439.23,
+    "PictureUrl": "images/products/cameracraze_kitchen_and_cooking_968.jpg",
+    "ProductTypeId": 16,
+    "ProductBrandId": 48
+  },
+  {
+    "Name": "CameraCraze Travel Accessories 482",
+    "Description": "This is a CameraCraze Travel Accessories 482 with great features.",
+    "Price": 8184.22,
+    "PictureUrl": "images/products/cameracraze_travel_accessories_482.jpg",
+    "ProductTypeId": 40,
+    "ProductBrandId": 48
+  },
+  {
+    "Name": "TravelTech Smartphones 813",
+    "Description": "This is a TravelTech Smartphones 813 with great features.",
+    "Price": 3421.23,
+    "PictureUrl": "images/products/traveltech_smartphones_813.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 41
+  },
+  {
+    "Name": "KitchenPro Adventure Gear 942",
+    "Description": "This is a KitchenPro Adventure Gear 942 with great features.",
+    "Price": 696.26,
+    "PictureUrl": "images/products/kitchenpro_adventure_gear_942.jpg",
+    "ProductTypeId": 45,
+    "ProductBrandId": 31
+  },
+  {
+    "Name": "HomeHarbor Drones 846",
+    "Description": "This is a HomeHarbor Drones 846 with great features.",
+    "Price": 2228.93,
+    "PictureUrl": "images/products/homeharbor_drones_846.jpg",
+    "ProductTypeId": 25,
+    "ProductBrandId": 40
+  },
+  {
+    "Name": "BookNook Automotive 310",
+    "Description": "This is a BookNook Automotive 310 with great features.",
+    "Price": 5005.15,
+    "PictureUrl": "images/products/booknook_automotive_310.jpg",
+    "ProductTypeId": 31,
+    "ProductBrandId": 26
+  },
+  {
+    "Name": "FitPro Beauty and Personal Care 384",
+    "Description": "This is a FitPro Beauty and Personal Care 384 with great features.",
+    "Price": 8546.61,
+    "PictureUrl": "images/products/fitpro_beauty_and_personal_care_384.jpg",
+    "ProductTypeId": 17,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "HealthEssentials Smartphones 676",
+    "Description": "This is a HealthEssentials Smartphones 676 with great features.",
+    "Price": 9046.46,
+    "PictureUrl": "images/products/healthessentials_smartphones_676.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 30
+  },
+  {
+    "Name": "HealthEssentials Monitors 641",
+    "Description": "This is a HealthEssentials Monitors 641 with great features.",
+    "Price": 711.65,
+    "PictureUrl": "images/products/healthessentials_monitors_641.jpg",
+    "ProductTypeId": 22,
+    "ProductBrandId": 30
+  },
+  {
+    "Name": "BeautyBuzz Office Supplies 1498",
+    "Description": "This is a BeautyBuzz Office Supplies 1498 with great features.",
+    "Price": 3891.12,
+    "PictureUrl": "images/products/beautybuzz_office_supplies_1498.jpg",
+    "ProductTypeId": 27,
+    "ProductBrandId": 20
+  },
+  {
+    "Name": "KitchenKraft Candles and Scents 1313",
+    "Description": "This is a KitchenKraft Candles and Scents 1313 with great features.",
+    "Price": 6458.92,
+    "PictureUrl": "images/products/kitchenkraft_candles_and_scents_1313.jpg",
+    "ProductTypeId": 50,
+    "ProductBrandId": 19
+  },
+  {
+    "Name": "HomeElegance Printers 1360",
+    "Description": "This is a HomeElegance Printers 1360 with great features.",
+    "Price": 241.95,
+    "PictureUrl": "images/products/homeelegance_printers_1360.jpg",
+    "ProductTypeId": 20,
+    "ProductBrandId": 50
+  },
+  {
+    "Name": "KitchenKraft Televisions 458",
+    "Description": "This is a KitchenKraft Televisions 458 with great features.",
+    "Price": 591.99,
+    "PictureUrl": "images/products/kitchenkraft_televisions_458.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 19
+  },
+  {
+    "Name": "KitchenKraft Kitchen and Cooking 528",
+    "Description": "This is a KitchenKraft Kitchen and Cooking 528 with great features.",
+    "Price": 7982.71,
+    "PictureUrl": "images/products/kitchenkraft_kitchen_and_cooking_528.jpg",
+    "ProductTypeId": 16,
+    "ProductBrandId": 19
+  },
+  {
+    "Name": "TechGenius Candles and Scents 796",
+    "Description": "This is a TechGenius Candles and Scents 796 with great features.",
+    "Price": 7094.56,
+    "PictureUrl": "images/products/techgenius_candles_and_scents_796.jpg",
+    "ProductTypeId": 50,
+    "ProductBrandId": 39
+  },
+  {
+    "Name": "GreenGizmo Art Supplies 1931",
+    "Description": "This is a GreenGizmo Art Supplies 1931 with great features.",
+    "Price": 3345.54,
+    "PictureUrl": "images/products/greengizmo_art_supplies_1931.jpg",
+    "ProductTypeId": 47,
+    "ProductBrandId": 14
+  },
+  {
+    "Name": "TimelessTreasures Sports and Fitness 1416",
+    "Description": "This is a TimelessTreasures Sports and Fitness 1416 with great features.",
+    "Price": 7847.28,
+    "PictureUrl": "images/products/timelesstreasures_sports_and_fitness_1416.jpg",
+    "ProductTypeId": 9,
+    "ProductBrandId": 47
+  },
+  {
+    "Name": "SoundWave Art Supplies 212",
+    "Description": "This is a SoundWave Art Supplies 212 with great features.",
+    "Price": 2064.98,
+    "PictureUrl": "images/products/soundwave_art_supplies_212.jpg",
+    "ProductTypeId": 47,
+    "ProductBrandId": 35
+  },
+  {
+    "Name": "FashionFusion Fashion Accessories 1644",
+    "Description": "This is a FashionFusion Fashion Accessories 1644 with great features.",
+    "Price": 8091.25,
+    "PictureUrl": "images/products/fashionfusion_fashion_accessories_1644.jpg",
+    "ProductTypeId": 41,
+    "ProductBrandId": 32
+  },
+  {
+    "Name": "TechGenius Green and Eco-Friendly 130",
+    "Description": "This is a TechGenius Green and Eco-Friendly 130 with great features.",
+    "Price": 5992.79,
+    "PictureUrl": "images/products/techgenius_green_and_eco-friendly_130.jpg",
+    "ProductTypeId": 11,
+    "ProductBrandId": 39
+  },
+  {
+    "Name": "AdventurePro Automotive 285",
+    "Description": "This is a AdventurePro Automotive 285 with great features.",
+    "Price": 6755.06,
+    "PictureUrl": "images/products/adventurepro_automotive_285.jpg",
+    "ProductTypeId": 31,
+    "ProductBrandId": 8
+  },
+  {
+    "Name": "ArtisticGems Smart Watches 1137",
+    "Description": "This is a ArtisticGems Smart Watches 1137 with great features.",
+    "Price": 83.98,
+    "PictureUrl": "images/products/artisticgems_smart_watches_1137.jpg",
+    "ProductTypeId": 18,
+    "ProductBrandId": 49
+  },
+  {
+    "Name": "HealthHub Monitors 659",
+    "Description": "This is a HealthHub Monitors 659 with great features.",
+    "Price": 6288.77,
+    "PictureUrl": "images/products/healthhub_monitors_659.jpg",
+    "ProductTypeId": 22,
+    "ProductBrandId": 18
+  },
+  {
+    "Name": "KitchenKraft Toys and Games 445",
+    "Description": "This is a KitchenKraft Toys and Games 445 with great features.",
+    "Price": 5120.73,
+    "PictureUrl": "images/products/kitchenkraft_toys_and_games_445.jpg",
+    "ProductTypeId": 30,
+    "ProductBrandId": 19
+  },
+  {
+    "Name": "BrewMaster Fashion and Apparel 344",
+    "Description": "This is a BrewMaster Fashion and Apparel 344 with great features.",
+    "Price": 175.97,
+    "PictureUrl": "images/products/brewmaster_fashion_and_apparel_344.jpg",
+    "ProductTypeId": 10,
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "GameZone Books 1301",
+    "Description": "This is a GameZone Books 1301 with great features.",
+    "Price": 6085.87,
+    "PictureUrl": "images/products/gamezone_books_1301.jpg",
+    "ProductTypeId": 33,
+    "ProductBrandId": 34
+  },
+  {
+    "Name": "FashionFusion Digital Cameras 1110",
+    "Description": "This is a FashionFusion Digital Cameras 1110 with great features.",
+    "Price": 4934.56,
+    "PictureUrl": "images/products/fashionfusion_digital_cameras_1110.jpg",
+    "ProductTypeId": 23,
+    "ProductBrandId": 32
+  },
+  {
+    "Name": "CameraTech Fashion and Apparel 200",
+    "Description": "This is a CameraTech Fashion and Apparel 200 with great features.",
+    "Price": 3037.94,
+    "PictureUrl": "images/products/cameratech_fashion_and_apparel_200.jpg",
+    "ProductTypeId": 10,
+    "ProductBrandId": 10
+  },
+  {
+    "Name": "OutdoorGearPro Luxury Items 183",
+    "Description": "This is a OutdoorGearPro Luxury Items 183 with great features.",
+    "Price": 7767.55,
+    "PictureUrl": "images/products/outdoorgearpro_luxury_items_183.jpg",
+    "ProductTypeId": 42,
+    "ProductBrandId": 29
+  },
+  {
+    "Name": "OutdoorGearPro Laptops 1537",
+    "Description": "This is a OutdoorGearPro Laptops 1537 with great features.",
+    "Price": 9058.0,
+    "PictureUrl": "images/products/outdoorgearpro_laptops_1537.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 29
+  },
+  {
+    "Name": "CameraTech Drones 7",
+    "Description": "This is a CameraTech Drones 7 with great features.",
+    "Price": 6943.29,
+    "PictureUrl": "images/products/cameratech_drones_7.jpg",
+    "ProductTypeId": 25,
+    "ProductBrandId": 10
+  },
+  {
+    "Name": "TechGenius Beauty Products 1491",
+    "Description": "This is a TechGenius Beauty Products 1491 with great features.",
+    "Price": 6876.37,
+    "PictureUrl": "images/products/techgenius_beauty_products_1491.jpg",
+    "ProductTypeId": 38,
+    "ProductBrandId": 39
+  },
+  {
+    "Name": "SoundMaster Luxury Items 1290",
+    "Description": "This is a SoundMaster Luxury Items 1290 with great features.",
+    "Price": 6801.69,
+    "PictureUrl": "images/products/soundmaster_luxury_items_1290.jpg",
+    "ProductTypeId": 42,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "CameraTech Monitors 655",
+    "Description": "This is a CameraTech Monitors 655 with great features.",
+    "Price": 7196.8,
+    "PictureUrl": "images/products/cameratech_monitors_655.jpg",
+    "ProductTypeId": 22,
+    "ProductBrandId": 10
+  },
+  {
+    "Name": "HomeLux Automotive 1009",
+    "Description": "This is a HomeLux Automotive 1009 with great features.",
+    "Price": 2802.72,
+    "PictureUrl": "images/products/homelux_automotive_1009.jpg",
+    "ProductTypeId": 31,
+    "ProductBrandId": 43
+  },
+  {
+    "Name": "BrewMaster Cameras 456",
+    "Description": "This is a BrewMaster Cameras 456 with great features.",
+    "Price": 9124.51,
+    "PictureUrl": "images/products/brewmaster_cameras_456.jpg",
+    "ProductTypeId": 7,
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "FurnitureLand Software 1543",
+    "Description": "This is a FurnitureLand Software 1543 with great features.",
+    "Price": 3478.87,
+    "PictureUrl": "images/products/furnitureland_software_1543.jpg",
+    "ProductTypeId": 28,
+    "ProductBrandId": 22
+  },
+  {
+    "Name": "HealthEssentials Handmade Crafts 1872",
+    "Description": "This is a HealthEssentials Handmade Crafts 1872 with great features.",
+    "Price": 7186.08,
+    "PictureUrl": "images/products/healthessentials_handmade_crafts_1872.jpg",
+    "ProductTypeId": 48,
+    "ProductBrandId": 30
+  },
+  {
+    "Name": "AdventureGear Fashion Accessories 821",
+    "Description": "This is a AdventureGear Fashion Accessories 821 with great features.",
+    "Price": 1065.31,
+    "PictureUrl": "images/products/adventuregear_fashion_accessories_821.jpg",
+    "ProductTypeId": 41,
+    "ProductBrandId": 46
+  },
+  {
+    "Name": "Sportify Books 1415",
+    "Description": "This is a Sportify Books 1415 with great features.",
+    "Price": 7390.59,
+    "PictureUrl": "images/products/sportify_books_1415.jpg",
+    "ProductTypeId": 33,
+    "ProductBrandId": 12
+  },
+  {
+    "Name": "MusicMasters Fitness Trackers 1167",
+    "Description": "This is a MusicMasters Fitness Trackers 1167 with great features.",
+    "Price": 7844.67,
+    "PictureUrl": "images/products/musicmasters_fitness_trackers_1167.jpg",
+    "ProductTypeId": 19,
+    "ProductBrandId": 15
+  },
+  {
+    "Name": "GreenGizmo Home Textiles 662",
+    "Description": "This is a GreenGizmo Home Textiles 662 with great features.",
+    "Price": 3450.23,
+    "PictureUrl": "images/products/greengizmo_home_textiles_662.jpg",
+    "ProductTypeId": 49,
+    "ProductBrandId": 14
+  },
+  {
+    "Name": "JewelCraft Tech Accessories 672",
+    "Description": "This is a JewelCraft Tech Accessories 672 with great features.",
+    "Price": 3087.81,
+    "PictureUrl": "images/products/jewelcraft_tech_accessories_672.jpg",
+    "ProductTypeId": 39,
+    "ProductBrandId": 25
+  },
+  {
+    "Name": "AdventureGear Green and Eco-Friendly 93",
+    "Description": "This is a AdventureGear Green and Eco-Friendly 93 with great features.",
+    "Price": 4442.75,
+    "PictureUrl": "images/products/adventuregear_green_and_eco-friendly_93.jpg",
+    "ProductTypeId": 11,
+    "ProductBrandId": 46
+  },
+  {
+    "Name": "BrewMaster Audio and Music Gear 714",
+    "Description": "This is a BrewMaster Audio and Music Gear 714 with great features.",
+    "Price": 9502.06,
+    "PictureUrl": "images/products/brewmaster_audio_and_music_gear_714.jpg",
+    "ProductTypeId": 12,
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "FurnitureLand Tablets 352",
+    "Description": "This is a FurnitureLand Tablets 352 with great features.",
+    "Price": 7354.12,
+    "PictureUrl": "images/products/furnitureland_tablets_352.jpg",
+    "ProductTypeId": 6,
+    "ProductBrandId": 22
+  },
+  {
+    "Name": "GameX Digital Cameras 212",
+    "Description": "This is a GameX Digital Cameras 212 with great features.",
+    "Price": 41.28,
+    "PictureUrl": "images/products/gamex_digital_cameras_212.jpg",
+    "ProductTypeId": 23,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "TechCorp Gaming Consoles 1128",
+    "Description": "This is a TechCorp Gaming Consoles 1128 with great features.",
+    "Price": 2820.11,
+    "PictureUrl": "images/products/techcorp_gaming_consoles_1128.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Sportify Smart Watches 1460",
+    "Description": "This is a Sportify Smart Watches 1460 with great features.",
+    "Price": 8944.82,
+    "PictureUrl": "images/products/sportify_smart_watches_1460.jpg",
+    "ProductTypeId": 18,
+    "ProductBrandId": 12
+  },
+  {
+    "Name": "FashionForward Fitness Trackers 1573",
+    "Description": "This is a FashionForward Fitness Trackers 1573 with great features.",
+    "Price": 8055.85,
+    "PictureUrl": "images/products/fashionforward_fitness_trackers_1573.jpg",
+    "ProductTypeId": 19,
+    "ProductBrandId": 42
+  },
+  {
+    "Name": "MusicMania Pet Supplies 1546",
+    "Description": "This is a MusicMania Pet Supplies 1546 with great features.",
+    "Price": 7046.78,
+    "PictureUrl": "images/products/musicmania_pet_supplies_1546.jpg",
+    "ProductTypeId": 13,
+    "ProductBrandId": 45
+  },
+  {
+    "Name": "Sportify Office Supplies 974",
+    "Description": "This is a Sportify Office Supplies 974 with great features.",
+    "Price": 7290.96,
+    "PictureUrl": "images/products/sportify_office_supplies_974.jpg",
+    "ProductTypeId": 27,
+    "ProductBrandId": 12
+  },
+  {
+    "Name": "ElectroGizmo Home Appliances 1658",
+    "Description": "This is a ElectroGizmo Home Appliances 1658 with great features.",
+    "Price": 7834.75,
+    "PictureUrl": "images/products/electrogizmo_home_appliances_1658.jpg",
+    "ProductTypeId": 8,
+    "ProductBrandId": 33
+  },
+  {
+    "Name": "HomeLux Art Supplies 1698",
+    "Description": "This is a HomeLux Art Supplies 1698 with great features.",
+    "Price": 1168.5,
+    "PictureUrl": "images/products/homelux_art_supplies_1698.jpg",
+    "ProductTypeId": 47,
+    "ProductBrandId": 43
+  },
+  {
+    "Name": "MusicMasters Beauty and Personal Care 866",
+    "Description": "This is a MusicMasters Beauty and Personal Care 866 with great features.",
+    "Price": 730.97,
+    "PictureUrl": "images/products/musicmasters_beauty_and_personal_care_866.jpg",
+    "ProductTypeId": 17,
+    "ProductBrandId": 15
+  },
+  {
+    "Name": "AdventureGear Televisions 887",
+    "Description": "This is a AdventureGear Televisions 887 with great features.",
+    "Price": 8668.29,
+    "PictureUrl": "images/products/adventuregear_televisions_887.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 46
+  },
+  {
+    "Name": "KitchenKraft Action Cameras 1987",
+    "Description": "This is a KitchenKraft Action Cameras 1987 with great features.",
+    "Price": 2091.87,
+    "PictureUrl": "images/products/kitchenkraft_action_cameras_1987.jpg",
+    "ProductTypeId": 24,
+    "ProductBrandId": 19
+  },
+  {
+    "Name": "ElectroTech Tech Accessories 1717",
+    "Description": "This is a ElectroTech Tech Accessories 1717 with great features.",
+    "Price": 5694.22,
+    "PictureUrl": "images/products/electrotech_tech_accessories_1717.jpg",
+    "ProductTypeId": 39,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "MusicMania Smartphones 1280",
+    "Description": "This is a MusicMania Smartphones 1280 with great features.",
+    "Price": 1458.47,
+    "PictureUrl": "images/products/musicmania_smartphones_1280.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 45
+  },
+  {
+    "Name": "SoundMaster Action Cameras 1963",
+    "Description": "This is a SoundMaster Action Cameras 1963 with great features.",
+    "Price": 4344.87,
+    "PictureUrl": "images/products/soundmaster_action_cameras_1963.jpg",
+    "ProductTypeId": 24,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "ElectroGizmo Outdoor Gear 1057",
+    "Description": "This is a ElectroGizmo Outdoor Gear 1057 with great features.",
+    "Price": 2760.65,
+    "PictureUrl": "images/products/electrogizmo_outdoor_gear_1057.jpg",
+    "ProductTypeId": 36,
+    "ProductBrandId": 33
+  },
+  {
+    "Name": "GreenGizmo Home Appliances 796",
+    "Description": "This is a GreenGizmo Home Appliances 796 with great features.",
+    "Price": 4753.9,
+    "PictureUrl": "images/products/greengizmo_home_appliances_796.jpg",
+    "ProductTypeId": 8,
+    "ProductBrandId": 14
+  },
+  {
+    "Name": "CameraTech Adventure Gear 1797",
+    "Description": "This is a CameraTech Adventure Gear 1797 with great features.",
+    "Price": 5938.19,
+    "PictureUrl": "images/products/cameratech_adventure_gear_1797.jpg",
+    "ProductTypeId": 45,
+    "ProductBrandId": 10
+  },
+  {
+    "Name": "ElectroTech Software 1225",
+    "Description": "This is a ElectroTech Software 1225 with great features.",
+    "Price": 188.38,
+    "PictureUrl": "images/products/electrotech_software_1225.jpg",
+    "ProductTypeId": 28,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "TechCorp Toys and Games 564",
+    "Description": "This is a TechCorp Toys and Games 564 with great features.",
+    "Price": 6560.54,
+    "PictureUrl": "images/products/techcorp_toys_and_games_564.jpg",
+    "ProductTypeId": 30,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "TravelTech Watches 1261",
+    "Description": "This is a TravelTech Watches 1261 with great features.",
+    "Price": 8160.67,
+    "PictureUrl": "images/products/traveltech_watches_1261.jpg",
+    "ProductTypeId": 46,
+    "ProductBrandId": 41
+  },
+  {
+    "Name": "TechWave Fitness Trackers 833",
+    "Description": "This is a TechWave Fitness Trackers 833 with great features.",
+    "Price": 8821.17,
+    "PictureUrl": "images/products/techwave_fitness_trackers_833.jpg",
+    "ProductTypeId": 19,
+    "ProductBrandId": 21
+  },
+  {
+    "Name": "FashionFusion Fitness Trackers 1004",
+    "Description": "This is a FashionFusion Fitness Trackers 1004 with great features.",
+    "Price": 9604.07,
+    "PictureUrl": "images/products/fashionfusion_fitness_trackers_1004.jpg",
+    "ProductTypeId": 19,
+    "ProductBrandId": 32
+  },
+  {
+    "Name": "BrewMaster Printers 651",
+    "Description": "This is a BrewMaster Printers 651 with great features.",
+    "Price": 1616.65,
+    "PictureUrl": "images/products/brewmaster_printers_651.jpg",
+    "ProductTypeId": 20,
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "GameZone Jewelry 1185",
+    "Description": "This is a GameZone Jewelry 1185 with great features.",
+    "Price": 2769.02,
+    "PictureUrl": "images/products/gamezone_jewelry_1185.jpg",
+    "ProductTypeId": 32,
+    "ProductBrandId": 34
+  },
+  {
+    "Name": "SportsMaster Kitchen and Cooking 1143",
+    "Description": "This is a SportsMaster Kitchen and Cooking 1143 with great features.",
+    "Price": 8902.33,
+    "PictureUrl": "images/products/sportsmaster_kitchen_and_cooking_1143.jpg",
+    "ProductTypeId": 16,
+    "ProductBrandId": 37
+  },
+  {
+    "Name": "GadgetZone Handmade Crafts 513",
+    "Description": "This is a GadgetZone Handmade Crafts 513 with great features.",
+    "Price": 2181.7,
+    "PictureUrl": "images/products/gadgetzone_handmade_crafts_513.jpg",
+    "ProductTypeId": 48,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "HomeLux Tech Accessories 95",
+    "Description": "This is a HomeLux Tech Accessories 95 with great features.",
+    "Price": 1105.04,
+    "PictureUrl": "images/products/homelux_tech_accessories_95.jpg",
+    "ProductTypeId": 39,
+    "ProductBrandId": 43
+  },
+  {
+    "Name": "BrewMaster Home Textiles 1584",
+    "Description": "This is a BrewMaster Home Textiles 1584 with great features.",
+    "Price": 4964.52,
+    "PictureUrl": "images/products/brewmaster_home_textiles_1584.jpg",
+    "ProductTypeId": 49,
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "AdventureGear Adventure Gear 1664",
+    "Description": "This is a AdventureGear Adventure Gear 1664 with great features.",
+    "Price": 6993.48,
+    "PictureUrl": "images/products/adventuregear_adventure_gear_1664.jpg",
+    "ProductTypeId": 45,
+    "ProductBrandId": 46
+  },
+  {
+    "Name": "TimeMaster Monitors 737",
+    "Description": "This is a TimeMaster Monitors 737 with great features.",
+    "Price": 1295.8,
+    "PictureUrl": "images/products/timemaster_monitors_737.jpg",
+    "ProductTypeId": 22,
+    "ProductBrandId": 9
+  },
+  {
+    "Name": "PetParadise Scanners 1449",
+    "Description": "This is a PetParadise Scanners 1449 with great features.",
+    "Price": 1706.17,
+    "PictureUrl": "images/products/petparadise_scanners_1449.jpg",
+    "ProductTypeId": 21,
+    "ProductBrandId": 36
+  },
+  {
+    "Name": "TimelessTreasures Televisions 40",
+    "Description": "This is a TimelessTreasures Televisions 40 with great features.",
+    "Price": 4027.47,
+    "PictureUrl": "images/products/timelesstreasures_televisions_40.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 47
+  },
+  {
+    "Name": "GameX Toys and Games 918",
+    "Description": "This is a GameX Toys and Games 918 with great features.",
+    "Price": 7264.93,
+    "PictureUrl": "images/products/gamex_toys_and_games_918.jpg",
+    "ProductTypeId": 30,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "HomeLux Pet Supplies 899",
+    "Description": "This is a HomeLux Pet Supplies 899 with great features.",
+    "Price": 4625.28,
+    "PictureUrl": "images/products/homelux_pet_supplies_899.jpg",
+    "ProductTypeId": 13,
+    "ProductBrandId": 43
+  },
+  {
+    "Name": "JewelCraft Fitness Trackers 701",
+    "Description": "This is a JewelCraft Fitness Trackers 701 with great features.",
+    "Price": 2353.48,
+    "PictureUrl": "images/products/jewelcraft_fitness_trackers_701.jpg",
+    "ProductTypeId": 19,
+    "ProductBrandId": 25
+  },
+  {
+    "Name": "JewelCraft Candles and Scents 1783",
+    "Description": "This is a JewelCraft Candles and Scents 1783 with great features.",
+    "Price": 1097.62,
+    "PictureUrl": "images/products/jewelcraft_candles_and_scents_1783.jpg",
+    "ProductTypeId": 50,
+    "ProductBrandId": 25
+  },
+  {
+    "Name": "ArtisticGems Digital Cameras 743",
+    "Description": "This is a ArtisticGems Digital Cameras 743 with great features.",
+    "Price": 5344.26,
+    "PictureUrl": "images/products/artisticgems_digital_cameras_743.jpg",
+    "ProductTypeId": 23,
+    "ProductBrandId": 49
+  },
+  {
+    "Name": "PetParadise Beauty Products 398",
+    "Description": "This is a PetParadise Beauty Products 398 with great features.",
+    "Price": 1871.27,
+    "PictureUrl": "images/products/petparadise_beauty_products_398.jpg",
+    "ProductTypeId": 38,
+    "ProductBrandId": 36
+  },
+  {
+    "Name": "HomeHarbor Furniture 27",
+    "Description": "This is a HomeHarbor Furniture 27 with great features.",
+    "Price": 9750.72,
+    "PictureUrl": "images/products/homeharbor_furniture_27.jpg",
+    "ProductTypeId": 35,
+    "ProductBrandId": 40
+  },
+  {
+    "Name": "FurnitureLand Tablets 161",
+    "Description": "This is a FurnitureLand Tablets 161 with great features.",
+    "Price": 2486.76,
+    "PictureUrl": "images/products/furnitureland_tablets_161.jpg",
+    "ProductTypeId": 6,
+    "ProductBrandId": 22
+  },
+  {
+    "Name": "ElectroGizmo Beauty and Personal Care 376",
+    "Description": "This is a ElectroGizmo Beauty and Personal Care 376 with great features.",
+    "Price": 1704.69,
+    "PictureUrl": "images/products/electrogizmo_beauty_and_personal_care_376.jpg",
+    "ProductTypeId": 17,
+    "ProductBrandId": 33
+  },
+  {
+    "Name": "AdventurePro Home Appliances 1261",
+    "Description": "This is a AdventurePro Home Appliances 1261 with great features.",
+    "Price": 3481.85,
+    "PictureUrl": "images/products/adventurepro_home_appliances_1261.jpg",
+    "ProductTypeId": 8,
+    "ProductBrandId": 8
+  },
+  {
+    "Name": "Fashionista Home Appliances 277",
+    "Description": "This is a Fashionista Home Appliances 277 with great features.",
+    "Price": 9495.65,
+    "PictureUrl": "images/products/fashionista_home_appliances_277.jpg",
+    "ProductTypeId": 8,
+    "ProductBrandId": 13
+  },
+  {
+    "Name": "OutdoorGearPro Action Cameras 1127",
+    "Description": "This is a OutdoorGearPro Action Cameras 1127 with great features.",
+    "Price": 5926.5,
+    "PictureUrl": "images/products/outdoorgearpro_action_cameras_1127.jpg",
+    "ProductTypeId": 24,
+    "ProductBrandId": 29
+  },
+  {
+    "Name": "ElectroTech Gaming Consoles 669",
+    "Description": "This is a ElectroTech Gaming Consoles 669 with great features.",
+    "Price": 8256.18,
+    "PictureUrl": "images/products/electrotech_gaming_consoles_669.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "CameraCraze Toys and Games 1722",
+    "Description": "This is a CameraCraze Toys and Games 1722 with great features.",
+    "Price": 7707.23,
+    "PictureUrl": "images/products/cameracraze_toys_and_games_1722.jpg",
+    "ProductTypeId": 30,
+    "ProductBrandId": 48
+  },
+  {
+    "Name": "TimeMaster Office Supplies 600",
+    "Description": "This is a TimeMaster Office Supplies 600 with great features.",
+    "Price": 5635.3,
+    "PictureUrl": "images/products/timemaster_office_supplies_600.jpg",
+    "ProductTypeId": 27,
+    "ProductBrandId": 9
+  },
+  {
+    "Name": "BrewMaster Green and Eco-Friendly 1212",
+    "Description": "This is a BrewMaster Green and Eco-Friendly 1212 with great features.",
+    "Price": 5320.8,
+    "PictureUrl": "images/products/brewmaster_green_and_eco-friendly_1212.jpg",
+    "ProductTypeId": 11,
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "KitchenPro Printers 1938",
+    "Description": "This is a KitchenPro Printers 1938 with great features.",
+    "Price": 961.56,
+    "PictureUrl": "images/products/kitchenpro_printers_1938.jpg",
+    "ProductTypeId": 20,
+    "ProductBrandId": 31
+  },
+  {
+    "Name": "Fashionista Home Decor 296",
+    "Description": "This is a Fashionista Home Decor 296 with great features.",
+    "Price": 1311.87,
+    "PictureUrl": "images/products/fashionista_home_decor_296.jpg",
+    "ProductTypeId": 29,
+    "ProductBrandId": 13
+  },
+  {
+    "Name": "HomeHarbor Office Supplies 507",
+    "Description": "This is a HomeHarbor Office Supplies 507 with great features.",
+    "Price": 1713.93,
+    "PictureUrl": "images/products/homeharbor_office_supplies_507.jpg",
+    "ProductTypeId": 27,
+    "ProductBrandId": 40
+  },
+  {
+    "Name": "CameraTech Art Supplies 885",
+    "Description": "This is a CameraTech Art Supplies 885 with great features.",
+    "Price": 8410.03,
+    "PictureUrl": "images/products/cameratech_art_supplies_885.jpg",
+    "ProductTypeId": 47,
+    "ProductBrandId": 10
+  },
+  {
+    "Name": "TechWave Jewelry 1681",
+    "Description": "This is a TechWave Jewelry 1681 with great features.",
+    "Price": 4894.59,
+    "PictureUrl": "images/products/techwave_jewelry_1681.jpg",
+    "ProductTypeId": 32,
+    "ProductBrandId": 21
+  },
+  {
+    "Name": "BeautyBliss Watches 1695",
+    "Description": "This is a BeautyBliss Watches 1695 with great features.",
+    "Price": 8190.95,
+    "PictureUrl": "images/products/beautybliss_watches_1695.jpg",
+    "ProductTypeId": 46,
+    "ProductBrandId": 38
+  },
+  {
+    "Name": "HealthHub Digital Cameras 5",
+    "Description": "This is a HealthHub Digital Cameras 5 with great features.",
+    "Price": 6363.16,
+    "PictureUrl": "images/products/healthhub_digital_cameras_5.jpg",
+    "ProductTypeId": 23,
+    "ProductBrandId": 18
+  },
+  {
+    "Name": "KitchenPro Home Decor 1398",
+    "Description": "This is a KitchenPro Home Decor 1398 with great features.",
+    "Price": 5672.42,
+    "PictureUrl": "images/products/kitchenpro_home_decor_1398.jpg",
+    "ProductTypeId": 29,
+    "ProductBrandId": 31
+  },
+  {
+    "Name": "MusicMania Books 1990",
+    "Description": "This is a MusicMania Books 1990 with great features.",
+    "Price": 8274.55,
+    "PictureUrl": "images/products/musicmania_books_1990.jpg",
+    "ProductTypeId": 33,
+    "ProductBrandId": 45
+  },
+  {
+    "Name": "HomeHarbor Televisions 56",
+    "Description": "This is a HomeHarbor Televisions 56 with great features.",
+    "Price": 2527.17,
+    "PictureUrl": "images/products/homeharbor_televisions_56.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 40
+  },
+  {
+    "Name": "JewelCraft Printers 1557",
+    "Description": "This is a JewelCraft Printers 1557 with great features.",
+    "Price": 467.99,
+    "PictureUrl": "images/products/jewelcraft_printers_1557.jpg",
+    "ProductTypeId": 20,
+    "ProductBrandId": 25
+  },
+  {
+    "Name": "KitchenPro Fashion and Apparel 150",
+    "Description": "This is a KitchenPro Fashion and Apparel 150 with great features.",
+    "Price": 7966.99,
+    "PictureUrl": "images/products/kitchenpro_fashion_and_apparel_150.jpg",
+    "ProductTypeId": 10,
+    "ProductBrandId": 31
+  },
+  {
+    "Name": "TechGenius Smartphones 836",
+    "Description": "This is a TechGenius Smartphones 836 with great features.",
+    "Price": 6471.96,
+    "PictureUrl": "images/products/techgenius_smartphones_836.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 39
+  },
+  {
+    "Name": "FashionFusion Headphones 1033",
+    "Description": "This is a FashionFusion Headphones 1033 with great features.",
+    "Price": 1948.31,
+    "PictureUrl": "images/products/fashionfusion_headphones_1033.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 32
+  },
+  {
+    "Name": "CameraCraze Cameras 1258",
+    "Description": "This is a CameraCraze Cameras 1258 with great features.",
+    "Price": 8243.93,
+    "PictureUrl": "images/products/cameracraze_cameras_1258.jpg",
+    "ProductTypeId": 7,
+    "ProductBrandId": 48
+  },
+  {
+    "Name": "BrewMaster Fashion and Apparel 1332",
+    "Description": "This is a BrewMaster Fashion and Apparel 1332 with great features.",
+    "Price": 2987.75,
+    "PictureUrl": "images/products/brewmaster_fashion_and_apparel_1332.jpg",
+    "ProductTypeId": 10,
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "GreenGizmo Outdoor Gear 311",
+    "Description": "This is a GreenGizmo Outdoor Gear 311 with great features.",
+    "Price": 9645.86,
+    "PictureUrl": "images/products/greengizmo_outdoor_gear_311.jpg",
+    "ProductTypeId": 36,
+    "ProductBrandId": 14
+  },
+  {
+    "Name": "AutoMasters Automotive 1589",
+    "Description": "This is a AutoMasters Automotive 1589 with great features.",
+    "Price": 6867.1,
+    "PictureUrl": "images/products/automasters_automotive_1589.jpg",
+    "ProductTypeId": 31,
+    "ProductBrandId": 24
+  },
+  {
+    "Name": "HomeLux Tech Accessories 577",
+    "Description": "This is a HomeLux Tech Accessories 577 with great features.",
+    "Price": 5865.75,
+    "PictureUrl": "images/products/homelux_tech_accessories_577.jpg",
+    "ProductTypeId": 39,
+    "ProductBrandId": 43
+  },
+  {
+    "Name": "TimeMaster Drones 1700",
+    "Description": "This is a TimeMaster Drones 1700 with great features.",
+    "Price": 9178.34,
+    "PictureUrl": "images/products/timemaster_drones_1700.jpg",
+    "ProductTypeId": 25,
+    "ProductBrandId": 9
+  },
+  {
+    "Name": "PetPalace Toys and Games 716",
+    "Description": "This is a PetPalace Toys and Games 716 with great features.",
+    "Price": 9363.62,
+    "PictureUrl": "images/products/petpalace_toys_and_games_716.jpg",
+    "ProductTypeId": 30,
+    "ProductBrandId": 16
+  },
+  {
+    "Name": "OutdoorAdventures Luxury Items 820",
+    "Description": "This is a OutdoorAdventures Luxury Items 820 with great features.",
+    "Price": 9377.54,
+    "PictureUrl": "images/products/outdooradventures_luxury_items_820.jpg",
+    "ProductTypeId": 42,
+    "ProductBrandId": 17
+  },
+  {
+    "Name": "SportsMaster Outdoor Gear 1551",
+    "Description": "This is a SportsMaster Outdoor Gear 1551 with great features.",
+    "Price": 6464.12,
+    "PictureUrl": "images/products/sportsmaster_outdoor_gear_1551.jpg",
+    "ProductTypeId": 36,
+    "ProductBrandId": 37
+  },
+  {
+    "Name": "FitPro Art and Crafts 1280",
+    "Description": "This is a FitPro Art and Crafts 1280 with great features.",
+    "Price": 5315.14,
+    "PictureUrl": "images/products/fitpro_art_and_crafts_1280.jpg",
+    "ProductTypeId": 34,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "HealthEssentials Action Cameras 169",
+    "Description": "This is a HealthEssentials Action Cameras 169 with great features.",
+    "Price": 7504.57,
+    "PictureUrl": "images/products/healthessentials_action_cameras_169.jpg",
+    "ProductTypeId": 24,
+    "ProductBrandId": 30
+  },
+  {
+    "Name": "TechWave Musical Instruments 299",
+    "Description": "This is a TechWave Musical Instruments 299 with great features.",
+    "Price": 7249.75,
+    "PictureUrl": "images/products/techwave_musical_instruments_299.jpg",
+    "ProductTypeId": 44,
+    "ProductBrandId": 21
+  },
+  {
+    "Name": "SoundWave Home Decor 95",
+    "Description": "This is a SoundWave Home Decor 95 with great features.",
+    "Price": 7802.92,
+    "PictureUrl": "images/products/soundwave_home_decor_95.jpg",
+    "ProductTypeId": 29,
+    "ProductBrandId": 35
+  },
+  {
+    "Name": "TravelTech Office Supplies 764",
+    "Description": "This is a TravelTech Office Supplies 764 with great features.",
+    "Price": 4691.68,
+    "PictureUrl": "images/products/traveltech_office_supplies_764.jpg",
+    "ProductTypeId": 27,
+    "ProductBrandId": 41
+  },
+  {
+    "Name": "SportsMaster Action Cameras 1647",
+    "Description": "This is a SportsMaster Action Cameras 1647 with great features.",
+    "Price": 8925.67,
+    "PictureUrl": "images/products/sportsmaster_action_cameras_1647.jpg",
+    "ProductTypeId": 24,
+    "ProductBrandId": 37
+  },
+  {
+    "Name": "OutdoorAdventures Home Textiles 1327",
+    "Description": "This is a OutdoorAdventures Home Textiles 1327 with great features.",
+    "Price": 5877.98,
+    "PictureUrl": "images/products/outdooradventures_home_textiles_1327.jpg",
+    "ProductTypeId": 49,
+    "ProductBrandId": 17
+  },
+  {
+    "Name": "TechGenius Outdoor and Adventure 1122",
+    "Description": "This is a TechGenius Outdoor and Adventure 1122 with great features.",
+    "Price": 6124.58,
+    "PictureUrl": "images/products/techgenius_outdoor_and_adventure_1122.jpg",
+    "ProductTypeId": 14,
+    "ProductBrandId": 39
+  },
+  {
+    "Name": "Sportify Sports Equipment 1446",
+    "Description": "This is a Sportify Sports Equipment 1446 with great features.",
+    "Price": 4467.03,
+    "PictureUrl": "images/products/sportify_sports_equipment_1446.jpg",
+    "ProductTypeId": 37,
+    "ProductBrandId": 12
+  },
+  {
+    "Name": "OutdoorAdventures Office Supplies 481",
+    "Description": "This is a OutdoorAdventures Office Supplies 481 with great features.",
+    "Price": 4155.56,
+    "PictureUrl": "images/products/outdooradventures_office_supplies_481.jpg",
+    "ProductTypeId": 27,
+    "ProductBrandId": 17
+  },
+  {
+    "Name": "CameraTech Beauty and Personal Care 1580",
+    "Description": "This is a CameraTech Beauty and Personal Care 1580 with great features.",
+    "Price": 9684.27,
+    "PictureUrl": "images/products/cameratech_beauty_and_personal_care_1580.jpg",
+    "ProductTypeId": 17,
+    "ProductBrandId": 10
+  },
+  {
+    "Name": "CameraCraze Sports and Fitness 203",
+    "Description": "This is a CameraCraze Sports and Fitness 203 with great features.",
+    "Price": 7323.64,
+    "PictureUrl": "images/products/cameracraze_sports_and_fitness_203.jpg",
+    "ProductTypeId": 9,
+    "ProductBrandId": 48
+  },
+  {
+    "Name": "FashionForward Sports and Fitness 1291",
+    "Description": "This is a FashionForward Sports and Fitness 1291 with great features.",
+    "Price": 1205.83,
+    "PictureUrl": "images/products/fashionforward_sports_and_fitness_1291.jpg",
+    "ProductTypeId": 9,
+    "ProductBrandId": 42
+  },
+  {
+    "Name": "JewelCraft Toys and Games 1735",
+    "Description": "This is a JewelCraft Toys and Games 1735 with great features.",
+    "Price": 321.23,
+    "PictureUrl": "images/products/jewelcraft_toys_and_games_1735.jpg",
+    "ProductTypeId": 30,
+    "ProductBrandId": 25
+  },
+  {
+    "Name": "ElectroGizmo Beauty Products 1313",
+    "Description": "This is a ElectroGizmo Beauty Products 1313 with great features.",
+    "Price": 9939.72,
+    "PictureUrl": "images/products/electrogizmo_beauty_products_1313.jpg",
+    "ProductTypeId": 38,
+    "ProductBrandId": 33
+  },
+  {
+    "Name": "AutoMasters Art Supplies 755",
+    "Description": "This is a AutoMasters Art Supplies 755 with great features.",
+    "Price": 3805.44,
+    "PictureUrl": "images/products/automasters_art_supplies_755.jpg",
+    "ProductTypeId": 47,
+    "ProductBrandId": 24
+  },
+  {
+    "Name": "FashionForward Pet Supplies 792",
+    "Description": "This is a FashionForward Pet Supplies 792 with great features.",
+    "Price": 5063.22,
+    "PictureUrl": "images/products/fashionforward_pet_supplies_792.jpg",
+    "ProductTypeId": 13,
+    "ProductBrandId": 42
+  },
+  {
+    "Name": "BrewMaster Beauty Products 1423",
+    "Description": "This is a BrewMaster Beauty Products 1423 with great features.",
+    "Price": 6707.94,
+    "PictureUrl": "images/products/brewmaster_beauty_products_1423.jpg",
+    "ProductTypeId": 38,
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "PetParadise Green and Eco-Friendly 1537",
+    "Description": "This is a PetParadise Green and Eco-Friendly 1537 with great features.",
+    "Price": 1551.83,
+    "PictureUrl": "images/products/petparadise_green_and_eco-friendly_1537.jpg",
+    "ProductTypeId": 11,
+    "ProductBrandId": 36
+  },
+  {
+    "Name": "HomeHarbor Furniture 1232",
+    "Description": "This is a HomeHarbor Furniture 1232 with great features.",
+    "Price": 5472.34,
+    "PictureUrl": "images/products/homeharbor_furniture_1232.jpg",
+    "ProductTypeId": 35,
+    "ProductBrandId": 40
+  },
+  {
+    "Name": "OutdoorGearPro Pet Supplies 1300",
+    "Description": "This is a OutdoorGearPro Pet Supplies 1300 with great features.",
+    "Price": 3741.93,
+    "PictureUrl": "images/products/outdoorgearpro_pet_supplies_1300.jpg",
+    "ProductTypeId": 13,
+    "ProductBrandId": 29
+  },
+  {
+    "Name": "SoundMaster Digital Cameras 1075",
+    "Description": "This is a SoundMaster Digital Cameras 1075 with great features.",
+    "Price": 4065.56,
+    "PictureUrl": "images/products/soundmaster_digital_cameras_1075.jpg",
+    "ProductTypeId": 23,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "GadgetZone Outdoor Gear 1763",
+    "Description": "This is a GadgetZone Outdoor Gear 1763 with great features.",
+    "Price": 6632.36,
+    "PictureUrl": "images/products/gadgetzone_outdoor_gear_1763.jpg",
+    "ProductTypeId": 36,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "CameraTech Outdoor and Adventure 1913",
+    "Description": "This is a CameraTech Outdoor and Adventure 1913 with great features.",
+    "Price": 8068.58,
+    "PictureUrl": "images/products/cameratech_outdoor_and_adventure_1913.jpg",
+    "ProductTypeId": 14,
+    "ProductBrandId": 10
+  },
+  {
+    "Name": "TechGenius Audio and Music Gear 1503",
+    "Description": "This is a TechGenius Audio and Music Gear 1503 with great features.",
+    "Price": 2039.9,
+    "PictureUrl": "images/products/techgenius_audio_and_music_gear_1503.jpg",
+    "ProductTypeId": 12,
+    "ProductBrandId": 39
+  },
+  {
+    "Name": "OutdoorGearPro Software 209",
+    "Description": "This is a OutdoorGearPro Software 209 with great features.",
+    "Price": 3195.52,
+    "PictureUrl": "images/products/outdoorgearpro_software_209.jpg",
+    "ProductTypeId": 28,
+    "ProductBrandId": 29
   }
 ]

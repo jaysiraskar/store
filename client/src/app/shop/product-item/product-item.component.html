@@ -1,8 +1,8 @@
 <div class="card h-100 shadow rounded-section bg-light-subtle card-hover-effect" *ngIf="product">
+  <img src="{{product.pictureUrl}}" alt="{{product.name}}" class="img-fluid">
   <div class="card-body d-flex flex-column">
     <a routerLink="/shop/{{product.id}}" class="mb-4">
-      <img src="{{product.pictureUrl}}" alt="{{product.name}}" class="img-fluid">
-      <h6 class="text-uppercase text-primary">{{product.name}}</h6>
+      <h6 class="text-primary">{{product.name}}</h6>
       <span class="fw-bold text-dark">{{product.price | currency:"INR"}}</span>
     </a>
     <div class="btn-group mt-auto">
