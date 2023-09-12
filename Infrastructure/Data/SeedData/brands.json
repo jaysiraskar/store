@@ -1,20 +1,152 @@
 [
   {
-    "Name": "Angular"
+    "Name": "TechCorp"
   },
   {
-    "Name": "NetCore"
+    "Name": "GadgetZone"
   },
   {
-    "Name": "VS Code"
+    "Name": "ElectroTech"
   },
   {
-    "Name": "React"
+    "Name": "SoundMaster"
   },
   {
-    "Name": "Typescript"
+    "Name": "GameX"
   },
   {
-    "Name": "Redis"
+    "Name": "FitPro"
+  },
+  {
+    "Name": "BrewMaster"
+  },
+  {
+    "Name": "AdventurePro"
+  },
+  {
+    "Name": "TimeMaster"
+  },
+  {
+    "Name": "CameraTech"
+  },
+  {
+    "Name": "HomeApex"
+  },
+  {
+    "Name": "Sportify"
+  },
+  {
+    "Name": "Fashionista"
+  },
+  {
+    "Name": "GreenGizmo"
+  },
+  {
+    "Name": "MusicMasters"
+  },
+  {
+    "Name": "PetPalace"
+  },
+  {
+    "Name": "OutdoorAdventures"
+  },
+  {
+    "Name": "HealthHub"
+  },
+  {
+    "Name": "KitchenKraft"
+  },
+  {
+    "Name": "BeautyBuzz"
+  },
+  {
+    "Name": "TechWave"
+  },
+  {
+    "Name": "FurnitureLand"
+  },
+  {
+    "Name": "ToyGalaxy"
+  },
+  {
+    "Name": "AutoMasters"
+  },
+  {
+    "Name": "JewelCraft"
+  },
+  {
+    "Name": "BookNook"
+  },
+  {
+    "Name": "ArtisanGoods"
+  },
+  {
+    "Name": "HomeDecorHub"
+  },
+  {
+    "Name": "OutdoorGearPro"
+  },
+  {
+    "Name": "HealthEssentials"
+  },
+  {
+    "Name": "KitchenPro"
+  },
+  {
+    "Name": "FashionFusion"
+  },
+  {
+    "Name": "ElectroGizmo"
+  },
+  {
+    "Name": "GameZone"
+  },
+  {
+    "Name": "SoundWave"
+  },
+  {
+    "Name": "PetParadise"
+  },
+  {
+    "Name": "SportsMaster"
+  },
+  {
+    "Name": "BeautyBliss"
+  },
+  {
+    "Name": "TechGenius"
+  },
+  {
+    "Name": "HomeHarbor"
+  },
+  {
+    "Name": "TravelTech"
+  },
+  {
+    "Name": "FashionForward"
+  },
+  {
+    "Name": "HomeLux"
+  },
+  {
+    "Name": "ElectroWave"
+  },
+  {
+    "Name": "MusicMania"
+  },
+  {
+    "Name": "AdventureGear"
+  },
+  {
+    "Name": "TimelessTreasures"
+  },
+  {
+    "Name": "CameraCraze"
+  },
+  {
+    "Name": "ArtisticGems"
+  },
+  {
+    "Name": "HomeElegance"
   }
 ]
